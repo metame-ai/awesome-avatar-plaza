@@ -52,7 +52,9 @@
   Geometry and Appearance**, `arXiv, 2312.08889`, [arxiv](http://arxiv.org/abs/2312.08889v2), [pdf](http://arxiv.org/pdf/2312.08889v2.pdf), cication: [**-1**](None)
 
 	 *Yuanyou Xu, Zongxin Yang, Yi Yang*
-- [[2312.03420] Artist-Friendly Relightable and Animatable Neural Heads](http://arxiv.org/abs/2312.03420)
+- **Artist-Friendly Relightable and Animatable Neural Heads**, `arXiv, 2312.03420`, [arxiv](http://arxiv.org/abs/2312.03420v1), [pdf](http://arxiv.org/pdf/2312.03420v1.pdf), cication: [**-1**](None)
+
+	 *Yingyan Xu, Prashanth Chandran, Sebastian Weiss, Markus Gross, Gaspard Zoss, Derek Bradley*
 - **Text-Guided 3D Face Synthesis -- From Generation to Editing**, `arXiv, 2312.00375`, [arxiv](http://arxiv.org/abs/2312.00375v1), [pdf](http://arxiv.org/pdf/2312.00375v1.pdf), cication: [**-1**](None)
 
 	 *Yunjie Wu, Yapeng Meng, Zhipeng Hu, Lincheng Li, Haoqian Wu, Kun Zhou, Weiwei Xu, Xin Yu*
@@ -178,7 +180,9 @@
   Radiance Fields**, `arXiv, 2307.11418`, [arxiv](http://arxiv.org/abs/2307.11418v3), [pdf](http://arxiv.org/pdf/2307.11418v3.pdf), cication: [**-1**](None)
 
 	 *Sungwon Hwang, Junha Hyung, Daejin Kim, Min-Jung Kim, Jaegul Choo*
-- [[2212.01406] ClipFace: Text-guided Editing of Textured 3D Morphable Models](https://arxiv.org/abs/2212.01406)
+- **ClipFace: Text-guided Editing of Textured 3D Morphable Models**, `arXiv, 2212.01406`, [arxiv](http://arxiv.org/abs/2212.01406v2), [pdf](http://arxiv.org/pdf/2212.01406v2.pdf), cication: [**-1**](None)
+
+	 *Shivangi Aneja, Justus Thies, Angela Dai, Matthias Nießner*
 
 	 · ([shivangi-aneja.github](https://shivangi-aneja.github.io/projects/clipface/))
 - [AlteredAvatar: Stylizing Dynamic 3D Avatars with Fast Style Adaptation](https://alteredavatar.github.io/)

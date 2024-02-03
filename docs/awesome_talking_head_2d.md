@@ -124,7 +124,9 @@
   Reenactment**, `CVPR, 2023`, [arxiv](http://arxiv.org/abs/2306.07579v1), [pdf](http://arxiv.org/pdf/2306.07579v1.pdf), cication: [**4**](https://scholar.google.com/scholar?cites=17513468456716565773&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Ricong Huang, Peiwen Lai, Yipeng Qin, Guanbin Li*
-- [[2306.08990] Emotional Speech-Driven Animation with Content-Emotion Disentanglement](https://arxiv.org/abs/2306.08990)
+- **Emotional Speech-Driven Animation with Content-Emotion Disentanglement**, `arXiv, 2306.08990`, [arxiv](http://arxiv.org/abs/2306.08990v2), [pdf](http://arxiv.org/pdf/2306.08990v2.pdf), cication: [**-1**](None)
+
+	 *Radek Daněček, Kiran Chhatre, Shashank Tripathi, Yandong Wen, Michael J. Black, Timo Bolkart*
 - **Laughing Matters: Introducing Laughing-Face Generation using Diffusion
   Models**, `arXiv, 2305.08854`, [arxiv](http://arxiv.org/abs/2305.08854v2), [pdf](http://arxiv.org/pdf/2305.08854v2.pdf), cication: [**-1**](None)
 
@@ -138,7 +140,10 @@
 - **RADIO: Reference-Agnostic Dubbing Video Synthesis**, `proceedings of the ieee/cvf winter conference on applications …, 2024`, [arxiv](http://arxiv.org/abs/2309.01950v2), [pdf](http://arxiv.org/pdf/2309.01950v2.pdf), cication: [**-1**](None)
 
 	 *Dongyeun Lee, Chaewon Kim, Sangjoon Yu, Jaejun Yoo, Gyeong-Moon Park*
-- [[2306.01415] Learning Landmarks Motion from Speech for Speaker-Agnostic 3D Talking Heads Generation](https://arxiv.org/abs/2306.01415)
+- **Learning Landmarks Motion from Speech for Speaker-Agnostic 3D Talking
+  Heads Generation**, `arXiv, 2306.01415`, [arxiv](http://arxiv.org/abs/2306.01415v2), [pdf](http://arxiv.org/pdf/2306.01415v2.pdf), cication: [**-1**](None)
+
+	 *Federico Nocentini, Claudio Ferrari, Stefano Berretti*
 - **FACTS: Facial Animation Creation using the Transfer of Styles**, `arXiv, 2307.09480`, [arxiv](http://arxiv.org/abs/2307.09480v1), [pdf](http://arxiv.org/pdf/2307.09480v1.pdf), cication: [**-1**](None)
 
 	 *Jack Saunders, Steven Caulkin, Vinay Namboodiri*

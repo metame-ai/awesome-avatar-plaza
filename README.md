@@ -1,12 +1,12 @@
-# Awesome avatar plaza ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+# Awesome Avatar Plaza ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 Daily tracking of awesome avatar papers, projects, and resources. 
 Source: arxiv, [huggingface daily papers](https://huggingface.co/papers), [twitter(X)](https://twitter.com/_akhaliq?lang=en), [github trending](https://github.com/trending), [paper with code](https://github.com/ml-feeds/pwc-feeds), weixin, etc.
 
-- [Awesome avatar plaza ](#awesome-avatar-plaza-)
-  - [Awesome talking head 2D](#awesome-talking-head-2d)
-  - [Awesome head avatar 3D](#awesome-head-avatar-3d)
-  - [Awesome body avatar](#awesome-body-avatar)
+- [Awesome Avatar Plaza ](#awesome-avatar-plaza-)
+	- [Awesome talking head 2D](#awesome-talking-head-2d)
+	- [Awesome head avatar 3D](#awesome-head-avatar-3d)
+	- [Awesome body avatar](#awesome-body-avatar)
 
 ---
 
