@@ -103,7 +103,10 @@
   Attribute-Conditional 3D-Aware Face Generation**, `arXiv, 2208.12550`, [arxiv](http://arxiv.org/abs/2208.12550v2), [pdf](http://arxiv.org/pdf/2208.12550v2.pdf), cication: [**-1**](None)
 
 	 *Jichao Zhang, Aliaksandr Siarohin, Yahui Liu, Hao Tang, Nicu Sebe, Wei Wang*
-- [[2310.06275] High-Fidelity 3D Head Avatars Reconstruction through Spatially-Varying Expression Conditioned Neural Radiance Field](https://arxiv.org/abs/2310.06275)
+- **High-Fidelity 3D Head Avatars Reconstruction through Spatially-Varying
+  Expression Conditioned Neural Radiance Field**, `arXiv, 2310.06275`, [arxiv](http://arxiv.org/abs/2310.06275v1), [pdf](http://arxiv.org/pdf/2310.06275v1.pdf), cication: [**-1**](None)
+
+	 *Minghan Qin, Yifan Liu, Yuelang Xu, Xiaochen Zhao, Yebin Liu, Haoqian Wang*
 - **Towards Practical Capture of High-Fidelity Relightable Avatars**, `arXiv, 2309.04247`, [arxiv](http://arxiv.org/abs/2309.04247v1), [pdf](http://arxiv.org/pdf/2309.04247v1.pdf), cication: [**-1**](None)
 
 	 *Haotian Yang, Mingwu Zheng, Wanquan Feng, Haibin Huang, Yu-Kun Lai, Pengfei Wan, Zhongyuan Wang, Chongyang Ma* · ([huggingface](https://huggingface.co/papers/2309.04247))
