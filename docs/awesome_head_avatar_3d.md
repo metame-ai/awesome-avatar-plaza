@@ -11,6 +11,9 @@
 ---
 
 ## Generating
+- **HeadStudio: Text to Animatable Head Avatars with 3D Gaussian Splatting**, `arXiv, 2402.06149`, [arxiv](http://arxiv.org/abs/2402.06149v1), [pdf](http://arxiv.org/pdf/2402.06149v1.pdf), cication: [**-1**](None)
+
+	 *Zhenglin Zhou, Fan Ma, Hehe Fan, Yi Yang*
 - **PSAvatar: A Point-based Morphable Shape Model for Real-Time Head Avatar
   Animation with 3D Gaussian Splatting**, `arXiv, 2401.12900`, [arxiv](http://arxiv.org/abs/2401.12900v4), [pdf](http://arxiv.org/pdf/2401.12900v4.pdf), cication: [**-1**](None)
 
