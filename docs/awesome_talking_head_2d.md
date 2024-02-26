@@ -124,6 +124,9 @@
   Reenactment**, `CVPR, 2023`, [arxiv](http://arxiv.org/abs/2306.07579v1), [pdf](http://arxiv.org/pdf/2306.07579v1.pdf), cication: [**4**](https://scholar.google.com/scholar?cites=17513468456716565773&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Ricong Huang, Peiwen Lai, Yipeng Qin, Guanbin Li*
+- **Generalizable One-shot Neural Head Avatar**, `NeurIPS, 2024`, [arxiv](http://arxiv.org/abs/2306.08768v1), [pdf](http://arxiv.org/pdf/2306.08768v1.pdf), cication: [**6**](https://scholar.google.com/scholar?cites=3086679006547043034&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Xueting Li, Shalini De Mello, Sifei Liu, Koki Nagano, Umar Iqbal, Jan Kautz* · ([research.nvidia](https://research.nvidia.com/labs/lpr/one-shot-avatar/)) · ([GOHA](https://github.com/NVlabs/GOHA) - NVlabs) ![Star](https://img.shields.io/github/stars/NVlabs/GOHA.svg?style=social&label=Star)
 - **Emotional Speech-Driven Animation with Content-Emotion Disentanglement**, `arXiv, 2306.08990`, [arxiv](http://arxiv.org/abs/2306.08990v2), [pdf](http://arxiv.org/pdf/2306.08990v2.pdf), cication: [**-1**](None)
 
 	 *Radek Daněček, Kiran Chhatre, Shashank Tripathi, Yandong Wen, Michael J. Black, Timo Bolkart*
