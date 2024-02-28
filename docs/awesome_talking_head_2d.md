@@ -7,6 +7,13 @@
 
   
 ## Papers
+- **Learning Dynamic Tetrahedra for High-Quality Talking Head Synthesis**, `arXiv, 2402.17364`, [arxiv](http://arxiv.org/abs/2402.17364v1), [pdf](http://arxiv.org/pdf/2402.17364v1.pdf), cication: [**-1**](None)
+
+	 *Zicheng Zhang, Ruobing Zheng, Ziwen Liu, Congying Han, Tianqi Li, Meng Wang, Tiande Guo, Jingdong Chen, Bonan Li, Ming Yang*
+- **EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with
+  Audio2Video Diffusion Model under Weak Conditions**, `arXiv, 2402.17485`, [arxiv](http://arxiv.org/abs/2402.17485v1), [pdf](http://arxiv.org/pdf/2402.17485v1.pdf), cication: [**-1**](None)
+
+	 *Linrui Tian, Qi Wang, Bang Zhang, Liefeng Bo*
 - [**LipFD**](https://github.com/AaronComo/LipFD) - AaronComo ![Star](https://img.shields.io/github/stars/AaronComo/LipFD.svg?style=social&label=Star)
 
 	 *This repository contains the codes of "Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-syncing DeepFakes".*

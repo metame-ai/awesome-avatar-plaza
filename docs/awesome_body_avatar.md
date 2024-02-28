@@ -7,6 +7,9 @@
 
 
 ## Generation
+- **GEA: Reconstructing Expressive 3D Gaussian Avatar from Monocular Video**, `arXiv, 2402.16607`, [arxiv](http://arxiv.org/abs/2402.16607v1), [pdf](http://arxiv.org/pdf/2402.16607v1.pdf), cication: [**-1**](None)
+
+	 *Xinqi Liu, Chenming Wu, Xing Liu, Jialun Liu, Jinbo Wu, Chen Zhao, Haocheng Feng, Errui Ding, Jingdong Wang* · ([3d-aigc.github](https://3d-aigc.github.io/GEA/))
 - **GALA: Generating Animatable Layered Assets from a Single Scan**, `arXiv, 2401.12979`, [arxiv](http://arxiv.org/abs/2401.12979v1), [pdf](http://arxiv.org/pdf/2401.12979v1.pdf), cication: [**-1**](None)
 
 	 *Taeksoo Kim, Byungjun Kim, Shunsuke Saito, Hanbyul Joo*

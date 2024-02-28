@@ -196,6 +196,10 @@
 - [**Instruct-Video2Avatar**](https://github.com/lsx0101/Instruct-Video2Avatar) - lsx0101 ![Star](https://img.shields.io/github/stars/lsx0101/Instruct-Video2Avatar.svg?style=social&label=Star)
 
 ## Animation
+- **AVI-Talking: Learning Audio-Visual Instructions for Expressive 3D
+  Talking Face Generation**, `arXiv, 2402.16124`, [arxiv](http://arxiv.org/abs/2402.16124v1), [pdf](http://arxiv.org/pdf/2402.16124v1.pdf), cication: [**-1**](None)
+
+	 *Yasheng Sun, Wenqing Chu, Hang Zhou, Kaisiyuan Wang, Hideki Koike*
 - **Media2Face: Co-speech Facial Animation Generation With Multi-Modality
   Guidance**, `arXiv, 2401.15687`, [arxiv](http://arxiv.org/abs/2401.15687v2), [pdf](http://arxiv.org/pdf/2401.15687v2.pdf), cication: [**-1**](None)
 
