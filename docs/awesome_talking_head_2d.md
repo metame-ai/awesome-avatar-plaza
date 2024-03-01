@@ -7,8 +7,13 @@
 
   
 ## Papers
-- [[2402.18122] G4G:A Generic Framework for High Fidelity Talking Face Generation with Fine-grained Intra-modal Alignment](https://arxiv.org/abs/2402.18122)
-- [[2402.18092] Context-aware Talking Face Video Generation](https://arxiv.org/abs/2402.18092)
+- **G4G:A Generic Framework for High Fidelity Talking Face Generation with
+  Fine-grained Intra-modal Alignment**, `arXiv, 2402.18122`, [arxiv](http://arxiv.org/abs/2402.18122v1), [pdf](http://arxiv.org/pdf/2402.18122v1.pdf), cication: [**-1**](None)
+
+	 *Juan Zhang, Jiahao Chen, Cheng Wang, Zhiwang Yu, Tangquan Qi, Di Wu*
+- **Context-aware Talking Face Video Generation**, `arXiv, 2402.18092`, [arxiv](http://arxiv.org/abs/2402.18092v1), [pdf](http://arxiv.org/pdf/2402.18092v1.pdf), cication: [**-1**](None)
+
+	 *Meidai Xuanyuan, Yuwang Wang, Honglei Guo, Qionghai Dai*
 - **Learning Dynamic Tetrahedra for High-Quality Talking Head Synthesis**, `arXiv, 2402.17364`, [arxiv](http://arxiv.org/abs/2402.17364v1), [pdf](http://arxiv.org/pdf/2402.17364v1.pdf), cication: [**-1**](None)
 
 	 *Zicheng Zhang, Ruobing Zheng, Ziwen Liu, Congying Han, Tianqi Li, Meng Wang, Tiande Guo, Jingdong Chen, Bonan Li, Ming Yang*

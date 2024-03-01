@@ -6,7 +6,15 @@
 	- [Misc](#misc)
 
 
+## Survey
+- **Deep Learning for 3D Human Pose Estimation and Mesh Recovery: A Survey**, `arXiv, 2402.18844`, [arxiv](http://arxiv.org/abs/2402.18844v1), [pdf](http://arxiv.org/pdf/2402.18844v1.pdf), cication: [**-1**](None)
+
+	 *Yang Liu, Changzhen Qiu, Zhiyong Zhang* · ([SOTA-3DHPE-HMR](https://github.com/liuyangme/SOTA-3DHPE-HMR) - liuyangme) ![Star](https://img.shields.io/github/stars/liuyangme/SOTA-3DHPE-HMR.svg?style=social&label=Star)
+
 ## Generation
+- [**SKEL**](https://github.com/MarilynKeller/SKEL) - MarilynKeller ![Star](https://img.shields.io/github/stars/MarilynKeller/SKEL.svg?style=social&label=Star)
+
+	 *Release for the Siggraph Asia 2023 SKEL paper "From Skin to Skeleton: Towards Biomechanically Accurate 3D Digital Humans".* · ([download.is.tue.mpg](https://download.is.tue.mpg.de/skel/main_paper.pdf))
 - **GEA: Reconstructing Expressive 3D Gaussian Avatar from Monocular Video**, `arXiv, 2402.16607`, [arxiv](http://arxiv.org/abs/2402.16607v1), [pdf](http://arxiv.org/pdf/2402.16607v1.pdf), cication: [**-1**](None)
 
 	 *Xinqi Liu, Chenming Wu, Xing Liu, Jialun Liu, Jinbo Wu, Chen Zhao, Haocheng Feng, Errui Ding, Jingdong Wang* · ([3d-aigc.github](https://3d-aigc.github.io/GEA/))
