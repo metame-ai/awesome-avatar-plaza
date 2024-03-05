@@ -7,6 +7,7 @@
 
   
 ## Papers
+- [[2403.00274] CustomListener: Text-guided Responsive Interaction for User-friendly Listening Head Generation](https://arxiv.org/abs/2403.00274)
 - **G4G:A Generic Framework for High Fidelity Talking Face Generation with
   Fine-grained Intra-modal Alignment**, `arXiv, 2402.18122`, [arxiv](http://arxiv.org/abs/2402.18122v1), [pdf](http://arxiv.org/pdf/2402.18122v1.pdf), cication: [**-1**](None)
 
