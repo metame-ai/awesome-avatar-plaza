@@ -7,7 +7,10 @@
 
   
 ## Papers
-- [[2403.00274] CustomListener: Text-guided Responsive Interaction for User-friendly Listening Head Generation](https://arxiv.org/abs/2403.00274)
+- **CustomListener: Text-guided Responsive Interaction for User-friendly
+  Listening Head Generation**, `arXiv, 2403.00274`, [arxiv](http://arxiv.org/abs/2403.00274v1), [pdf](http://arxiv.org/pdf/2403.00274v1.pdf), cication: [**-1**](None)
+
+	 *Xi Liu, Ying Guo, Cheng Zhen, Tong Li, Yingying Ao, Pengfei Yan*
 - **G4G:A Generic Framework for High Fidelity Talking Face Generation with
   Fine-grained Intra-modal Alignment**, `arXiv, 2402.18122`, [arxiv](http://arxiv.org/abs/2402.18122v1), [pdf](http://arxiv.org/pdf/2402.18122v1.pdf), cication: [**-1**](None)
 
@@ -186,3 +189,8 @@
 - [**pyvideotrans**](https://github.com/jianchang512/pyvideotrans) - jianchang512 ![Star](https://img.shields.io/github/stars/jianchang512/pyvideotrans.svg?style=social&label=Star)
 
 	 *Translate the video from one language to another and add dubbing. 将视频从一种语言翻译为另一种语言，并添加配音*
+
+## Reference
+- [**Awesome-Talking-Face**](https://github.com/JosephPai/Awesome-Talking-Face) - JosephPai ![Star](https://img.shields.io/github/stars/JosephPai/Awesome-Talking-Face.svg?style=social&label=Star)
+
+	 *📖 A curated list of resources dedicated to talking face.*
