@@ -160,6 +160,9 @@
 	 *Yangyi Huang, Hongwei Yi, Weiyang Liu, Haofan Wang, Boxi Wu, Wenxiao Wang, Binbin Lin, Debing Zhang, Deng Cai*
 
 ## Animation
+- **MMoFusion: Multi-modal Co-Speech Motion Generation with Diffusion Model**, `arXiv, 2403.02905`, [arxiv](http://arxiv.org/abs/2403.02905v1), [pdf](http://arxiv.org/pdf/2403.02905v1.pdf), cication: [**-1**](None)
+
+	 *Sen Wang, Jiangning Zhang, Weijian Cao, Xiaobin Hu, Moran Li, Xiaozhong Ji, Xin Tan, Mengtian Li, Zhifeng Xie, Chengjie Wang*
 - **EMAGE: Towards Unified Holistic Co-Speech Gesture Generation via Masked
   Audio Gesture Modeling**, `arXiv, 2401.00374`, [arxiv](http://arxiv.org/abs/2401.00374v2), [pdf](http://arxiv.org/pdf/2401.00374v2.pdf), cication: [**-1**](None)
 
