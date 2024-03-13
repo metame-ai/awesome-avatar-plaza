@@ -7,6 +7,18 @@
 
   
 ## Papers
+- [[2403.06421] A Comparative Study of Perceptual Quality Metrics for Audio-driven Talking Head Videos](https://arxiv.org/abs/2403.06421)
+- **Style2Talker: High-Resolution Talking Head Generation with Emotion Style
+  and Art Style**, `arXiv, 2403.06365`, [arxiv](http://arxiv.org/abs/2403.06365v2), [pdf](http://arxiv.org/pdf/2403.06365v2.pdf), cication: [**-1**](None)
+
+	 *Shuai Tan, Bin Ji, Ye Pan*
+- **Say Anything with Any Style**, `arXiv, 2403.06363`, [arxiv](http://arxiv.org/abs/2403.06363v1), [pdf](http://arxiv.org/pdf/2403.06363v1.pdf), cication: [**-1**](None)
+
+	 *Shuai Tan, Bin Ji, Yu Ding, Ye Pan*
+- **FlowVQTalker: High-Quality Emotional Talking Face Generation through
+  Normalizing Flow and Quantization**, `arXiv, 2403.06375`, [arxiv](http://arxiv.org/abs/2403.06375v2), [pdf](http://arxiv.org/pdf/2403.06375v2.pdf), cication: [**-1**](None)
+
+	 *Shuai Tan, Bin Ji, Ye Pan*
 - **CustomListener: Text-guided Responsive Interaction for User-friendly
   Listening Head Generation**, `arXiv, 2403.00274`, [arxiv](http://arxiv.org/abs/2403.00274v1), [pdf](http://arxiv.org/pdf/2403.00274v1.pdf), cication: [**-1**](None)
 

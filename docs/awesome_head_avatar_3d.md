@@ -11,6 +11,10 @@
 ---
 
 ## Generating
+- **SplattingAvatar: Realistic Real-Time Human Avatars with Mesh-Embedded
+  Gaussian Splatting**, `arXiv, 2403.05087`, [arxiv](http://arxiv.org/abs/2403.05087v1), [pdf](http://arxiv.org/pdf/2403.05087v1.pdf), cication: [**-1**](None)
+
+	 *Zhijing Shao, Zhaolong Wang, Zhuang Li, Duotun Wang, Xiangru Lin, Yu Zhang, Mingming Fan, Zeyu Wang* · ([SplattingAvatar](https://github.com/initialneil/SplattingAvatar) - initialneil) ![Star](https://img.shields.io/github/stars/initialneil/SplattingAvatar.svg?style=social&label=Star)
 - **HeadStudio: Text to Animatable Head Avatars with 3D Gaussian Splatting**, `arXiv, 2402.06149`, [arxiv](http://arxiv.org/abs/2402.06149v1), [pdf](http://arxiv.org/pdf/2402.06149v1.pdf), cication: [**-1**](None)
 
 	 *Zhenglin Zhou, Fan Ma, Hehe Fan, Yi Yang*
@@ -196,6 +200,11 @@
 - [**Instruct-Video2Avatar**](https://github.com/lsx0101/Instruct-Video2Avatar) - lsx0101 ![Star](https://img.shields.io/github/stars/lsx0101/Instruct-Video2Avatar.svg?style=social&label=Star)
 
 ## Animation
+- **Motion Mamba: Efficient and Long Sequence Motion Generation with
+  Hierarchical and Bidirectional Selective SSM**, `arXiv, 2403.07487`, [arxiv](http://arxiv.org/abs/2403.07487v1), [pdf](http://arxiv.org/pdf/2403.07487v1.pdf), cication: [**-1**](None)
+
+	 *Zeyu Zhang, Akide Liu, Ian Reid, Richard Hartley, Bohan Zhuang, Hao Tang* · ([steve-zeyu-zhang.github](https://steve-zeyu-zhang.github.io/MotionMamba))
+- [[2403.04380] Video-Driven Animation of Neural Head Avatars](https://arxiv.org/abs/2403.04380)
 - **AVI-Talking: Learning Audio-Visual Instructions for Expressive 3D
   Talking Face Generation**, `arXiv, 2402.16124`, [arxiv](http://arxiv.org/abs/2402.16124v1), [pdf](http://arxiv.org/pdf/2402.16124v1.pdf), cication: [**-1**](None)
 

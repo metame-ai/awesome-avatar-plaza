@@ -12,6 +12,9 @@
 	 *Yang Liu, Changzhen Qiu, Zhiyong Zhang* · ([SOTA-3DHPE-HMR](https://github.com/liuyangme/SOTA-3DHPE-HMR) - liuyangme) ![Star](https://img.shields.io/github/stars/liuyangme/SOTA-3DHPE-HMR.svg?style=social&label=Star)
 
 ## Generation
+- **Semantic Human Mesh Reconstruction with Textures**, `arXiv, 2403.02561`, [arxiv](http://arxiv.org/abs/2403.02561v1), [pdf](http://arxiv.org/pdf/2403.02561v1.pdf), cication: [**-1**](None)
+
+	 *Xiaoyu Zhan, Jianxin Yang, Yuanqi Li, Jie Guo, Yanwen Guo, Wenping Wang* · ([zhanxy](https://zhanxy.xyz/projects/shert/))
 - [**SKEL**](https://github.com/MarilynKeller/SKEL) - MarilynKeller ![Star](https://img.shields.io/github/stars/MarilynKeller/SKEL.svg?style=social&label=Star)
 
 	 *Release for the Siggraph Asia 2023 SKEL paper "From Skin to Skeleton: Towards Biomechanically Accurate 3D Digital Humans".* · ([download.is.tue.mpg](https://download.is.tue.mpg.de/skel/main_paper.pdf))
