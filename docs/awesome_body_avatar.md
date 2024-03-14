@@ -207,12 +207,14 @@
 - **DreamHuman: Animatable 3D Avatars from Text**, `arXiv, 2306.09329`, [arxiv](http://arxiv.org/abs/2306.09329v1), [pdf](http://arxiv.org/pdf/2306.09329v1.pdf), cication: [**-1**](None)
 
 	 *Nikos Kolotouros, Thiemo Alldieck, Andrei Zanfir, Eduard Gabriel Bazavan, Mihai Fieraru, Cristian Sminchisescu* · ([dream-human.github](https://dream-human.github.io/))
- ![](media/Pasted%20image%2020230616145944.png)
 - **DreamWaltz: Make a Scene with Complex 3D Animatable Avatars**, `arXiv, 2305.12529`, [arxiv](http://arxiv.org/abs/2305.12529v3), [pdf](http://arxiv.org/pdf/2305.12529v3.pdf), cication: [**-1**](None)
 
 	 *Yukun Huang, Jianan Wang, Ailing Zeng, He Cao, Xianbiao Qi, Yukai Shi, Zheng-Jun Zha, Lei Zhang*
 
 ## Misc
+- **Scaling Up Dynamic Human-Scene Interaction Modeling**, `arXiv, 2403.08629`, [arxiv](http://arxiv.org/abs/2403.08629v1), [pdf](http://arxiv.org/pdf/2403.08629v1.pdf), cication: [**-1**](None)
+
+	 *Nan Jiang, Zhiyuan Zhang, Hongjie Li, Xiaoxuan Ma, Zan Wang, Yixin Chen, Tengyu Liu, Yixin Zhu, Siyuan Huang*
 - **MVHumanNet: A Large-scale Dataset of Multi-view Daily Dressing Human
   Captures**, `arXiv, 2312.02963`, [arxiv](http://arxiv.org/abs/2312.02963v1), [pdf](http://arxiv.org/pdf/2312.02963v1.pdf), cication: [**-1**](None)
 

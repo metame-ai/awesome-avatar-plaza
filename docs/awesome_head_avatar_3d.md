@@ -204,7 +204,9 @@
   Hierarchical and Bidirectional Selective SSM**, `arXiv, 2403.07487`, [arxiv](http://arxiv.org/abs/2403.07487v1), [pdf](http://arxiv.org/pdf/2403.07487v1.pdf), cication: [**-1**](None)
 
 	 *Zeyu Zhang, Akide Liu, Ian Reid, Richard Hartley, Bohan Zhuang, Hao Tang* · ([steve-zeyu-zhang.github](https://steve-zeyu-zhang.github.io/MotionMamba))
-- [[2403.04380] Video-Driven Animation of Neural Head Avatars](https://arxiv.org/abs/2403.04380)
+- **Video-Driven Animation of Neural Head Avatars**, `arXiv, 2403.04380`, [arxiv](http://arxiv.org/abs/2403.04380v1), [pdf](http://arxiv.org/pdf/2403.04380v1.pdf), cication: [**-1**](None)
+
+	 *Wolfgang Paier, Paul Hinzer, Anna Hilsmann, Peter Eisert*
 - **AVI-Talking: Learning Audio-Visual Instructions for Expressive 3D
   Talking Face Generation**, `arXiv, 2402.16124`, [arxiv](http://arxiv.org/abs/2402.16124v1), [pdf](http://arxiv.org/pdf/2402.16124v1.pdf), cication: [**-1**](None)
 

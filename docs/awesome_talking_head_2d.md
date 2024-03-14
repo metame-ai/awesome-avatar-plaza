@@ -7,7 +7,13 @@
 
   
 ## Papers
-- [[2403.06421] A Comparative Study of Perceptual Quality Metrics for Audio-driven Talking Head Videos](https://arxiv.org/abs/2403.06421)
+- **VLOGGER: Multimodal Diffusion for Embodied Avatar Synthesis**, `arXiv, 2403.08764`, [arxiv](http://arxiv.org/abs/2403.08764v1), [pdf](http://arxiv.org/pdf/2403.08764v1.pdf), cication: [**-1**](None)
+
+	 *Enric Corona, Andrei Zanfir, Eduard Gabriel Bazavan, Nikos Kolotouros, Thiemo Alldieck, Cristian Sminchisescu*
+- **A Comparative Study of Perceptual Quality Metrics for Audio-driven
+  Talking Head Videos**, `arXiv, 2403.06421`, [arxiv](http://arxiv.org/abs/2403.06421v1), [pdf](http://arxiv.org/pdf/2403.06421v1.pdf), cication: [**-1**](None)
+
+	 *Weixia Zhang, Chengguang Zhu, Jingnan Gao, Yichao Yan, Guangtao Zhai, Xiaokang Yang*
 - **Style2Talker: High-Resolution Talking Head Generation with Emotion Style
   and Art Style**, `arXiv, 2403.06365`, [arxiv](http://arxiv.org/abs/2403.06365v2), [pdf](http://arxiv.org/pdf/2403.06365v2.pdf), cication: [**-1**](None)
 
