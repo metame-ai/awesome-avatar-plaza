@@ -223,3 +223,8 @@
   Animated Motion**, `arXiv, 2306.16940`, [arxiv](http://arxiv.org/abs/2306.16940v1), [pdf](http://arxiv.org/pdf/2306.16940v1.pdf), cication: [**-1**](None)
 
 	 *Michael J. Black, Priyanka Patel, Joachim Tesch, Jinlong Yang*
+
+## Hand Modeling
+- [[2312.16737] HMP: Hand Motion Priors for Pose and Shape Estimation from Video](https://arxiv.org/abs/2312.16737)
+
+	 · ([HMP](https://github.com/enesduran/HMP) - enesduran) ![Star](https://img.shields.io/github/stars/enesduran/HMP.svg?style=social&label=Star) · ([hmp.is.tue.mpg](https://hmp.is.tue.mpg.de/))
