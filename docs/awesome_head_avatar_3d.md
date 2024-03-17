@@ -11,7 +11,9 @@
 ---
 
 ## Generating
-- [[2403.09326] HeadEvolver: Text to Head Avatars via Locally Learnable Mesh Deformation](https://arxiv.org/abs/2403.09326)
+- **HeadEvolver: Text to Head Avatars via Locally Learnable Mesh Deformation**, `arXiv, 2403.09326`, [arxiv](http://arxiv.org/abs/2403.09326v1), [pdf](http://arxiv.org/pdf/2403.09326v1.pdf), cication: [**-1**](None)
+
+	 *Duotun Wang, Hengyu Meng, Zeyu Cai, Zhijing Shao, Qianxi Liu, Lin Wang, Mingming Fan, Ying Shan, Xiaohang Zhan, Zeyu Wang*
 - **SplattingAvatar: Realistic Real-Time Human Avatars with Mesh-Embedded
   Gaussian Splatting**, `arXiv, 2403.05087`, [arxiv](http://arxiv.org/abs/2403.05087v1), [pdf](http://arxiv.org/pdf/2403.05087v1.pdf), cication: [**-1**](None)
 
