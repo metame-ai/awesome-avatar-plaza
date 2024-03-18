@@ -203,6 +203,9 @@
 - [**Instruct-Video2Avatar**](https://github.com/lsx0101/Instruct-Video2Avatar) - lsx0101 ![Star](https://img.shields.io/github/stars/lsx0101/Instruct-Video2Avatar.svg?style=social&label=Star)
 
 ## Animation
+- [[2310.00434] DiffPoseTalk: Speech-Driven Stylistic 3D Facial Animation and Head Pose Generation via Diffusion Models](https://arxiv.org/abs/2310.00434)
+
+	 · ([diffposetalk.github](https://raineggplant.github.io/DiffPoseTalk/))
 - **Motion Mamba: Efficient and Long Sequence Motion Generation with
   Hierarchical and Bidirectional Selective SSM**, `arXiv, 2403.07487`, [arxiv](http://arxiv.org/abs/2403.07487v1), [pdf](http://arxiv.org/pdf/2403.07487v1.pdf), cication: [**-1**](None)
 
