@@ -12,6 +12,10 @@
 	 *Yang Liu, Changzhen Qiu, Zhiyong Zhang* · ([SOTA-3DHPE-HMR](https://github.com/liuyangme/SOTA-3DHPE-HMR) - liuyangme) ![Star](https://img.shields.io/github/stars/liuyangme/SOTA-3DHPE-HMR.svg?style=social&label=Star)
 
 ## Generation
+- **UV Gaussians: Joint Learning of Mesh Deformation and Gaussian Textures
+  for Human Avatar Modeling**, `arXiv, 2403.11589`, [arxiv](http://arxiv.org/abs/2403.11589v1), [pdf](http://arxiv.org/pdf/2403.11589v1.pdf), cication: [**-1**](None)
+
+	 *Yujiao Jiang, Qingmin Liao, Xiaoyu Li, Li Ma, Qi Zhang, Chaopeng Zhang, Zongqing Lu, Ying Shan*
 - **Semantic Human Mesh Reconstruction with Textures**, `arXiv, 2403.02561`, [arxiv](http://arxiv.org/abs/2403.02561v1), [pdf](http://arxiv.org/pdf/2403.02561v1.pdf), cication: [**-1**](None)
 
 	 *Xiaoyu Zhan, Jianxin Yang, Yuanqi Li, Jie Guo, Yanwen Guo, Wenping Wang* · ([zhanxy](https://zhanxy.xyz/projects/shert/))
@@ -163,6 +167,12 @@
 	 *Yangyi Huang, Hongwei Yi, Weiyang Liu, Haofan Wang, Boxi Wu, Wenxiao Wang, Binbin Lin, Debing Zhang, Deng Cai*
 
 ## Animation
+- **QEAN: Quaternion-Enhanced Attention Network for Visual Dance Generation**, `arXiv, 2403.11626`, [arxiv](http://arxiv.org/abs/2403.11626v1), [pdf](http://arxiv.org/pdf/2403.11626v1.pdf), cication: [**-1**](None)
+
+	 *Zhizhen Zhou, Yejing Huo, Guoheng Huang, An Zeng, Xuhang Chen, Lian Huang, Zinuo Li* · ([google.github](https://google.github.io/aistplusplus_dataset))
+- [Speech-driven Personalized Gesture Synthetics: Harnessing Automatic Fuzzy Feature Inference](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24268702.v3)
+
+	 · ([zf223669.github](https://zf223669.github.io/Diffmotion-v2-website/))
 - **MMoFusion: Multi-modal Co-Speech Motion Generation with Diffusion Model**, `arXiv, 2403.02905`, [arxiv](http://arxiv.org/abs/2403.02905v1), [pdf](http://arxiv.org/pdf/2403.02905v1.pdf), cication: [**-1**](None)
 
 	 *Sen Wang, Jiangning Zhang, Weijian Cao, Xiaobin Hu, Moran Li, Xiaozhong Ji, Xin Tan, Mengtian Li, Zhifeng Xie, Chengjie Wang*
@@ -212,7 +222,9 @@
 	 *Yukun Huang, Jianan Wang, Ailing Zeng, He Cao, Xianbiao Qi, Yukai Shi, Zheng-Jun Zha, Lei Zhang*
 
 ## Body Reconstruction
-- [Site Unreachable](https://arxiv.org/abs/2403.09623)
+- **Score-Guided Diffusion for 3D Human Recovery**, `arXiv, 2403.09623`, [arxiv](http://arxiv.org/abs/2403.09623v1), [pdf](http://arxiv.org/pdf/2403.09623v1.pdf), cication: [**-1**](None)
+
+	 *Anastasis Stathopoulos, Ligong Han, Dimitris Metaxas*
 
 	 · ([scorehmr](https://github.com/statho/scorehmr) - statho) ![Star](https://img.shields.io/github/stars/statho/scorehmr.svg?style=social&label=Star)
 

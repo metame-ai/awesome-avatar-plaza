@@ -203,7 +203,11 @@
 - [**Instruct-Video2Avatar**](https://github.com/lsx0101/Instruct-Video2Avatar) - lsx0101 ![Star](https://img.shields.io/github/stars/lsx0101/Instruct-Video2Avatar.svg?style=social&label=Star)
 
 ## Animation
-- [[2310.00434] DiffPoseTalk: Speech-Driven Stylistic 3D Facial Animation and Head Pose Generation via Diffusion Models](https://arxiv.org/abs/2310.00434)
+
+- **DiffPoseTalk: Speech-Driven Stylistic 3D Facial Animation and Head Pose
+  Generation via Diffusion Models**, `arXiv, 2310.00434`, [arxiv](http://arxiv.org/abs/2310.00434v1), [pdf](http://arxiv.org/pdf/2310.00434v1.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=2714383831825597855&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Zhiyao Sun, Tian Lv, Sheng Ye, Matthieu Gaetan Lin, Jenny Sheng, Yu-Hui Wen, Minjing Yu, Yong-jin Liu*
 
 	 · ([diffposetalk.github](https://raineggplant.github.io/DiffPoseTalk/))
 - **Motion Mamba: Efficient and Long Sequence Motion Generation with
