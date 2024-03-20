@@ -247,3 +247,7 @@
 	 *Enes Duran, Muhammed Kocabas, Vasileios Choutas, Zicong Fan, Michael J. Black*
 
 	 · ([HMP](https://github.com/enesduran/HMP) - enesduran) ![Star](https://img.shields.io/github/stars/enesduran/HMP.svg?style=social&label=Star) · ([hmp.is.tue.mpg](https://hmp.is.tue.mpg.de/))
+- **GRIP: Generating Interaction Poses Using Latent Consistency and Spatial
+  Cues**, `arXiv, 2308.11617`, [arxiv](http://arxiv.org/abs/2308.11617v1), [pdf](http://arxiv.org/pdf/2308.11617v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=882451839874615726&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Omid Taheri, Yi Zhou, Dimitrios Tzionas, Yang Zhou, Duygu Ceylan, Soren Pirk, Michael J. Black* · ([grip.is.tue.mpg](https://grip.is.tue.mpg.de/))

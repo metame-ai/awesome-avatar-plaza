@@ -11,6 +11,9 @@
 ---
 
 ## Generating
+- **ICE: Interactive 3D Game Character Editing via Dialogue**, `arXiv, 2403.12667`, [arxiv](http://arxiv.org/abs/2403.12667v1), [pdf](http://arxiv.org/pdf/2403.12667v1.pdf), cication: [**-1**](None)
+
+	 *Haoqian Wu, Yunjie Wu, Zhipeng Hu, Lincheng Li, Weijie Chen, Rui Zhao, Changjie Fan, Yu Xin* · ([iceedit.github](https://iceedit.github.io/))
 - **HeadEvolver: Text to Head Avatars via Locally Learnable Mesh Deformation**, `arXiv, 2403.09326`, [arxiv](http://arxiv.org/abs/2403.09326v1), [pdf](http://arxiv.org/pdf/2403.09326v1.pdf), cication: [**-1**](None)
 
 	 *Duotun Wang, Hengyu Meng, Zeyu Cai, Zhijing Shao, Qianxi Liu, Lin Wang, Mingming Fan, Ying Shan, Xiaohang Zhan, Zeyu Wang*
@@ -203,7 +206,9 @@
 - [**Instruct-Video2Avatar**](https://github.com/lsx0101/Instruct-Video2Avatar) - lsx0101 ![Star](https://img.shields.io/github/stars/lsx0101/Instruct-Video2Avatar.svg?style=social&label=Star)
 
 ## Animation
+- **EmoVOCA: Speech-Driven Emotional 3D Talking Heads**, `arXiv, 2403.12886`, [arxiv](http://arxiv.org/abs/2403.12886v1), [pdf](http://arxiv.org/pdf/2403.12886v1.pdf), cication: [**-1**](None)
 
+	 *Federico Nocentini, Claudio Ferrari, Stefano Berretti*
 - **DiffPoseTalk: Speech-Driven Stylistic 3D Facial Animation and Head Pose
   Generation via Diffusion Models**, `arXiv, 2310.00434`, [arxiv](http://arxiv.org/abs/2310.00434v1), [pdf](http://arxiv.org/pdf/2310.00434v1.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=2714383831825597855&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
