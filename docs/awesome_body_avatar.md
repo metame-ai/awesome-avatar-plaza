@@ -167,6 +167,11 @@
 	 *Yangyi Huang, Hongwei Yi, Weiyang Liu, Haofan Wang, Boxi Wu, Wenxiao Wang, Binbin Lin, Debing Zhang, Deng Cai*
 
 ## Animation
+- **LaserHuman: Language-guided Scene-aware Human Motion Generation in Free
+  Environment**, `arXiv, 2403.13307`, [arxiv](http://arxiv.org/abs/2403.13307v1), [pdf](http://arxiv.org/pdf/2403.13307v1.pdf), cication: [**-1**](None)
+
+	 *Peishan Cong, Ziyi WangZhiyang Dou, Yiming Ren, Wei Yin, Kai Cheng, Yujing Sun, Xiaoxiao Long, Xinge Zhu, Yuexin Ma*
+- [NeRM: Learning Neural Representations for High-Framerate Human Motion Synthesis | OpenReview](https://openreview.net/forum?id=sOJriBlOFd&noteId=jjdQx27eSh)
 - **QEAN: Quaternion-Enhanced Attention Network for Visual Dance Generation**, `arXiv, 2403.11626`, [arxiv](http://arxiv.org/abs/2403.11626v1), [pdf](http://arxiv.org/pdf/2403.11626v1.pdf), cication: [**-1**](None)
 
 	 *Zhizhen Zhou, Yejing Huo, Guoheng Huang, An Zeng, Xuhang Chen, Lian Huang, Zinuo Li* · ([google.github](https://google.github.io/aistplusplus_dataset))
