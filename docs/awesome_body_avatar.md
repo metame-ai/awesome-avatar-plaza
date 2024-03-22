@@ -167,6 +167,10 @@
 	 *Yangyi Huang, Hongwei Yi, Weiyang Liu, Haofan Wang, Boxi Wu, Wenxiao Wang, Binbin Lin, Debing Zhang, Deng Cai*
 
 ## Animation
+- **CoMo: Controllable Motion Generation through Language Guided Pose Code
+  Editing**, `arXiv, 2403.13900`, [arxiv](http://arxiv.org/abs/2403.13900v1), [pdf](http://arxiv.org/pdf/2403.13900v1.pdf), cication: [**-1**](None)
+
+	 *Yiming Huang, Weilin Wan, Yue Yang, Chris Callison-Burch, Mark Yatskar, Lingjie Liu*
 - **LaserHuman: Language-guided Scene-aware Human Motion Generation in Free
   Environment**, `arXiv, 2403.13307`, [arxiv](http://arxiv.org/abs/2403.13307v1), [pdf](http://arxiv.org/pdf/2403.13307v1.pdf), cication: [**-1**](None)
 
