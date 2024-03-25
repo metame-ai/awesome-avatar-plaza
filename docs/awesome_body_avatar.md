@@ -167,6 +167,10 @@
 	 *Yangyi Huang, Hongwei Yi, Weiyang Liu, Haofan Wang, Boxi Wu, Wenxiao Wang, Binbin Lin, Debing Zhang, Deng Cai*
 
 ## Animation
+- **GPT-Connect: Interaction between Text-Driven Human Motion Generator and
+  3D Scenes in a Training-free Manner**, `arXiv, 2403.14947`, [arxiv](http://arxiv.org/abs/2403.14947v1), [pdf](http://arxiv.org/pdf/2403.14947v1.pdf), cication: [**-1**](None)
+
+	 *Haoxuan Qu, Ziyan Guo, Jun Liu*
 - **CoMo: Controllable Motion Generation through Language Guided Pose Code
   Editing**, `arXiv, 2403.13900`, [arxiv](http://arxiv.org/abs/2403.13900v1), [pdf](http://arxiv.org/pdf/2403.13900v1.pdf), cication: [**-1**](None)
 
