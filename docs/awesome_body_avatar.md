@@ -12,6 +12,7 @@
 	 *Yang Liu, Changzhen Qiu, Zhiyong Zhang* · ([SOTA-3DHPE-HMR](https://github.com/liuyangme/SOTA-3DHPE-HMR) - liuyangme) ![Star](https://img.shields.io/github/stars/liuyangme/SOTA-3DHPE-HMR.svg?style=social&label=Star)
 
 ## Generation
+- [[2403.15612] InterFusion: Text-Driven Generation of 3D Human-Object Interaction](https://arxiv.org/abs/2403.15612)
 - **UV Gaussians: Joint Learning of Mesh Deformation and Gaussian Textures
   for Human Avatar Modeling**, `arXiv, 2403.11589`, [arxiv](http://arxiv.org/abs/2403.11589v1), [pdf](http://arxiv.org/pdf/2403.11589v1.pdf), cication: [**-1**](None)
 
@@ -167,6 +168,12 @@
 	 *Yangyi Huang, Hongwei Yi, Weiyang Liu, Haofan Wang, Boxi Wu, Wenxiao Wang, Binbin Lin, Debing Zhang, Deng Cai*
 
 ## Animation
+- [[2403.15709] Contact-aware Human Motion Generation from Textual Descriptions](https://arxiv.org/abs/2403.15709)
+
+	 · ([xymsh.github](https://xymsh.github.io/RICH-CAT/))
+- [[2403.16510] Make-Your-Anchor: A Diffusion-based 2D Avatar Generation Framework](https://arxiv.org/abs/2403.16510)
+
+	 · ([Make-Your-Anchor](https://github.com/ICTMCG/Make-Your-Anchor) - ICTMCG) ![Star](https://img.shields.io/github/stars/ICTMCG/Make-Your-Anchor.svg?style=social&label=Star)
 - **GPT-Connect: Interaction between Text-Driven Human Motion Generator and
   3D Scenes in a Training-free Manner**, `arXiv, 2403.14947`, [arxiv](http://arxiv.org/abs/2403.14947v1), [pdf](http://arxiv.org/pdf/2403.14947v1.pdf), cication: [**-1**](None)
 
@@ -235,6 +242,9 @@
 	 *Yukun Huang, Jianan Wang, Ailing Zeng, He Cao, Xianbiao Qi, Yukai Shi, Zheng-Jun Zha, Lei Zhang*
 
 ## Body Reconstruction
+- [2403.16080.pdf](https://arxiv.org/pdf/2403.16080.pdf)
+
+	 · ([PKU-DyMVHumans](https://github.com/zhengxyun/PKU-DyMVHumans) - zhengxyun) ![Star](https://img.shields.io/github/stars/zhengxyun/PKU-DyMVHumans.svg?style=social&label=Star) · ([pku-dymvhumans.github](https://pku-dymvhumans.github.io/))
 - **Score-Guided Diffusion for 3D Human Recovery**, `arXiv, 2403.09623`, [arxiv](http://arxiv.org/abs/2403.09623v1), [pdf](http://arxiv.org/pdf/2403.09623v1.pdf), cication: [**-1**](None)
 
 	 *Anastasis Stathopoulos, Ligong Han, Dimitris Metaxas*
