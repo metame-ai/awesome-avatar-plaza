@@ -206,6 +206,9 @@
 - [**Instruct-Video2Avatar**](https://github.com/lsx0101/Instruct-Video2Avatar) - lsx0101 ![Star](https://img.shields.io/github/stars/lsx0101/Instruct-Video2Avatar.svg?style=social&label=Star)
 
 ## Animation
+- **AnimateMe: 4D Facial Expressions via Diffusion Models**, `arXiv, 2403.17213`, [arxiv](http://arxiv.org/abs/2403.17213v1), [pdf](http://arxiv.org/pdf/2403.17213v1.pdf), cication: [**-1**](None)
+
+	 *Dimitrios Gerogiannis, Foivos Paraperas Papantoniou, Rolandos Alexandros Potamias, Alexandros Lattas, Stylianos Moschoglou, Stylianos Ploumpis, Stefanos Zafeiriou*
 - **EmoVOCA: Speech-Driven Emotional 3D Talking Heads**, `arXiv, 2403.12886`, [arxiv](http://arxiv.org/abs/2403.12886v1), [pdf](http://arxiv.org/pdf/2403.12886v1.pdf), cication: [**-1**](None)
 
 	 *Federico Nocentini, Claudio Ferrari, Stefano Berretti*

@@ -12,7 +12,9 @@
 	 *Yang Liu, Changzhen Qiu, Zhiyong Zhang* · ([SOTA-3DHPE-HMR](https://github.com/liuyangme/SOTA-3DHPE-HMR) - liuyangme) ![Star](https://img.shields.io/github/stars/liuyangme/SOTA-3DHPE-HMR.svg?style=social&label=Star)
 
 ## Generation
-- [[2403.15612] InterFusion: Text-Driven Generation of 3D Human-Object Interaction](https://arxiv.org/abs/2403.15612)
+- **InterFusion: Text-Driven Generation of 3D Human-Object Interaction**, `arXiv, 2403.15612`, [arxiv](http://arxiv.org/abs/2403.15612v1), [pdf](http://arxiv.org/pdf/2403.15612v1.pdf), cication: [**-1**](None)
+
+	 *Sisi Dai, Wenhao Li, Haowen Sun, Haibin Huang, Chongyang Ma, Hui Huang, Kai Xu, Ruizhen Hu*
 - **UV Gaussians: Joint Learning of Mesh Deformation and Gaussian Textures
   for Human Avatar Modeling**, `arXiv, 2403.11589`, [arxiv](http://arxiv.org/abs/2403.11589v1), [pdf](http://arxiv.org/pdf/2403.11589v1.pdf), cication: [**-1**](None)
 
@@ -168,7 +170,9 @@
 	 *Yangyi Huang, Hongwei Yi, Weiyang Liu, Haofan Wang, Boxi Wu, Wenxiao Wang, Binbin Lin, Debing Zhang, Deng Cai*
 
 ## Animation
-- [[2403.15709] Contact-aware Human Motion Generation from Textual Descriptions](https://arxiv.org/abs/2403.15709)
+- **Contact-aware Human Motion Generation from Textual Descriptions**, `arXiv, 2403.15709`, [arxiv](http://arxiv.org/abs/2403.15709v1), [pdf](http://arxiv.org/pdf/2403.15709v1.pdf), cication: [**-1**](None)
+
+	 *Sihan Ma, Qiong Cao, Jing Zhang, Dacheng Tao*
 
 	 · ([xymsh.github](https://xymsh.github.io/RICH-CAT/))
 - [[2403.16510] Make-Your-Anchor: A Diffusion-based 2D Avatar Generation Framework](https://arxiv.org/abs/2403.16510)

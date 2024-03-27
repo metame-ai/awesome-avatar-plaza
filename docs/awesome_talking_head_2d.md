@@ -5,8 +5,18 @@
 	- [Extra](#extra)
 	- [Tools](#tools)
 
-  
 ## Papers
+- **AniArtAvatar: Animatable 3D Art Avatar from a Single Image**, `arXiv, 2403.17631`, [arxiv](http://arxiv.org/abs/2403.17631v1), [pdf](http://arxiv.org/pdf/2403.17631v1.pdf), cication: [**-1**](None)
+
+	 *Shaoxu Li*
+- **AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation**, `arXiv, 2403.17694`, [arxiv](http://arxiv.org/abs/2403.17694v1), [pdf](http://arxiv.org/pdf/2403.17694v1.pdf), cication: [**-1**](None)
+
+	 *Huawei Wei, Zejun Yang, Zhisheng Wang* · ([AniPortrait](https://github.com/scutzzj/AniPortrait) - scutzzj) ![Star](https://img.shields.io/github/stars/scutzzj/AniPortrait.svg?style=social&label=Star)
+- [FG-EmoTalk: Talking Head Video Generation with Fine-Grained Controllable Facial Expressions](https://www.scholar-inbox.com/papers/Sun2024AAAI_FG_EmoTalk_Talking_Head.pdf)
+- **DiffusionAct: Controllable Diffusion Autoencoder for One-shot Face
+  Reenactment**, `arXiv, 2403.17217`, [arxiv](http://arxiv.org/abs/2403.17217v1), [pdf](http://arxiv.org/pdf/2403.17217v1.pdf), cication: [**-1**](None)
+
+	 *Stella Bounareli, Christos Tzelepis, Vasileios Argyriou, Ioannis Patras, Georgios Tzimiropoulos* · ([stelabou.github](https://stelabou.github.io/diffusionact/)) · ([Diffusion-Act](https://github.com/StelaBou/Diffusion-Act) - StelaBou) ![Star](https://img.shields.io/github/stars/StelaBou/Diffusion-Act.svg?style=social&label=Star)
 - **VLOGGER: Multimodal Diffusion for Embodied Avatar Synthesis**, `arXiv, 2403.08764`, [arxiv](http://arxiv.org/abs/2403.08764v1), [pdf](http://arxiv.org/pdf/2403.08764v1.pdf), cication: [**-1**](None)
 
 	 *Enric Corona, Andrei Zanfir, Eduard Gabriel Bazavan, Nikos Kolotouros, Thiemo Alldieck, Cristian Sminchisescu*
@@ -209,6 +219,7 @@
 	 *Translate the video from one language to another and add dubbing. 将视频从一种语言翻译为另一种语言，并添加配音*
 
 ## Products
+- [Arcads - Create engaging video ads using AI](https://www.arcads.ai/)
 - [Tavus | Developers](https://www.tavus.io/developer)
 
 	 · ([techcrunch](https://techcrunch.com/2024/03/12/generative-ai-video-startup-tavus-raises-18m-to-bring-face-and-voice-cloning-to-any-app/))
