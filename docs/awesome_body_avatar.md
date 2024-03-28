@@ -170,12 +170,18 @@
 	 *Yangyi Huang, Hongwei Yi, Weiyang Liu, Haofan Wang, Boxi Wu, Wenxiao Wang, Binbin Lin, Debing Zhang, Deng Cai*
 
 ## Animation
+- **ParCo: Part-Coordinating Text-to-Motion Synthesis**, `arXiv, 2403.18512`, [arxiv](http://arxiv.org/abs/2403.18512v1), [pdf](http://arxiv.org/pdf/2403.18512v1.pdf), cication: [**-1**](None)
+
+	 *Qiran Zou, Shangyuan Yuan, Shian Du, Yu Wang, Chang Liu, Yi Xu, Jie Chen, Xiangyang Ji* · ([ParCo](https://github.com/qrzou/ParCo) - qrzou) ![Star](https://img.shields.io/github/stars/qrzou/ParCo.svg?style=social&label=Star)
+- [[2403.18036] Move as You Say, Interact as You Can: Language-guided Human Motion Generation with Scene Affordance](https://arxiv.org/abs/2403.18036)
 - **Contact-aware Human Motion Generation from Textual Descriptions**, `arXiv, 2403.15709`, [arxiv](http://arxiv.org/abs/2403.15709v1), [pdf](http://arxiv.org/pdf/2403.15709v1.pdf), cication: [**-1**](None)
 
 	 *Sihan Ma, Qiong Cao, Jing Zhang, Dacheng Tao*
 
 	 · ([xymsh.github](https://xymsh.github.io/RICH-CAT/))
-- [[2403.16510] Make-Your-Anchor: A Diffusion-based 2D Avatar Generation Framework](https://arxiv.org/abs/2403.16510)
+- **Make-Your-Anchor: A Diffusion-based 2D Avatar Generation Framework**, `arXiv, 2403.16510`, [arxiv](http://arxiv.org/abs/2403.16510v1), [pdf](http://arxiv.org/pdf/2403.16510v1.pdf), cication: [**-1**](None)
+
+	 *Ziyao Huang, Fan Tang, Yong Zhang, Xiaodong Cun, Juan Cao, Jintao Li, Tong-Yee Lee*
 
 	 · ([Make-Your-Anchor](https://github.com/ICTMCG/Make-Your-Anchor) - ICTMCG) ![Star](https://img.shields.io/github/stars/ICTMCG/Make-Your-Anchor.svg?style=social&label=Star)
 - **GPT-Connect: Interaction between Text-Driven Human Motion Generator and
@@ -246,7 +252,10 @@
 	 *Yukun Huang, Jianan Wang, Ailing Zeng, He Cao, Xianbiao Qi, Yukai Shi, Zheng-Jun Zha, Lei Zhang*
 
 ## Body Reconstruction
-- [2403.16080.pdf](https://arxiv.org/pdf/2403.16080.pdf)
+- **PKU-DyMVHumans: A Multi-View Video Benchmark for High-Fidelity Dynamic
+  Human Modeling**, `arXiv, 2403.16080`, [arxiv](http://arxiv.org/abs/2403.16080v2), [pdf](http://arxiv.org/pdf/2403.16080v2.pdf), cication: [**-1**](None)
+
+	 *Xiaoyun Zheng, Liwei Liao, Xufeng Li, Jianbo Jiao, Rongjie Wang, Feng Gao, Shiqi Wang, Ronggang Wang*
 
 	 · ([PKU-DyMVHumans](https://github.com/zhengxyun/PKU-DyMVHumans) - zhengxyun) ![Star](https://img.shields.io/github/stars/zhengxyun/PKU-DyMVHumans.svg?style=social&label=Star) · ([pku-dymvhumans.github](https://pku-dymvhumans.github.io/))
 - **Score-Guided Diffusion for 3D Human Recovery**, `arXiv, 2403.09623`, [arxiv](http://arxiv.org/abs/2403.09623v1), [pdf](http://arxiv.org/pdf/2403.09623v1.pdf), cication: [**-1**](None)
