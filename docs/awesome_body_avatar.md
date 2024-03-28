@@ -173,7 +173,10 @@
 - **ParCo: Part-Coordinating Text-to-Motion Synthesis**, `arXiv, 2403.18512`, [arxiv](http://arxiv.org/abs/2403.18512v1), [pdf](http://arxiv.org/pdf/2403.18512v1.pdf), cication: [**-1**](None)
 
 	 *Qiran Zou, Shangyuan Yuan, Shian Du, Yu Wang, Chang Liu, Yi Xu, Jie Chen, Xiangyang Ji* · ([ParCo](https://github.com/qrzou/ParCo) - qrzou) ![Star](https://img.shields.io/github/stars/qrzou/ParCo.svg?style=social&label=Star)
-- [[2403.18036] Move as You Say, Interact as You Can: Language-guided Human Motion Generation with Scene Affordance](https://arxiv.org/abs/2403.18036)
+- **Move as You Say, Interact as You Can: Language-guided Human Motion
+  Generation with Scene Affordance**, `arXiv, 2403.18036`, [arxiv](http://arxiv.org/abs/2403.18036v1), [pdf](http://arxiv.org/pdf/2403.18036v1.pdf), cication: [**-1**](None)
+
+	 *Zan Wang, Yixin Chen, Baoxiong Jia, Puhao Li, Jinlu Zhang, Jingze Zhang, Tengyu Liu, Yixin Zhu, Wei Liang, Siyuan Huang*
 - **Contact-aware Human Motion Generation from Textual Descriptions**, `arXiv, 2403.15709`, [arxiv](http://arxiv.org/abs/2403.15709v1), [pdf](http://arxiv.org/pdf/2403.15709v1.pdf), cication: [**-1**](None)
 
 	 *Sihan Ma, Qiong Cao, Jing Zhang, Dacheng Tao*
