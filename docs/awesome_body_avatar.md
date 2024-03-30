@@ -272,7 +272,9 @@
 	 · ([scorehmr](https://github.com/statho/scorehmr) - statho) ![Star](https://img.shields.io/github/stars/statho/scorehmr.svg?style=social&label=Star)
 
 ## Misc
-- [[2403.19652] InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction](https://arxiv.org/abs/2403.19652)
+- **InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction**, `arXiv, 2403.19652`, [arxiv](http://arxiv.org/abs/2403.19652v1), [pdf](http://arxiv.org/pdf/2403.19652v1.pdf), cication: [**-1**](None)
+
+	 *Sirui Xu, Ziyin Wang, Yu-Xiong Wang, Liang-Yan Gui*
 
 	 · ([sirui-xu.github](https://sirui-xu.github.io/InterDreamer/))
 - **Scaling Up Dynamic Human-Scene Interaction Modeling**, `arXiv, 2403.08629`, [arxiv](http://arxiv.org/abs/2403.08629v1), [pdf](http://arxiv.org/pdf/2403.08629v1.pdf), cication: [**-1**](None)
