@@ -6,6 +6,13 @@
 	- [Tools](#tools)
 
 ## Papers
+- **MoDiTalker: Motion-Disentangled Diffusion Model for High-Fidelity
+  Talking Head Generation**, `arXiv, 2403.19144`, [arxiv](http://arxiv.org/abs/2403.19144v1), [pdf](http://arxiv.org/pdf/2403.19144v1.pdf), cication: [**-1**](None)
+
+	 *Seyeon Kim, Siyoon Jin, Jihye Park, Kihong Kim, Jiyoung Kim, Jisu Nam, Seungryong Kim*
+- [**MuseV**](https://github.com/TMElyralab/MuseV) - TMElyralab ![Star](https://img.shields.io/github/stars/TMElyralab/MuseV.svg?style=social&label=Star)
+
+	 *MuseV: Infinite-length and High Fidelity Virtual Human Video Generation with Visual Conditioned Parallel Denoising* · ([mp.weixin.qq](https://mp.weixin.qq.com/s/6sR6lnNlr0z78jfOZob7Xg))
 - **AniArtAvatar: Animatable 3D Art Avatar from a Single Image**, `arXiv, 2403.17631`, [arxiv](http://arxiv.org/abs/2403.17631v1), [pdf](http://arxiv.org/pdf/2403.17631v1.pdf), cication: [**-1**](None)
 
 	 *Shaoxu Li*
@@ -226,6 +233,8 @@
 
 	 · ([techcrunch](https://techcrunch.com/2024/03/12/generative-ai-video-startup-tavus-raises-18m-to-bring-face-and-voice-cloning-to-any-app/))
 - [Pipio | Video Dubbing](https://www.pipio.ai/video-dubbing)
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-03-28-8))
 
 ## Reference
 - [**Awesome-Talking-Face**](https://github.com/JosephPai/Awesome-Talking-Face) - JosephPai ![Star](https://img.shields.io/github/stars/JosephPai/Awesome-Talking-Face.svg?style=social&label=Star)

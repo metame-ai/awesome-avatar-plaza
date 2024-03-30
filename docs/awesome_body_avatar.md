@@ -170,6 +170,10 @@
 	 *Yangyi Huang, Hongwei Yi, Weiyang Liu, Haofan Wang, Boxi Wu, Wenxiao Wang, Binbin Lin, Debing Zhang, Deng Cai*
 
 ## Animation
+- **Beyond Talking -- Generating Holistic 3D Human Dyadic Motion for
+  Communication**, `arXiv, 2403.19467`, [arxiv](http://arxiv.org/abs/2403.19467v1), [pdf](http://arxiv.org/pdf/2403.19467v1.pdf), cication: [**-1**](None)
+
+	 *Mingze Sun, Chao Xu, Xinyu Jiang, Yang Liu, Baigui Sun, Ruqi Huang*
 - **ParCo: Part-Coordinating Text-to-Motion Synthesis**, `arXiv, 2403.18512`, [arxiv](http://arxiv.org/abs/2403.18512v1), [pdf](http://arxiv.org/pdf/2403.18512v1.pdf), cication: [**-1**](None)
 
 	 *Qiran Zou, Shangyuan Yuan, Shian Du, Yu Wang, Chang Liu, Yi Xu, Jie Chen, Xiangyang Ji* · ([ParCo](https://github.com/qrzou/ParCo) - qrzou) ![Star](https://img.shields.io/github/stars/qrzou/ParCo.svg?style=social&label=Star)
@@ -268,6 +272,9 @@
 	 · ([scorehmr](https://github.com/statho/scorehmr) - statho) ![Star](https://img.shields.io/github/stars/statho/scorehmr.svg?style=social&label=Star)
 
 ## Misc
+- [[2403.19652] InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction](https://arxiv.org/abs/2403.19652)
+
+	 · ([sirui-xu.github](https://sirui-xu.github.io/InterDreamer/))
 - **Scaling Up Dynamic Human-Scene Interaction Modeling**, `arXiv, 2403.08629`, [arxiv](http://arxiv.org/abs/2403.08629v1), [pdf](http://arxiv.org/pdf/2403.08629v1.pdf), cication: [**-1**](None)
 
 	 *Nan Jiang, Zhiyuan Zhang, Hongjie Li, Xiaoxuan Ma, Zan Wang, Yixin Chen, Tengyu Liu, Yixin Zhu, Siyuan Huang*
