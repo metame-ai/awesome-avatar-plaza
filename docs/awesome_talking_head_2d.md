@@ -6,6 +6,10 @@
 	- [Tools](#tools)
 
 ## Papers
+- **Talk3D: High-Fidelity Talking Portrait Synthesis via Personalized 3D
+  Generative Prior**, `arXiv, 2403.20153`, [arxiv](http://arxiv.org/abs/2403.20153v1), [pdf](http://arxiv.org/pdf/2403.20153v1.pdf), cication: [**-1**](None)
+
+	 *Jaehoon Ko, Kyusun Cho, Joungbin Lee, Heeji Yoon, Sangmin Lee, Sangjun Ahn, Seungryong Kim* · ([ku-cvlab.github](https://ku-cvlab.github.io/Talk3D/))
 - **MoDiTalker: Motion-Disentangled Diffusion Model for High-Fidelity
   Talking Head Generation**, `arXiv, 2403.19144`, [arxiv](http://arxiv.org/abs/2403.19144v1), [pdf](http://arxiv.org/pdf/2403.19144v1.pdf), cication: [**-1**](None)
 
