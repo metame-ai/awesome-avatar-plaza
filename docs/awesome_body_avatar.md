@@ -12,6 +12,9 @@
 	 *Yang Liu, Changzhen Qiu, Zhiyong Zhang* · ([SOTA-3DHPE-HMR](https://github.com/liuyangme/SOTA-3DHPE-HMR) - liuyangme) ![Star](https://img.shields.io/github/stars/liuyangme/SOTA-3DHPE-HMR.svg?style=social&label=Star)
 
 ## Generation
+- [[2404.00524] TexVocab: Texture Vocabulary-conditioned Human Avatars](https://arxiv.org/abs/2404.00524)
+
+	 · ([texvocab.github](https://texvocab.github.io/))
 - **InterFusion: Text-Driven Generation of 3D Human-Object Interaction**, `arXiv, 2403.15612`, [arxiv](http://arxiv.org/abs/2403.15612v1), [pdf](http://arxiv.org/pdf/2403.15612v1.pdf), cication: [**-1**](None)
 
 	 *Sisi Dai, Wenhao Li, Haowen Sun, Haibin Huang, Chongyang Ma, Hui Huang, Kai Xu, Ruizhen Hu*
@@ -170,6 +173,12 @@
 	 *Yangyi Huang, Hongwei Yi, Weiyang Liu, Haofan Wang, Boxi Wu, Wenxiao Wang, Binbin Lin, Debing Zhang, Deng Cai*
 
 ## Animation
+- [2404.00368.pdf](https://arxiv.org/pdf/2404.00368.pdf)
+
+	 · ([feifeifeiliu.github](https://feifeifeiliu.github.io/probtalk/))
+- [[2404.00562] Text2HOI: Text-guided 3D Motion Generation for Hand-Object Interaction](https://arxiv.org/abs/2404.00562)
+
+	 · ([Text2HOI](https://github.com/JunukCha/Text2HOI/blob/main) - JunukCha) ![Star](https://img.shields.io/github/stars/JunukCha/Text2HOI.svg?style=social&label=Star)
 - **Beyond Talking -- Generating Holistic 3D Human Dyadic Motion for
   Communication**, `arXiv, 2403.19467`, [arxiv](http://arxiv.org/abs/2403.19467v1), [pdf](http://arxiv.org/pdf/2403.19467v1.pdf), cication: [**-1**](None)
 

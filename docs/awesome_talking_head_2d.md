@@ -6,6 +6,9 @@
 	- [Tools](#tools)
 
 ## Papers
+- **Adaptive Super Resolution For One-Shot Talking-Head Generation**, `icassp 2024-2024 ieee international conference on acoustics …, 2024`, [arxiv](http://arxiv.org/abs/2403.15944v1), [pdf](http://arxiv.org/pdf/2403.15944v1.pdf), cication: [**-1**](None)
+
+	 *Luchuan Song, Pinxin Liu, Guojun Yin, Chenliang Xu* · ([adasr-talkinghead](https://github.com/songluchuan/adasr-talkinghead?tab=readme-ov-file) - songluchuan) ![Star](https://img.shields.io/github/stars/songluchuan/adasr-talkinghead.svg?style=social&label=Star)
 - **Talk3D: High-Fidelity Talking Portrait Synthesis via Personalized 3D
   Generative Prior**, `arXiv, 2403.20153`, [arxiv](http://arxiv.org/abs/2403.20153v1), [pdf](http://arxiv.org/pdf/2403.20153v1.pdf), cication: [**-1**](None)
 
@@ -17,6 +20,8 @@
 - [**MuseV**](https://github.com/TMElyralab/MuseV) - TMElyralab ![Star](https://img.shields.io/github/stars/TMElyralab/MuseV.svg?style=social&label=Star)
 
 	 *MuseV: Infinite-length and High Fidelity Virtual Human Video Generation with Visual Conditioned Parallel Denoising* · ([mp.weixin.qq](https://mp.weixin.qq.com/s/6sR6lnNlr0z78jfOZob7Xg))
+
+	 · ([huggingface](https://huggingface.co/spaces/AnchorFake/MuseVDemo))
 - **AniArtAvatar: Animatable 3D Art Avatar from a Single Image**, `arXiv, 2403.17631`, [arxiv](http://arxiv.org/abs/2403.17631v1), [pdf](http://arxiv.org/pdf/2403.17631v1.pdf), cication: [**-1**](None)
 
 	 *Shaoxu Li*
