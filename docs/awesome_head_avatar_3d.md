@@ -11,6 +11,14 @@
 ---
 
 ## Generating
+- **Efficient 3D Implicit Head Avatar with Mesh-anchored Hash Table
+  Blendshapes**, `arXiv, 2404.01543`, [arxiv](http://arxiv.org/abs/2404.01543v1), [pdf](http://arxiv.org/pdf/2404.01543v1.pdf), cication: [**-1**](None)
+
+	 *Ziqian Bai, Feitong Tan, Sean Fanello, Rohit Pandey, Mingsong Dou, Shichen Liu, Ping Tan, Yinda Zhang* · ([augmentedperception.github](https://augmentedperception.github.io/monoavatar-plus))
+- **GeneAvatar: Generic Expression-Aware Volumetric Head Avatar Editing from
+  a Single Image**, `arXiv, 2404.02152`, [arxiv](http://arxiv.org/abs/2404.02152v1), [pdf](http://arxiv.org/pdf/2404.02152v1.pdf), cication: [**-1**](None)
+
+	 *Chong Bao, Yinda Zhang, Yuan Li, Xiyu Zhang, Bangbang Yang, Hujun Bao, Marc Pollefeys, Guofeng Zhang, Zhaopeng Cui* · ([zju3dv.github](https://zju3dv.github.io/geneavatar/))
 - **ICE: Interactive 3D Game Character Editing via Dialogue**, `arXiv, 2403.12667`, [arxiv](http://arxiv.org/abs/2403.12667v1), [pdf](http://arxiv.org/pdf/2403.12667v1.pdf), cication: [**-1**](None)
 
 	 *Haoqian Wu, Yunjie Wu, Zhipeng Hu, Lincheng Li, Weijie Chen, Rui Zhao, Changjie Fan, Yu Xin* · ([iceedit.github](https://iceedit.github.io/))

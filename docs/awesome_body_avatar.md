@@ -12,7 +12,18 @@
 	 *Yang Liu, Changzhen Qiu, Zhiyong Zhang* · ([SOTA-3DHPE-HMR](https://github.com/liuyangme/SOTA-3DHPE-HMR) - liuyangme) ![Star](https://img.shields.io/github/stars/liuyangme/SOTA-3DHPE-HMR.svg?style=social&label=Star)
 
 ## Generation
-- [[2404.00524] TexVocab: Texture Vocabulary-conditioned Human Avatars](https://arxiv.org/abs/2404.00524)
+- **StructLDM: Structured Latent Diffusion for 3D Human Generation**, `arXiv, 2404.01241`, [arxiv](http://arxiv.org/abs/2404.01241v2), [pdf](http://arxiv.org/pdf/2404.01241v2.pdf), cication: [**-1**](None)
+
+	 *Tao Hu, Fangzhou Hong, Ziwei Liu* · ([StructLDM](https://github.com/TaoHuUMD/StructLDM) - TaoHuUMD) ![Star](https://img.shields.io/github/stars/TaoHuUMD/StructLDM.svg?style=social&label=Star) · ([taohuumd.github](https://taohuumd.github.io/projects/StructLDM/))
+- **HAHA: Highly Articulated Gaussian Human Avatars with Textured Mesh Prior**, `arXiv, 2404.01053`, [arxiv](http://arxiv.org/abs/2404.01053v1), [pdf](http://arxiv.org/pdf/2404.01053v1.pdf), cication: [**-1**](None)
+
+	 *David Svitov, Pietro Morerio, Lourdes Agapito, Alessio Del Bue*
+- **FashionEngine: Interactive Generation and Editing of 3D Clothed Humans**, `arXiv, 2404.01655`, [arxiv](http://arxiv.org/abs/2404.01655v1), [pdf](http://arxiv.org/pdf/2404.01655v1.pdf), cication: [**-1**](None)
+
+	 *Tao Hu, Fangzhou Hong, Zhaoxi Chen, Ziwei Liu* · ([taohuumd.github](https://taohuumd.github.io/projects/FashionEngine/)) · ([FashionEngine](https://github.com/TaoHuUMD/FashionEngine) - TaoHuUMD) ![Star](https://img.shields.io/github/stars/TaoHuUMD/FashionEngine.svg?style=social&label=Star)
+- **TexVocab: Texture Vocabulary-conditioned Human Avatars**, `arXiv, 2404.00524`, [arxiv](http://arxiv.org/abs/2404.00524v1), [pdf](http://arxiv.org/pdf/2404.00524v1.pdf), cication: [**-1**](None)
+
+	 *Yuxiao Liu, Zhe Li, Yebin Liu, Haoqian Wang*
 
 	 · ([texvocab.github](https://texvocab.github.io/))
 - **InterFusion: Text-Driven Generation of 3D Human-Object Interaction**, `arXiv, 2403.15612`, [arxiv](http://arxiv.org/abs/2403.15612v1), [pdf](http://arxiv.org/pdf/2403.15612v1.pdf), cication: [**-1**](None)
@@ -173,10 +184,20 @@
 	 *Yangyi Huang, Hongwei Yi, Weiyang Liu, Haofan Wang, Boxi Wu, Wenxiao Wang, Binbin Lin, Debing Zhang, Deng Cai*
 
 ## Animation
-- [2404.00368.pdf](https://arxiv.org/pdf/2404.00368.pdf)
+- **MotionChain: Conversational Motion Controllers via Multimodal Prompts**, `arXiv, 2404.01700`, [arxiv](http://arxiv.org/abs/2404.01700v2), [pdf](http://arxiv.org/pdf/2404.01700v2.pdf), cication: [**-1**](None)
+
+	 *Biao Jiang, Xin Chen, Chi Zhang, Fukun Yin, Zhuoyuan Li, Gang YU, Jiayuan Fan*
+- **Large Motion Model for Unified Multi-Modal Motion Generation**, `arXiv, 2404.01284`, [arxiv](http://arxiv.org/abs/2404.01284v1), [pdf](http://arxiv.org/pdf/2404.01284v1.pdf), cication: [**-1**](None)
+
+	 *Mingyuan Zhang, Daisheng Jin, Chenyang Gu, Fangzhou Hong, Zhongang Cai, Jingfang Huang, Chongzhi Zhang, Xinying Guo, Lei Yang, Ying He* · ([mingyuan-zhang.github](https://mingyuan-zhang.github.io/projects/LMM.html))
+- **Towards Variable and Coordinated Holistic Co-Speech Motion Generation**, `arXiv, 2404.00368`, [arxiv](http://arxiv.org/abs/2404.00368v1), [pdf](http://arxiv.org/pdf/2404.00368v1.pdf), cication: [**-1**](None)
+
+	 *Yifei Liu, Qiong Cao, Yandong Wen, Huaiguang Jiang, Changxing Ding*
 
 	 · ([feifeifeiliu.github](https://feifeifeiliu.github.io/probtalk/))
-- [[2404.00562] Text2HOI: Text-guided 3D Motion Generation for Hand-Object Interaction](https://arxiv.org/abs/2404.00562)
+- **Text2HOI: Text-guided 3D Motion Generation for Hand-Object Interaction**, `arXiv, 2404.00562`, [arxiv](http://arxiv.org/abs/2404.00562v2), [pdf](http://arxiv.org/pdf/2404.00562v2.pdf), cication: [**-1**](None)
+
+	 *Junuk Cha, Jihyeon Kim, Jae Shin Yoon, Seungryul Baek*
 
 	 · ([Text2HOI](https://github.com/JunukCha/Text2HOI/blob/main) - JunukCha) ![Star](https://img.shields.io/github/stars/JunukCha/Text2HOI.svg?style=social&label=Star)
 - **Beyond Talking -- Generating Holistic 3D Human Dyadic Motion for

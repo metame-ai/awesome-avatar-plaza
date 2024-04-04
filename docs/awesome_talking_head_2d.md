@@ -6,6 +6,9 @@
 	- [Tools](#tools)
 
 ## Papers
+- **EDTalk: Efficient Disentanglement for Emotional Talking Head Synthesis**, `arXiv, 2404.01647`, [arxiv](http://arxiv.org/abs/2404.01647v1), [pdf](http://arxiv.org/pdf/2404.01647v1.pdf), cication: [**-1**](None)
+
+	 *Shuai Tan, Bin Ji, Mengxiao Bi, Ye Pan* · ([tanshuai0219.github](https://tanshuai0219.github.io/EDTalk/)) · ([EDTalk](https://github.com/tanshuai0219/EDTalk) - tanshuai0219) ![Star](https://img.shields.io/github/stars/tanshuai0219/EDTalk.svg?style=social&label=Star)
 - **Adaptive Super Resolution For One-Shot Talking-Head Generation**, `icassp 2024-2024 ieee international conference on acoustics …, 2024`, [arxiv](http://arxiv.org/abs/2403.15944v1), [pdf](http://arxiv.org/pdf/2403.15944v1.pdf), cication: [**-1**](None)
 
 	 *Luchuan Song, Pinxin Liu, Guojun Yin, Chenliang Xu* · ([adasr-talkinghead](https://github.com/songluchuan/adasr-talkinghead?tab=readme-ov-file) - songluchuan) ![Star](https://img.shields.io/github/stars/songluchuan/adasr-talkinghead.svg?style=social&label=Star)
@@ -17,6 +20,8 @@
   Talking Head Generation**, `arXiv, 2403.19144`, [arxiv](http://arxiv.org/abs/2403.19144v1), [pdf](http://arxiv.org/pdf/2403.19144v1.pdf), cication: [**-1**](None)
 
 	 *Seyeon Kim, Siyoon Jin, Jihye Park, Kihong Kim, Jiyoung Kim, Jisu Nam, Seungryong Kim*
+
+	 · ([MoDiTalker](https://github.com/KU-CVLAB/MoDiTalker) - KU-CVLAB) ![Star](https://img.shields.io/github/stars/KU-CVLAB/MoDiTalker.svg?style=social&label=Star) · ([ku-cvlab.github](https://ku-cvlab.github.io/MoDiTalker/))
 - [**MuseV**](https://github.com/TMElyralab/MuseV) - TMElyralab ![Star](https://img.shields.io/github/stars/TMElyralab/MuseV.svg?style=social&label=Star)
 
 	 *MuseV: Infinite-length and High Fidelity Virtual Human Video Generation with Visual Conditioned Parallel Denoising* · ([mp.weixin.qq](https://mp.weixin.qq.com/s/6sR6lnNlr0z78jfOZob7Xg))
