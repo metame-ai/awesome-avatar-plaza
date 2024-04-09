@@ -12,6 +12,10 @@
 	 *Yang Liu, Changzhen Qiu, Zhiyong Zhang* · ([SOTA-3DHPE-HMR](https://github.com/liuyangme/SOTA-3DHPE-HMR) - liuyangme) ![Star](https://img.shields.io/github/stars/liuyangme/SOTA-3DHPE-HMR.svg?style=social&label=Star)
 
 ## Generation
+- **PhysAvatar: Learning the Physics of Dressed 3D Avatars from Visual
+  Observations**, `arXiv, 2404.04421`, [arxiv](http://arxiv.org/abs/2404.04421v1), [pdf](http://arxiv.org/pdf/2404.04421v1.pdf), cication: [**-1**](None)
+
+	 *Yang Zheng, Qingqing Zhao, Guandao Yang, Wang Yifan, Donglai Xiang, Florian Dubost, Dmitry Lagun, Thabo Beeler, Federico Tombari, Leonidas Guibas* · ([qingqing-zhao.github](https://qingqing-zhao.github.io/PhysAvatar))
 - **StructLDM: Structured Latent Diffusion for 3D Human Generation**, `arXiv, 2404.01241`, [arxiv](http://arxiv.org/abs/2404.01241v2), [pdf](http://arxiv.org/pdf/2404.01241v2.pdf), cication: [**-1**](None)
 
 	 *Tao Hu, Fangzhou Hong, Ziwei Liu* · ([StructLDM](https://github.com/TaoHuUMD/StructLDM) - TaoHuUMD) ![Star](https://img.shields.io/github/stars/TaoHuUMD/StructLDM.svg?style=social&label=Star) · ([taohuumd.github](https://taohuumd.github.io/projects/StructLDM/))
