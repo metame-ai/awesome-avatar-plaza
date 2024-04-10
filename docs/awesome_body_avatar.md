@@ -12,6 +12,9 @@
 	 *Yang Liu, Changzhen Qiu, Zhiyong Zhang* · ([SOTA-3DHPE-HMR](https://github.com/liuyangme/SOTA-3DHPE-HMR) - liuyangme) ![Star](https://img.shields.io/github/stars/liuyangme/SOTA-3DHPE-HMR.svg?style=social&label=Star)
 
 ## Generation
+- **Neural-ABC: Neural Parametric Models for Articulated Body with Clothes**, `arXiv, 2404.04673`, [arxiv](http://arxiv.org/abs/2404.04673v1), [pdf](http://arxiv.org/pdf/2404.04673v1.pdf), cication: [**-1**](None)
+
+	 *Honghu Chen, Yuxin Yao, Juyong Zhang* · ([ustc3dv.github](https://ustc3dv.github.io/NeuralABC/)) · ([NeuralABC-code](https://github.com/USTC3DV/NeuralABC-code) - USTC3DV) ![Star](https://img.shields.io/github/stars/USTC3DV/NeuralABC-code.svg?style=social&label=Star)
 - **PhysAvatar: Learning the Physics of Dressed 3D Avatars from Visual
   Observations**, `arXiv, 2404.04421`, [arxiv](http://arxiv.org/abs/2404.04421v1), [pdf](http://arxiv.org/pdf/2404.04421v1.pdf), cication: [**-1**](None)
 
