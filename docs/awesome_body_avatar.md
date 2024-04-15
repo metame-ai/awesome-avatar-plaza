@@ -12,6 +12,10 @@
 	 *Yang Liu, Changzhen Qiu, Zhiyong Zhang* · ([SOTA-3DHPE-HMR](https://github.com/liuyangme/SOTA-3DHPE-HMR) - liuyangme) ![Star](https://img.shields.io/github/stars/liuyangme/SOTA-3DHPE-HMR.svg?style=social&label=Star)
 
 ## Generation
+- **GoMAvatar: Efficient Animatable Human Modeling from Monocular Video
+  Using Gaussians-on-Mesh**, `arXiv, 2404.07991`, [arxiv](http://arxiv.org/abs/2404.07991v1), [pdf](http://arxiv.org/pdf/2404.07991v1.pdf), cication: [**-1**](None)
+
+	 *Jing Wen, Xiaoming Zhao, Zhongzheng Ren, Alexander G. Schwing, Shenlong Wang* · ([wenj.github](https://wenj.github.io/GoMAvatar/))
 - **Neural-ABC: Neural Parametric Models for Articulated Body with Clothes**, `arXiv, 2404.04673`, [arxiv](http://arxiv.org/abs/2404.04673v1), [pdf](http://arxiv.org/pdf/2404.04673v1.pdf), cication: [**-1**](None)
 
 	 *Honghu Chen, Yuxin Yao, Juyong Zhang* · ([ustc3dv.github](https://ustc3dv.github.io/NeuralABC/)) · ([NeuralABC-code](https://github.com/USTC3DV/NeuralABC-code) - USTC3DV) ![Star](https://img.shields.io/github/stars/USTC3DV/NeuralABC-code.svg?style=social&label=Star)
