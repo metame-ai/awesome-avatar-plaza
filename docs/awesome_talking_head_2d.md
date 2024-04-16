@@ -6,6 +6,12 @@
 	- [Tools](#tools)
 
 ## Papers
+- **LoopAnimate: Loopable Salient Object Animation**, `arXiv, 2404.09172`, [arxiv](http://arxiv.org/abs/2404.09172v1), [pdf](http://arxiv.org/pdf/2404.09172v1.pdf), cication: [**-1**](None)
+
+	 *Fanyi Wang, Peng Liu, Haotian Hu, Dan Meng, Jingwen Su, Jinjin Xu, Yanhao Zhang, Xiaoming Ren, Zhiwang Zhang*
+- **THQA: A Perceptual Quality Assessment Database for Talking Heads**, `arXiv, 2404.09003`, [arxiv](http://arxiv.org/abs/2404.09003v1), [pdf](http://arxiv.org/pdf/2404.09003v1.pdf), cication: [**-1**](None)
+
+	 *Yingjie Zhou, Zicheng Zhang, Wei Sun, Xiaohong Liu, Xiongkuo Min, Zhihua Wang, Xiao-Ping Zhang, Guangtao Zhai* · ([THQA](https://github.com/zyj-2000/THQA) - zyj-2000) ![Star](https://img.shields.io/github/stars/zyj-2000/THQA.svg?style=social&label=Star)
 - **EDTalk: Efficient Disentanglement for Emotional Talking Head Synthesis**, `arXiv, 2404.01647`, [arxiv](http://arxiv.org/abs/2404.01647v1), [pdf](http://arxiv.org/pdf/2404.01647v1.pdf), cication: [**-1**](None)
 
 	 *Shuai Tan, Bin Ji, Mengxiao Bi, Ye Pan* · ([tanshuai0219.github](https://tanshuai0219.github.io/EDTalk/)) · ([EDTalk](https://github.com/tanshuai0219/EDTalk) - tanshuai0219) ![Star](https://img.shields.io/github/stars/tanshuai0219/EDTalk.svg?style=social&label=Star)
