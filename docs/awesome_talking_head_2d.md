@@ -6,6 +6,9 @@
 	- [Tools](#tools)
 
 ## Papers
+- **VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time**, `arXiv, 2404.10667`, [arxiv](http://arxiv.org/abs/2404.10667v1), [pdf](http://arxiv.org/pdf/2404.10667v1.pdf), cication: [**-1**](None)
+
+	 *Sicheng Xu, Guojun Chen, Yu-Xiao Guo, Jiaolong Yang, Chong Li, Zhenyu Zang, Yizhong Zhang, Xin Tong, Baining Guo* · ([microsoft](https://www.microsoft.com/en-us/research/project/vasa-1/))
 - **LoopAnimate: Loopable Salient Object Animation**, `arXiv, 2404.09172`, [arxiv](http://arxiv.org/abs/2404.09172v1), [pdf](http://arxiv.org/pdf/2404.09172v1.pdf), cication: [**-1**](None)
 
 	 *Fanyi Wang, Peng Liu, Haotian Hu, Dan Meng, Jingwen Su, Jinjin Xu, Yanhao Zhang, Xiaoming Ren, Zhiwang Zhang*

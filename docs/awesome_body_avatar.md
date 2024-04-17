@@ -195,6 +195,9 @@
 	 *Yangyi Huang, Hongwei Yi, Weiyang Liu, Haofan Wang, Boxi Wu, Wenxiao Wang, Binbin Lin, Debing Zhang, Deng Cai*
 
 ## Animation
+- **Generating Human Interaction Motions in Scenes with Text Control**, `arXiv, 2404.10685`, [arxiv](http://arxiv.org/abs/2404.10685v1), [pdf](http://arxiv.org/pdf/2404.10685v1.pdf), cication: [**-1**](None)
+
+	 *Hongwei Yi, Justus Thies, Michael J. Black, Xue Bin Peng, Davis Rempe* · ([research.nvidia](https://research.nvidia.com/labs/toronto-ai/tesmo/)) · ([research.nvidia](https://research.nvidia.com/labs/toronto-ai/tesmo/))
 - **MotionChain: Conversational Motion Controllers via Multimodal Prompts**, `arXiv, 2404.01700`, [arxiv](http://arxiv.org/abs/2404.01700v2), [pdf](http://arxiv.org/pdf/2404.01700v2.pdf), cication: [**-1**](None)
 
 	 *Biao Jiang, Xin Chen, Chi Zhang, Fukun Yin, Zhuoyuan Li, Gang YU, Jiayuan Fan*

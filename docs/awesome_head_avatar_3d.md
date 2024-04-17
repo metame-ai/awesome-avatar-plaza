@@ -11,6 +11,10 @@
 ---
 
 ## Generating
+- **Portrait3D: Text-Guided High-Quality 3D Portrait Generation Using
+  Pyramid Representation and GANs Prior**, `arXiv, 2404.10394`, [arxiv](http://arxiv.org/abs/2404.10394v1), [pdf](http://arxiv.org/pdf/2404.10394v1.pdf), cication: [**-1**](None)
+
+	 *Yiqian Wu, Hao Xu, Xiangjun Tang, Xien Chen, Siyu Tang, Zhebin Zhang, Chen Li, Xiaogang Jin*
 - **Efficient 3D Implicit Head Avatar with Mesh-anchored Hash Table
   Blendshapes**, `arXiv, 2404.01543`, [arxiv](http://arxiv.org/abs/2404.01543v1), [pdf](http://arxiv.org/pdf/2404.01543v1.pdf), cication: [**-1**](None)
 
