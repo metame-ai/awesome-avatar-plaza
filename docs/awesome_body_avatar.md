@@ -195,6 +195,10 @@
 	 *Yangyi Huang, Hongwei Yi, Weiyang Liu, Haofan Wang, Boxi Wu, Wenxiao Wang, Binbin Lin, Debing Zhang, Deng Cai*
 
 ## Animation
+- **Text-controlled Motion Mamba: Text-Instructed Temporal Grounding of
+  Human Motion**, `arXiv, 2404.11375`, [arxiv](http://arxiv.org/abs/2404.11375v1), [pdf](http://arxiv.org/pdf/2404.11375v1.pdf), cication: [**-1**](None)
+
+	 *Xinghan Wang, Zixi Kang, Yadong Mu*
 - **Generating Human Interaction Motions in Scenes with Text Control**, `arXiv, 2404.10685`, [arxiv](http://arxiv.org/abs/2404.10685v1), [pdf](http://arxiv.org/pdf/2404.10685v1.pdf), cication: [**-1**](None)
 
 	 *Hongwei Yi, Justus Thies, Michael J. Black, Xue Bin Peng, Davis Rempe* · ([research.nvidia](https://research.nvidia.com/labs/toronto-ai/tesmo/)) · ([research.nvidia](https://research.nvidia.com/labs/toronto-ai/tesmo/))
