@@ -195,6 +195,12 @@
 	 *Yangyi Huang, Hongwei Yi, Weiyang Liu, Haofan Wang, Boxi Wu, Wenxiao Wang, Binbin Lin, Debing Zhang, Deng Cai*
 
 ## Animation
+- **Purposer: Putting Human Motion Generation in Context**, `arXiv, 2404.12942`, [arxiv](http://arxiv.org/abs/2404.12942v1), [pdf](http://arxiv.org/pdf/2404.12942v1.pdf), cication: [**-1**](None)
+
+	 *Nicolas Ugrinovic, Thomas Lucas, Fabien Baradel, Philippe Weinzaepfel, Gregory Rogez, Francesc Moreno-Noguer*
+- **MIDGET: Music Conditioned 3D Dance Generation**, `australasian joint conference on artificial intelligence, 2023`, [arxiv](http://arxiv.org/abs/2404.12062v1), [pdf](http://arxiv.org/pdf/2404.12062v1.pdf), cication: [**-1**](None)
+
+	 *Jinwu Wang, Wei Mao, Miaomiao Liu*
 - **Text-controlled Motion Mamba: Text-Instructed Temporal Grounding of
   Human Motion**, `arXiv, 2404.11375`, [arxiv](http://arxiv.org/abs/2404.11375v1), [pdf](http://arxiv.org/pdf/2404.11375v1.pdf), cication: [**-1**](None)
 

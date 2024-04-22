@@ -218,6 +218,9 @@
 - [**Instruct-Video2Avatar**](https://github.com/lsx0101/Instruct-Video2Avatar) - lsx0101 ![Star](https://img.shields.io/github/stars/lsx0101/Instruct-Video2Avatar.svg?style=social&label=Star)
 
 ## Animation
+- **Learn2Talk: 3D Talking Face Learns from 2D Talking Face**, `arXiv, 2404.12888`, [arxiv](http://arxiv.org/abs/2404.12888v1), [pdf](http://arxiv.org/pdf/2404.12888v1.pdf), cication: [**-1**](None)
+
+	 *Yixiang Zhuang, Baoping Cheng, Yao Cheng, Yuntao Jin, Renshuai Liu, Chengyang Li, Xuan Cheng, Jing Liao, Juncong Lin*
 - **AnimateMe: 4D Facial Expressions via Diffusion Models**, `arXiv, 2403.17213`, [arxiv](http://arxiv.org/abs/2403.17213v1), [pdf](http://arxiv.org/pdf/2403.17213v1.pdf), cication: [**-1**](None)
 
 	 *Dimitrios Gerogiannis, Foivos Paraperas Papantoniou, Rolandos Alexandros Potamias, Alexandros Lattas, Stylianos Moschoglou, Stylianos Ploumpis, Stefanos Zafeiriou*
