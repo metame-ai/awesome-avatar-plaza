@@ -11,6 +11,10 @@
 ---
 
 ## Generating
+- **GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian
+  Splatting**, `arXiv, 2404.14037`, [arxiv](http://arxiv.org/abs/2404.14037v1), [pdf](http://arxiv.org/pdf/2404.14037v1.pdf), cication: [**-1**](None)
+
+	 *Hongyun Yu, Zhan Qu, Qihang Yu, Jianchuan Chen, Zhonghua Jiang, Zhiwen Chen, Shengyu Zhang, Jimin Xu, Fei Wu, Chengfei Lv*
 - **Portrait3D: Text-Guided High-Quality 3D Portrait Generation Using
   Pyramid Representation and GANs Prior**, `arXiv, 2404.10394`, [arxiv](http://arxiv.org/abs/2404.10394v1), [pdf](http://arxiv.org/pdf/2404.10394v1.pdf), cication: [**-1**](None)
 

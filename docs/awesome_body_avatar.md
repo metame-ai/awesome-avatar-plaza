@@ -12,6 +12,10 @@
 	 *Yang Liu, Changzhen Qiu, Zhiyong Zhang* · ([SOTA-3DHPE-HMR](https://github.com/liuyangme/SOTA-3DHPE-HMR) - liuyangme) ![Star](https://img.shields.io/github/stars/liuyangme/SOTA-3DHPE-HMR.svg?style=social&label=Star)
 
 ## Generation
+- **PGAHum: Prior-Guided Geometry and Appearance Learning for High-Fidelity
+  Animatable Human Reconstruction**, `arXiv, 2404.13862`, [arxiv](http://arxiv.org/abs/2404.13862v1), [pdf](http://arxiv.org/pdf/2404.13862v1.pdf), cication: [**-1**](None)
+
+	 *Hao Wang, Qingshan Xu, Hongyuan Chen, Rui Ma*
 - **GoMAvatar: Efficient Animatable Human Modeling from Monocular Video
   Using Gaussians-on-Mesh**, `arXiv, 2404.07991`, [arxiv](http://arxiv.org/abs/2404.07991v1), [pdf](http://arxiv.org/pdf/2404.07991v1.pdf), cication: [**-1**](None)
 
