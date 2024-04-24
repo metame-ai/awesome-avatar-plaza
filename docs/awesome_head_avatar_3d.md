@@ -11,6 +11,10 @@
 ---
 
 ## Generating
+- **TalkingGaussian: Structure-Persistent 3D Talking Head Synthesis via
+  Gaussian Splatting**, `arXiv, 2404.15264`, [arxiv](http://arxiv.org/abs/2404.15264v1), [pdf](http://arxiv.org/pdf/2404.15264v1.pdf), cication: [**-1**](None)
+
+	 *Jiahe Li, Jiawei Zhang, Xiao Bai, Jin Zheng, Xin Ning, Jun Zhou, Lin Gu* · ([fictionarry.github](https://fictionarry.github.io/TalkingGaussian/))
 - **GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian
   Splatting**, `arXiv, 2404.14037`, [arxiv](http://arxiv.org/abs/2404.14037v1), [pdf](http://arxiv.org/pdf/2404.14037v1.pdf), cication: [**-1**](None)
 
