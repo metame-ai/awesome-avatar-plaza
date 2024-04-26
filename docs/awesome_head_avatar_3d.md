@@ -11,6 +11,10 @@
 ---
 
 ## Generating
+- **GaussianTalker: Real-Time High-Fidelity Talking Head Synthesis with
+  Audio-Driven 3D Gaussian Splatting**, `arXiv, 2404.16012`, [arxiv](http://arxiv.org/abs/2404.16012v2), [pdf](http://arxiv.org/pdf/2404.16012v2.pdf), cication: [**-1**](None)
+
+	 *Kyusun Cho, Joungbin Lee, Heeji Yoon, Yeobin Hong, Jaehoon Ko, Sangjun Ahn, Seungryong Kim* · ([GaussianTalker](https://github.com/KU-CVLAB/GaussianTalker/?tab=readme-ov-file) - KU-CVLAB) ![Star](https://img.shields.io/github/stars/KU-CVLAB/GaussianTalker.svg?style=social&label=Star) · ([ku-cvlab.github](https://ku-cvlab.github.io/GaussianTalker/))
 - **TalkingGaussian: Structure-Persistent 3D Talking Head Synthesis via
   Gaussian Splatting**, `arXiv, 2404.15264`, [arxiv](http://arxiv.org/abs/2404.15264v1), [pdf](http://arxiv.org/pdf/2404.15264v1.pdf), cication: [**-1**](None)
 
