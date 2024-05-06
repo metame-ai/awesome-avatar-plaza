@@ -199,6 +199,10 @@
 	 *Yangyi Huang, Hongwei Yi, Weiyang Liu, Haofan Wang, Boxi Wu, Wenxiao Wang, Binbin Lin, Debing Zhang, Deng Cai*
 
 ## Animation
+- **MotionLCM: Real-time Controllable Motion Generation via Latent
+  Consistency Model**, `arXiv, 2404.19759`, [arxiv](http://arxiv.org/abs/2404.19759v1), [pdf](http://arxiv.org/pdf/2404.19759v1.pdf), cication: [**-1**](None)
+
+	 *Wenxun Dai, Ling-Hao Chen, Jingbo Wang, Jinpeng Liu, Bo Dai, Yansong Tang* · ([dai-wenxun.github](https://dai-wenxun.github.io/MotionLCM-page/))
 - **Purposer: Putting Human Motion Generation in Context**, `arXiv, 2404.12942`, [arxiv](http://arxiv.org/abs/2404.12942v1), [pdf](http://arxiv.org/pdf/2404.12942v1.pdf), cication: [**-1**](None)
 
 	 *Nicolas Ugrinovic, Thomas Lucas, Fabien Baradel, Philippe Weinzaepfel, Gregory Rogez, Francesc Moreno-Noguer*

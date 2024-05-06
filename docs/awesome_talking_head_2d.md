@@ -6,6 +6,9 @@
 	- [Tools](#tools)
 
 ## Papers
+- **EMOPortraits: Emotion-enhanced Multimodal One-shot Head Avatars**, `arXiv, 2404.19110`, [arxiv](http://arxiv.org/abs/2404.19110v1), [pdf](http://arxiv.org/pdf/2404.19110v1.pdf), cication: [**-1**](None)
+
+	 *Nikita Drobyshev, Antoni Bigata Casademunt, Konstantinos Vougioukas, Zoe Landgraf, Stavros Petridis, Maja Pantic* · ([neeek2303.github](https://neeek2303.github.io/EMOPortraits/)) · ([EMOPortraits](https://github.com/neeek2303/EMOPortraits) - neeek2303) ![Star](https://img.shields.io/github/stars/neeek2303/EMOPortraits.svg?style=social&label=Star)
 - **VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time**, `arXiv, 2404.10667`, [arxiv](http://arxiv.org/abs/2404.10667v1), [pdf](http://arxiv.org/pdf/2404.10667v1.pdf), cication: [**-1**](None)
 
 	 *Sicheng Xu, Guojun Chen, Yu-Xiao Guo, Jiaolong Yang, Chong Li, Zhenyu Zang, Yizhong Zhang, Xin Tong, Baining Guo* · ([microsoft](https://www.microsoft.com/en-us/research/project/vasa-1/))
