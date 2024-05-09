@@ -6,6 +6,18 @@
 	- [Tools](#tools)
 
 ## Papers
+- **Embedded Representation Learning Network for Animating Styled Video
+  Portrait**, `arXiv, 2404.19038`, [arxiv](http://arxiv.org/abs/2404.19038v1), [pdf](http://arxiv.org/pdf/2404.19038v1.pdf), cication: [**-1**](None)
+
+	 *Tianyong Wang, Xiangyu Liang, Wangguandong Zheng, Dan Niu, Haifeng Xia, Siyu Xia*
+- **AniTalker: Animate Vivid and Diverse Talking Faces through
+  Identity-Decoupled Facial Motion Encoding**, `arXiv, 2405.03121`, [arxiv](http://arxiv.org/abs/2405.03121v1), [pdf](http://arxiv.org/pdf/2405.03121v1.pdf), cication: [**-1**](None)
+
+	 *Tao Liu, Feilong Chen, Shuai Fan, Chenpeng Du, Qi Chen, Xie Chen, Kai Yu* · ([AniTalker](https://github.com/X-LANCE/AniTalker?tab=readme-ov-file) - X-LANCE) ![Star](https://img.shields.io/github/stars/X-LANCE/AniTalker.svg?style=social&label=Star)
+- **Audio-Visual Speech Representation Expert for Enhanced Talking Face
+  Video Generation and Evaluation**, `arXiv, 2405.04327`, [arxiv](http://arxiv.org/abs/2405.04327v1), [pdf](http://arxiv.org/pdf/2405.04327v1.pdf), cication: [**-1**](None)
+
+	 *Dogucan Yaman, Fevziye Irem Eyiokur, Leonard Bärmann, Seymanur Aktı, Hazım Kemal Ekenel, Alexander Waibel*
 - **EMOPortraits: Emotion-enhanced Multimodal One-shot Head Avatars**, `arXiv, 2404.19110`, [arxiv](http://arxiv.org/abs/2404.19110v1), [pdf](http://arxiv.org/pdf/2404.19110v1.pdf), cication: [**-1**](None)
 
 	 *Nikita Drobyshev, Antoni Bigata Casademunt, Konstantinos Vougioukas, Zoe Landgraf, Stavros Petridis, Maja Pantic* · ([neeek2303.github](https://neeek2303.github.io/EMOPortraits/)) · ([EMOPortraits](https://github.com/neeek2303/EMOPortraits) - neeek2303) ![Star](https://img.shields.io/github/stars/neeek2303/EMOPortraits.svg?style=social&label=Star)

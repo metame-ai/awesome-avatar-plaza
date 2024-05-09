@@ -12,6 +12,10 @@
 	 *Yang Liu, Changzhen Qiu, Zhiyong Zhang* · ([SOTA-3DHPE-HMR](https://github.com/liuyangme/SOTA-3DHPE-HMR) - liuyangme) ![Star](https://img.shields.io/github/stars/liuyangme/SOTA-3DHPE-HMR.svg?style=social&label=Star)
 
 ## Generation
+- **X-Oscar: A Progressive Framework for High-quality Text-guided 3D
+  Animatable Avatar Generation**, `arXiv, 2405.00954`, [arxiv](http://arxiv.org/abs/2405.00954v1), [pdf](http://arxiv.org/pdf/2405.00954v1.pdf), cication: [**-1**](None)
+
+	 *Yiwei Ma, Zhekai Lin, Jiayi Ji, Yijun Fan, Xiaoshuai Sun, Rongrong Ji* · ([xmu-xiaoma666.github](https://xmu-xiaoma666.github.io/Projects/X-Oscar/))
 - **PGAHum: Prior-Guided Geometry and Appearance Learning for High-Fidelity
   Animatable Human Reconstruction**, `arXiv, 2404.13862`, [arxiv](http://arxiv.org/abs/2404.13862v1), [pdf](http://arxiv.org/pdf/2404.13862v1.pdf), cication: [**-1**](None)
 
@@ -199,6 +203,16 @@
 	 *Yangyi Huang, Hongwei Yi, Weiyang Liu, Haofan Wang, Boxi Wu, Wenxiao Wang, Binbin Lin, Debing Zhang, Deng Cai*
 
 ## Animation
+- **Efficient Text-driven Motion Generation via Latent Consistency Training**, `arXiv, 2405.02791`, [arxiv](http://arxiv.org/abs/2405.02791v1), [pdf](http://arxiv.org/pdf/2405.02791v1.pdf), cication: [**-1**](None)
+
+	 *Mengxian Hu, Minghao Zhu, Xun Zhou, Qingqing Yan, Shu Li, Chengju Liu, Qijun Chen*
+- **MoDiPO: text-to-motion alignment via AI-feedback-driven Direct
+  Preference Optimization**, `arXiv, 2405.03803`, [arxiv](http://arxiv.org/abs/2405.03803v1), [pdf](http://arxiv.org/pdf/2405.03803v1.pdf), cication: [**-1**](None)
+
+	 *Massimiliano Pappa, Luca Collorone, Giovanni Ficarra, Indro Spinelli, Fabio Galasso*
+- **LGTM: Local-to-Global Text-Driven Human Motion Diffusion Model**, `arXiv, 2405.03485`, [arxiv](http://arxiv.org/abs/2405.03485v1), [pdf](http://arxiv.org/pdf/2405.03485v1.pdf), cication: [**-1**](None)
+
+	 *Haowen Sun, Ruikun Zheng, Haibin Huang, Chongyang Ma, Hui Huang, Ruizhen Hu* · ([LGTM](https://github.com/L-Sun/LGTM) - L-Sun) ![Star](https://img.shields.io/github/stars/L-Sun/LGTM.svg?style=social&label=Star)
 - **MotionLCM: Real-time Controllable Motion Generation via Latent
   Consistency Model**, `arXiv, 2404.19759`, [arxiv](http://arxiv.org/abs/2404.19759v1), [pdf](http://arxiv.org/pdf/2404.19759v1.pdf), cication: [**-1**](None)
 

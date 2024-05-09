@@ -11,6 +11,14 @@
 ---
 
 ## Generating
+- **GSTalker: Real-time Audio-Driven Talking Face Generation via Deformable
+  Gaussian Splatting**, `arXiv, 2404.19040`, [arxiv](http://arxiv.org/abs/2404.19040v1), [pdf](http://arxiv.org/pdf/2404.19040v1.pdf), cication: [**-1**](None)
+
+	 *Bo Chen, Shoukang Hu, Qi Chen, Chenpeng Du, Ran Yi, Yanmin Qian, Xie Chen*
+- **MeGA: Hybrid Mesh-Gaussian Head Avatar for High-Fidelity Rendering and
+  Head Editing**, `arXiv, 2404.19026`, [arxiv](http://arxiv.org/abs/2404.19026v1), [pdf](http://arxiv.org/pdf/2404.19026v1.pdf), cication: [**-1**](None)
+
+	 *Cong Wang, Di Kang, He-Yi Sun, Shen-Han Qian, Zi-Xuan Wang, Linchao Bao, Song-Hai Zhang* · ([conallwang.github](https://conallwang.github.io/MeGA_Pages/))
 - **GaussianTalker: Real-Time High-Fidelity Talking Head Synthesis with
   Audio-Driven 3D Gaussian Splatting**, `arXiv, 2404.16012`, [arxiv](http://arxiv.org/abs/2404.16012v2), [pdf](http://arxiv.org/pdf/2404.16012v2.pdf), cication: [**-1**](None)
 
@@ -208,6 +216,10 @@
 - **Self-Supervised Geometry-Aware Encoder for Style-Based 3D GAN Inversion**, `arXiv, 2212.07409`, [arxiv](http://arxiv.org/abs/2212.07409v2), [pdf](http://arxiv.org/pdf/2212.07409v2.pdf), cication: [**-1**](None)
 
 	 *Yushi Lan, Xuyi Meng, Shuai Yang, Chen Change Loy, Bo Dai*
+- **Reconstructing Personalized Semantic Facial NeRF Models From Monocular
+  Video**, `acm transactions on graphics (tog), 2022`, [arxiv](http://arxiv.org/abs/2210.06108v1), [pdf](http://arxiv.org/pdf/2210.06108v1.pdf), cication: [**-1**](None)
+
+	 *Xuan Gao, Chenglai Zhong, Jun Xiang, Yang Hong, Yudong Guo, Juyong Zhang* · ([ustc3dv.github](https://ustc3dv.github.io/NeRFBlendShape/)) · ([NeRFBlendShape-code](https://github.com/USTC3DV/NeRFBlendShape-code) - USTC3DV) ![Star](https://img.shields.io/github/stars/USTC3DV/NeRFBlendShape-code.svg?style=social&label=Star)
 
 ## Editing
 - **Text-Guided Generation and Editing of Compositional 3D Avatars**, `arXiv, 2309.07125`, [arxiv](http://arxiv.org/abs/2309.07125v1), [pdf](http://arxiv.org/pdf/2309.07125v1.pdf), cication: [**-1**](None)
@@ -230,6 +242,9 @@
 - [**Instruct-Video2Avatar**](https://github.com/lsx0101/Instruct-Video2Avatar) - lsx0101 ![Star](https://img.shields.io/github/stars/lsx0101/Instruct-Video2Avatar.svg?style=social&label=Star)
 
 ## Animation
+- **3D Gaussian Blendshapes for Head Avatar Animation**, `arXiv, 2404.19398`, [arxiv](http://arxiv.org/abs/2404.19398v2), [pdf](http://arxiv.org/pdf/2404.19398v2.pdf), cication: [**-1**](None)
+
+	 *Shengjie Ma, Yanlin Weng, Tianjia Shao, Kun Zhou* · ([gapszju.github](https://gapszju.github.io/GaussianBlendshape/))
 - **Learn2Talk: 3D Talking Face Learns from 2D Talking Face**, `arXiv, 2404.12888`, [arxiv](http://arxiv.org/abs/2404.12888v1), [pdf](http://arxiv.org/pdf/2404.12888v1.pdf), cication: [**-1**](None)
 
 	 *Yixiang Zhuang, Baoping Cheng, Yao Cheng, Yuntao Jin, Renshuai Liu, Chengyang Li, Xuan Cheng, Jing Liao, Juncong Lin*
