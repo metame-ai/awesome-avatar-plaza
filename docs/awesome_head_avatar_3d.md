@@ -11,6 +11,10 @@
 ---
 
 ## Generating
+- **NeRFFaceSpeech: One-shot Audio-diven 3D Talking Head Synthesis via
+  Generative Prior**, `arXiv, 2405.05749`, [arxiv](http://arxiv.org/abs/2405.05749v1), [pdf](http://arxiv.org/pdf/2405.05749v1.pdf), cication: [**-1**](None)
+
+	 *Gihoon Kim, Kwanggyoon Seo, Sihun Cha, Junyong Noh*
 - **GSTalker: Real-time Audio-Driven Talking Face Generation via Deformable
   Gaussian Splatting**, `arXiv, 2404.19040`, [arxiv](http://arxiv.org/abs/2404.19040v1), [pdf](http://arxiv.org/pdf/2404.19040v1.pdf), cication: [**-1**](None)
 

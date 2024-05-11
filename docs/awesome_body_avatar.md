@@ -203,6 +203,7 @@
 	 *Yangyi Huang, Hongwei Yi, Weiyang Liu, Haofan Wang, Boxi Wu, Wenxiao Wang, Binbin Lin, Debing Zhang, Deng Cai*
 
 ## Animation
+- [StableMoFusion](https://h-y1heng.github.io/StableMoFusion-page/#)
 - **Efficient Text-driven Motion Generation via Latent Consistency Training**, `arXiv, 2405.02791`, [arxiv](http://arxiv.org/abs/2405.02791v1), [pdf](http://arxiv.org/pdf/2405.02791v1.pdf), cication: [**-1**](None)
 
 	 *Mengxian Hu, Minghao Zhu, Xun Zhou, Qingqing Yan, Shu Li, Chengju Liu, Qijun Chen*
@@ -378,3 +379,7 @@
 
 ## Products
 - [Spatial Memories - YouTube](https://www.youtube.com/watch?v=NudQHBrkqhY&ab_channel=InfiniteRealities)
+
+
+## Talks
+- [3D Human Foundation Agents ](https://acorn.stanford.edu/SCIEN/video/2024_MichaelBlack.mp4)
