@@ -6,6 +6,10 @@
 	- [Tools](#tools)
 
 ## Papers
+- **Listen, Disentangle, and Control: Controllable Speech-Driven Talking
+  Head Generation**, `arXiv, 2405.07257`, [arxiv](http://arxiv.org/abs/2405.07257v1), [pdf](http://arxiv.org/pdf/2405.07257v1.pdf), cication: [**-1**](None)
+
+	 *Changpeng Cai, Guinan Guo, Jiao Li, Junhao Su, Chenghao He, Jing Xiao, Yuanxu Chen, Lei Dai, Feiyu Zhu*
 - **SwapTalk: Audio-Driven Talking Face Generation with One-Shot
   Customization in Latent Space**, `arXiv, 2405.05636`, [arxiv](http://arxiv.org/abs/2405.05636v1), [pdf](http://arxiv.org/pdf/2405.05636v1.pdf), cication: [**-1**](None)
 

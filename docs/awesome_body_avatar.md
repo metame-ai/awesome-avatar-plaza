@@ -12,6 +12,9 @@
 	 *Yang Liu, Changzhen Qiu, Zhiyong Zhang* · ([SOTA-3DHPE-HMR](https://github.com/liuyangme/SOTA-3DHPE-HMR) - liuyangme) ![Star](https://img.shields.io/github/stars/liuyangme/SOTA-3DHPE-HMR.svg?style=social&label=Star)
 
 ## Generation
+- **LayGA: Layered Gaussian Avatars for Animatable Clothing Transfer**, `arXiv, 2405.07319`, [arxiv](http://arxiv.org/abs/2405.07319v1), [pdf](http://arxiv.org/pdf/2405.07319v1.pdf), cication: [**-1**](None)
+
+	 *Siyou Lin, Zhe Li, Zhaoqi Su, Zerong Zheng, Hongwen Zhang, Yebin Liu* · ([jsnln.github](https://jsnln.github.io/layga/index.html))
 - **X-Oscar: A Progressive Framework for High-quality Text-guided 3D
   Animatable Avatar Generation**, `arXiv, 2405.00954`, [arxiv](http://arxiv.org/abs/2405.00954v1), [pdf](http://arxiv.org/pdf/2405.00954v1.pdf), cication: [**-1**](None)
 
@@ -203,6 +206,9 @@
 	 *Yangyi Huang, Hongwei Yi, Weiyang Liu, Haofan Wang, Boxi Wu, Wenxiao Wang, Binbin Lin, Debing Zhang, Deng Cai*
 
 ## Animation
+- **Generating Human Motion in 3D Scenes from Text Descriptions**, `arXiv, 2405.07784`, [arxiv](http://arxiv.org/abs/2405.07784v1), [pdf](http://arxiv.org/pdf/2405.07784v1.pdf), cication: [**-1**](None)
+
+	 *Zhi Cen, Huaijin Pi, Sida Peng, Zehong Shen, Minghui Yang, Shuai Zhu, Hujun Bao, Xiaowei Zhou* · ([zju3dv.github](https://zju3dv.github.io/text_scene_motion/))
 - [StableMoFusion](https://h-y1heng.github.io/StableMoFusion-page/#)
 - **Efficient Text-driven Motion Generation via Latent Consistency Training**, `arXiv, 2405.02791`, [arxiv](http://arxiv.org/abs/2405.02791v1), [pdf](http://arxiv.org/pdf/2405.02791v1.pdf), cication: [**-1**](None)
 
