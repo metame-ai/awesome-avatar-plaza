@@ -206,6 +206,12 @@
 	 *Yangyi Huang, Hongwei Yi, Weiyang Liu, Haofan Wang, Boxi Wu, Wenxiao Wang, Binbin Lin, Debing Zhang, Deng Cai*
 
 ## Animation
+- **LLAniMAtion: LLAMA Driven Gesture Animation**, `arXiv, 2405.08042`, [arxiv](http://arxiv.org/abs/2405.08042v1), [pdf](http://arxiv.org/pdf/2405.08042v1.pdf), cication: [**-1**](None)
+
+	 *Jonathan Windle, Iain Matthews, Sarah Taylor*
+- **Semantic Gesticulator: Semantics-Aware Co-Speech Gesture Synthesis**, `arXiv, 2405.09814`, [arxiv](http://arxiv.org/abs/2405.09814v1), [pdf](http://arxiv.org/pdf/2405.09814v1.pdf), cication: [**-1**](None)
+
+	 *Zeyi Zhang, Tenglong Ao, Yuyao Zhang, Qingzhe Gao, Chuan Lin, Baoquan Chen, Libin Liu*
 - **Generating Human Motion in 3D Scenes from Text Descriptions**, `arXiv, 2405.07784`, [arxiv](http://arxiv.org/abs/2405.07784v1), [pdf](http://arxiv.org/pdf/2405.07784v1.pdf), cication: [**-1**](None)
 
 	 *Zhi Cen, Huaijin Pi, Sida Peng, Zehong Shen, Minghui Yang, Shuai Zhu, Hujun Bao, Xiaowei Zhou* · ([zju3dv.github](https://zju3dv.github.io/text_scene_motion/))
