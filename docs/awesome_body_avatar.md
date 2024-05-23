@@ -12,6 +12,16 @@
 	 *Yang Liu, Changzhen Qiu, Zhiyong Zhang* · ([SOTA-3DHPE-HMR](https://github.com/liuyangme/SOTA-3DHPE-HMR) - liuyangme) ![Star](https://img.shields.io/github/stars/liuyangme/SOTA-3DHPE-HMR.svg?style=social&label=Star)
 
 ## Generation
+- **MOSS: Motion-based 3D Clothed Human Synthesis from Monocular Video**, `arXiv, 2405.12806`, [arxiv](http://arxiv.org/abs/2405.12806v1), [pdf](http://arxiv.org/pdf/2405.12806v1.pdf), cication: [**-1**](None)
+
+	 *Hongsheng Wang, Xiang Cai, Xi Sun, Jinhong Yue, Shengyu Zhang, Feng Lin, Fei Wu* · ([wanghongsheng01.github](https://wanghongsheng01.github.io/MOSS/)) · ([MOSS](https://github.com/3DHumanRehab/MOSS) - 3DHumanRehab) ![Star](https://img.shields.io/github/stars/3DHumanRehab/MOSS.svg?style=social&label=Star)
+- **Motion Avatar: Generate Human and Animal Avatars with Arbitrary Motion**, `arXiv, 2405.11286`, [arxiv](http://arxiv.org/abs/2405.11286v1), [pdf](http://arxiv.org/pdf/2405.11286v1.pdf), cication: [**-1**](None)
+
+	 *Zeyu Zhang, Yiran Wang, Biao Wu, Shuo Chen, Zhiyuan Zhang, Shiya Huang, Wenbo Zhang, Meng Fang, Ling Chen, Yang Zhao* · ([steve-zeyu-zhang.github](https://steve-zeyu-zhang.github.io/MotionAvatar/)) · ([MotionAvatar](https://github.com/steve-zeyu-zhang/MotionAvatar) - steve-zeyu-zhang) ![Star](https://img.shields.io/github/stars/steve-zeyu-zhang/MotionAvatar.svg?style=social&label=Star)
+- **LAGA: Layered 3D Avatar Generation and Customization via Gaussian
+  Splatting**, `arXiv, 2405.12663`, [arxiv](http://arxiv.org/abs/2405.12663v1), [pdf](http://arxiv.org/pdf/2405.12663v1.pdf), cication: [**-1**](None)
+
+	 *Jia Gong, Shenyu Ji, Lin Geng Foo, Kang Chen, Hossein Rahmani, Jun Liu*
 - **LayGA: Layered Gaussian Avatars for Animatable Clothing Transfer**, `arXiv, 2405.07319`, [arxiv](http://arxiv.org/abs/2405.07319v1), [pdf](http://arxiv.org/pdf/2405.07319v1.pdf), cication: [**-1**](None)
 
 	 *Siyou Lin, Zhe Li, Zhaoqi Su, Zerong Zheng, Hongwen Zhang, Yebin Liu* · ([jsnln.github](https://jsnln.github.io/layga/index.html))

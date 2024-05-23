@@ -11,6 +11,16 @@
 ---
 
 ## Generating
+- **GGAvatar: Geometric Adjustment of Gaussian Head Avatar**, `arXiv, 2405.11993`, [arxiv](http://arxiv.org/abs/2405.11993v1), [pdf](http://arxiv.org/pdf/2405.11993v1.pdf), cication: [**-1**](None)
+
+	 *Xinyang Li, Jiaxin Wang, Yixin Xuan, Gongxin Yao, Yu Pan*
+- **GGAvatar: Geometric Adjustment of Gaussian Head Avatar**, `arXiv, 2405.11993`, [arxiv](http://arxiv.org/abs/2405.11993v1), [pdf](http://arxiv.org/pdf/2405.11993v1.pdf), cication: [**-1**](None)
+
+	 *Xinyang Li, Jiaxin Wang, Yixin Xuan, Gongxin Yao, Yu Pan*
+- **Gaussian Head & Shoulders: High Fidelity Neural Upper Body Avatars with
+  Anchor Gaussian Guided Texture Warping**, `arXiv, 2405.12069`, [arxiv](http://arxiv.org/abs/2405.12069v2), [pdf](http://arxiv.org/pdf/2405.12069v2.pdf), cication: [**-1**](None)
+
+	 *Tianhao Wu, Jing Yang, Zhilin Guo, Jingyi Wan, Fangcheng Zhong, Cengiz Oztireli* · ([gaussian-head-shoulders.netlify](https://gaussian-head-shoulders.netlify.app/))
 - **NeRFFaceSpeech: One-shot Audio-diven 3D Talking Head Synthesis via
   Generative Prior**, `arXiv, 2405.05749`, [arxiv](http://arxiv.org/abs/2405.05749v1), [pdf](http://arxiv.org/pdf/2405.05749v1.pdf), cication: [**-1**](None)
 
