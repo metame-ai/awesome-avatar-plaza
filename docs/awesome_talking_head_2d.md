@@ -6,6 +6,10 @@
 	- [Tools](#tools)
 
 ## Papers
+- **OpFlowTalker: Realistic and Natural Talking Face Generation via Optical
+  Flow Guidance**, `arXiv, 2405.14709`, [arxiv](http://arxiv.org/abs/2405.14709v1), [pdf](http://arxiv.org/pdf/2405.14709v1.pdf), cication: [**-1**](None)
+
+	 *Shuheng Ge, Haoyu Xing, Li Zhang, Xiangqian Wu*
 - **Listen, Disentangle, and Control: Controllable Speech-Driven Talking
   Head Generation**, `arXiv, 2405.07257`, [arxiv](http://arxiv.org/abs/2405.07257v1), [pdf](http://arxiv.org/pdf/2405.07257v1.pdf), cication: [**-1**](None)
 
