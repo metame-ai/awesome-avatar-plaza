@@ -216,6 +216,13 @@
 	 *Yangyi Huang, Hongwei Yi, Weiyang Liu, Haofan Wang, Boxi Wu, Wenxiao Wang, Binbin Lin, Debing Zhang, Deng Cai*
 
 ## Animation
+- **FreeMotion: A Unified Framework for Number-free Text-to-Motion Synthesis**, `arXiv, 2405.15763`, [arxiv](http://arxiv.org/abs/2405.15763v1), [pdf](http://arxiv.org/pdf/2405.15763v1.pdf), cication: [**-1**](None)
+
+	 *Ke Fan, Junshu Tang, Weijian Cao, Ran Yi, Moran Li, Jingyu Gong, Jiangning Zhang, Yabiao Wang, Chengjie Wang, Lizhuang Ma*
+- **Text-guided 3D Human Motion Generation with Keyframe-based Parallel Skip
+  Transformer**, `arXiv, 2405.15439`, [arxiv](http://arxiv.org/abs/2405.15439v1), [pdf](http://arxiv.org/pdf/2405.15439v1.pdf), cication: [**-1**](None)
+
+	 *Zichen Geng, Caren Han, Zeeshan Hayder, Jian Liu, Mubarak Shah, Ajmal Mian*
 - **LLAniMAtion: LLAMA Driven Gesture Animation**, `arXiv, 2405.08042`, [arxiv](http://arxiv.org/abs/2405.08042v1), [pdf](http://arxiv.org/pdf/2405.08042v1.pdf), cication: [**-1**](None)
 
 	 *Jonathan Windle, Iain Matthews, Sarah Taylor*

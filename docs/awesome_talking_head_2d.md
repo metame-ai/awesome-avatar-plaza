@@ -6,6 +6,13 @@
 	- [Tools](#tools)
 
 ## Papers
+- **InstructAvatar: Text-Guided Emotion and Motion Control for Avatar
+  Generation**, `arXiv, 2405.15758`, [arxiv](http://arxiv.org/abs/2405.15758v1), [pdf](http://arxiv.org/pdf/2405.15758v1.pdf), cication: [**-1**](None)
+
+	 *Yuchi Wang, Junliang Guo, Jianhong Bai, Runyi Yu, Tianyu He, Xu Tan, Xu Sun, Jiang Bian* · ([wangyuchi369.github](https://wangyuchi369.github.io/InstructAvatar/))
+- [**MuseTalk**](https://github.com/TMElyralab/MuseTalk) - TMElyralab ![Star](https://img.shields.io/github/stars/TMElyralab/MuseTalk.svg?style=social&label=Star)
+
+	 *MuseTalk: Real-Time High Quality Lip Synchorization with Latent Space Inpainting*
 - **OpFlowTalker: Realistic and Natural Talking Face Generation via Optical
   Flow Guidance**, `arXiv, 2405.14709`, [arxiv](http://arxiv.org/abs/2405.14709v1), [pdf](http://arxiv.org/pdf/2405.14709v1.pdf), cication: [**-1**](None)
 
