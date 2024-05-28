@@ -6,6 +6,11 @@
 	- [Tools](#tools)
 
 ## Papers
+- **Looking Backward: Streaming Video-to-Video Translation with Feature
+  Banks**, `arXiv, 2405.15757`, [arxiv](http://arxiv.org/abs/2405.15757v1), [pdf](http://arxiv.org/pdf/2405.15757v1.pdf), cication: [**-1**](None)
+
+	 *Feng Liang, Akio Kodaira, Chenfeng Xu, Masayoshi Tomizuka, Kurt Keutzer, Diana Marculescu* · ([jeff-liangf.github](https://jeff-liangf.github.io/projects/streamv2v/)) · ([streamv2v](https://github.com/Jeff-LiangF/streamv2v) - Jeff-LiangF) ![Star](https://img.shields.io/github/stars/Jeff-LiangF/streamv2v.svg?style=social&label=Star)
+- [**MegFaceAnimate**](https://github.com/megvii-research/MegFaceAnimate) - megvii-research ![Star](https://img.shields.io/github/stars/megvii-research/MegFaceAnimate.svg?style=social&label=Star)
 - **InstructAvatar: Text-Guided Emotion and Motion Control for Avatar
   Generation**, `arXiv, 2405.15758`, [arxiv](http://arxiv.org/abs/2405.15758v1), [pdf](http://arxiv.org/pdf/2405.15758v1.pdf), cication: [**-1**](None)
 

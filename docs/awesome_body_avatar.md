@@ -216,6 +216,13 @@
 	 *Yangyi Huang, Hongwei Yi, Weiyang Liu, Haofan Wang, Boxi Wu, Wenxiao Wang, Binbin Lin, Debing Zhang, Deng Cai*
 
 ## Animation
+- **CoCoGesture: Toward Coherent Co-speech 3D Gesture Generation in the Wild**, `arXiv, 2405.16874`, [arxiv](http://arxiv.org/abs/2405.16874v1), [pdf](http://arxiv.org/pdf/2405.16874v1.pdf), cication: [**-1**](None)
+
+	 *Xingqun Qi, Hengyuan Zhang, Yatian Wang, Jiahao Pan, Chen Liu, Peng Li, Xiaowei Chi, Mengfei Li, Qixun Zhang, Wei Xue* · ([mattie-e.github](https://mattie-e.github.io/GES-X/))
+- **MotionLLM: Multimodal Motion-Language Learning with Large Language
+  Models**, `arXiv, 2405.17013`, [arxiv](http://arxiv.org/abs/2405.17013v1), [pdf](http://arxiv.org/pdf/2405.17013v1.pdf), cication: [**-1**](None)
+
+	 *Qi Wu, Yubo Zhao, Yifan Wang, Yu-Wing Tai, Chi-Keung Tang* · ([knoxzhao.github](https://knoxzhao.github.io/MotionLLM/))
 - **FreeMotion: A Unified Framework for Number-free Text-to-Motion Synthesis**, `arXiv, 2405.15763`, [arxiv](http://arxiv.org/abs/2405.15763v1), [pdf](http://arxiv.org/pdf/2405.15763v1.pdf), cication: [**-1**](None)
 
 	 *Ke Fan, Junshu Tang, Weijian Cao, Ran Yi, Moran Li, Jingyu Gong, Jiangning Zhang, Yabiao Wang, Chengjie Wang, Lizhuang Ma*
@@ -365,6 +372,10 @@
 	 *Yukun Huang, Jianan Wang, Ailing Zeng, He Cao, Xianbiao Qi, Yukai Shi, Zheng-Jun Zha, Lei Zhang*
 
 ## Body Reconstruction
+- **Human4DiT: Free-view Human Video Generation with 4D Diffusion
+  Transformer**, `arXiv, 2405.17405`, [arxiv](http://arxiv.org/abs/2405.17405v1), [pdf](http://arxiv.org/pdf/2405.17405v1.pdf), cication: [**-1**](None)
+
+	 *Ruizhi Shao, Youxin Pang, Zerong Zheng, Jingxiang Sun, Yebin Liu* · ([human4dit.github](https://human4dit.github.io))
 - **PKU-DyMVHumans: A Multi-View Video Benchmark for High-Fidelity Dynamic
   Human Modeling**, `arXiv, 2403.16080`, [arxiv](http://arxiv.org/abs/2403.16080v2), [pdf](http://arxiv.org/pdf/2403.16080v2.pdf), cication: [**-1**](None)
 
