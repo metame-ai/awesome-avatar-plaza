@@ -216,6 +216,9 @@
 	 *Yangyi Huang, Hongwei Yi, Weiyang Liu, Haofan Wang, Boxi Wu, Wenxiao Wang, Binbin Lin, Debing Zhang, Deng Cai*
 
 ## Animation
+- **Hierarchical World Models as Visual Whole-Body Humanoid Controllers**, `arXiv, 2405.18418`, [arxiv](http://arxiv.org/abs/2405.18418v1), [pdf](http://arxiv.org/pdf/2405.18418v1.pdf), cication: [**-1**](None)
+
+	 *Nicklas Hansen, Jyothir S V, Vlad Sobal, Yann LeCun, Xiaolong Wang, Hao Su* · ([nicklashansen](https://www.nicklashansen.com/rlpuppeteer/)) · ([puppeteer](https://github.com/nicklashansen/puppeteer) - nicklashansen) ![Star](https://img.shields.io/github/stars/nicklashansen/puppeteer.svg?style=social&label=Star)
 - **CoCoGesture: Toward Coherent Co-speech 3D Gesture Generation in the Wild**, `arXiv, 2405.16874`, [arxiv](http://arxiv.org/abs/2405.16874v1), [pdf](http://arxiv.org/pdf/2405.16874v1.pdf), cication: [**-1**](None)
 
 	 *Xingqun Qi, Hengyuan Zhang, Yatian Wang, Jiahao Pan, Chen Liu, Peng Li, Xiaowei Chi, Mengfei Li, Qixun Zhang, Wei Xue* · ([mattie-e.github](https://mattie-e.github.io/GES-X/))
