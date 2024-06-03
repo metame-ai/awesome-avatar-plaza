@@ -11,6 +11,9 @@
 ---
 
 ## Generating
+- **NPGA: Neural Parametric Gaussian Avatars**, `arXiv, 2405.19331`, [arxiv](http://arxiv.org/abs/2405.19331v1), [pdf](http://arxiv.org/pdf/2405.19331v1.pdf), cication: [**-1**](None)
+
+	 *Simon Giebenhain, Tobias Kirschstein, Martin Rünz, Lourdes Agapito, Matthias Nießner*
 - **GGAvatar: Geometric Adjustment of Gaussian Head Avatar**, `arXiv, 2405.11993`, [arxiv](http://arxiv.org/abs/2405.11993v1), [pdf](http://arxiv.org/pdf/2405.11993v1.pdf), cication: [**-1**](None)
 
 	 *Xinyang Li, Jiaxin Wang, Yixin Xuan, Gongxin Yao, Yu Pan*
@@ -256,6 +259,10 @@
 - [**Instruct-Video2Avatar**](https://github.com/lsx0101/Instruct-Video2Avatar) - lsx0101 ![Star](https://img.shields.io/github/stars/lsx0101/Instruct-Video2Avatar.svg?style=social&label=Star)
 
 ## Animation
+- **DiffSpeaker: Speech-Driven 3D Facial Animation with Diffusion
+  Transformer**, `arXiv, 2402.05712`, [arxiv](http://arxiv.org/abs/2402.05712v1), [pdf](http://arxiv.org/pdf/2402.05712v1.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=1678158788324612142&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Zhiyuan Ma, Xiangyu Zhu, Guojun Qi, Chen Qian, Zhaoxiang Zhang, Zhen Lei* · ([DiffSpeaker](https://github.com/theEricMa/DiffSpeaker) - theEricMa) ![Star](https://img.shields.io/github/stars/theEricMa/DiffSpeaker.svg?style=social&label=Star)
 - **3D Gaussian Blendshapes for Head Avatar Animation**, `arXiv, 2404.19398`, [arxiv](http://arxiv.org/abs/2404.19398v2), [pdf](http://arxiv.org/pdf/2404.19398v2.pdf), cication: [**-1**](None)
 
 	 *Shengjie Ma, Yanlin Weng, Tianjia Shao, Kun Zhou* · ([gapszju.github](https://gapszju.github.io/GaussianBlendshape/))
@@ -313,6 +320,9 @@
   Methods, and Applications**, `arXiv, 2311.18168`, [arxiv](http://arxiv.org/abs/2311.18168v1), [pdf](http://arxiv.org/pdf/2311.18168v1.pdf), cication: [**-1**](None)
 
 	 *Karren D. Yang, Anurag Ranjan, Jen-Hao Rick Chang, Raviteja Vemulapalli, Oncel Tuzel*
+- **Artist-Friendly Relightable and Animatable Neural Heads**, `arXiv, 2312.03420`, [arxiv](http://arxiv.org/abs/2312.03420v1), [pdf](http://arxiv.org/pdf/2312.03420v1.pdf), cication: [**-1**](None)
+
+	 *Yingyan Xu, Prashanth Chandran, Sebastian Weiss, Markus Gross, Gaspard Zoss, Derek Bradley* · ([studios.disneyresearch](https://studios.disneyresearch.com/2024/06/03/artist-friendly-relightable-and-animatable-neural-heads/?utm_source=rss&utm_medium=rss&utm_campaign=artist-friendly-relightable-and-animatable-neural-heads))
 - **DiffusionTalker: Personalization and Acceleration for Speech-Driven 3D
   Face Diffuser**, `arXiv, 2311.16565`, [arxiv](http://arxiv.org/abs/2311.16565v2), [pdf](http://arxiv.org/pdf/2311.16565v2.pdf), cication: [**-1**](None)
 
