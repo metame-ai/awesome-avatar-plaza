@@ -11,6 +11,13 @@
 ---
 
 ## Generating
+- **Topo4D: Topology-Preserving Gaussian Splatting for High-Fidelity 4D Head
+  Capture**, `arXiv, 2406.00440`, [arxiv](http://arxiv.org/abs/2406.00440v1), [pdf](http://arxiv.org/pdf/2406.00440v1.pdf), cication: [**-1**](None)
+
+	 *X. Li, Y. Cheng, X. Ren, H. Jia, D. Xu, W. Zhu, Y. Yan* · ([xuanchenli.github](https://xuanchenli.github.io/Topo4D/))
+- [ChatDirector: Enhancing Video Conferencing with Space-Aware Scene Rendering and Speech-Driven Layout Transition | Proceedings of the CHI Conference on Human Factors in Computing Systems](https://dl.acm.org/doi/10.1145/3613904.3642110)
+
+	 · ([research](https://research.google/blog/chatdirector-enhancing-video-conferencing-with-space-aware-scene-rendering-and-speech-driven-layout-transition/))
 - **NPGA: Neural Parametric Gaussian Avatars**, `arXiv, 2405.19331`, [arxiv](http://arxiv.org/abs/2405.19331v1), [pdf](http://arxiv.org/pdf/2405.19331v1.pdf), cication: [**-1**](None)
 
 	 *Simon Giebenhain, Tobias Kirschstein, Martin Rünz, Lourdes Agapito, Matthias Nießner*

@@ -7,6 +7,7 @@
 
 
 ## Survey
+- [3D Humans Workshop @ CVPR 2024](https://sites.google.com/view/3d-humans-cvpr2024)
 - **Deep Learning for 3D Human Pose Estimation and Mesh Recovery: A Survey**, `arXiv, 2402.18844`, [arxiv](http://arxiv.org/abs/2402.18844v1), [pdf](http://arxiv.org/pdf/2402.18844v1.pdf), cication: [**-1**](None)
 
 	 *Yang Liu, Changzhen Qiu, Zhiyong Zhang* · ([SOTA-3DHPE-HMR](https://github.com/liuyangme/SOTA-3DHPE-HMR) - liuyangme) ![Star](https://img.shields.io/github/stars/liuyangme/SOTA-3DHPE-HMR.svg?style=social&label=Star)
@@ -216,6 +217,10 @@
 	 *Yangyi Huang, Hongwei Yi, Weiyang Liu, Haofan Wang, Boxi Wu, Wenxiao Wang, Binbin Lin, Debing Zhang, Deng Cai*
 
 ## Animation
+- **MoLA: Motion Generation and Editing with Latent Diffusion Enhanced by
+  Adversarial Training**, `arXiv, 2406.01867`, [arxiv](http://arxiv.org/abs/2406.01867v1), [pdf](http://arxiv.org/pdf/2406.01867v1.pdf), cication: [**-1**](None)
+
+	 *Kengo Uchida, Takashi Shibuya, Yuhta Takida, Naoki Murata, Shusuke Takahashi, Yuki Mitsufuji*
 - **Hierarchical World Models as Visual Whole-Body Humanoid Controllers**, `arXiv, 2405.18418`, [arxiv](http://arxiv.org/abs/2405.18418v1), [pdf](http://arxiv.org/pdf/2405.18418v1.pdf), cication: [**-1**](None)
 
 	 *Nicklas Hansen, Jyothir S V, Vlad Sobal, Yann LeCun, Xiaolong Wang, Hao Su* · ([nicklashansen](https://www.nicklashansen.com/rlpuppeteer/)) · ([puppeteer](https://github.com/nicklashansen/puppeteer) - nicklashansen) ![Star](https://img.shields.io/github/stars/nicklashansen/puppeteer.svg?style=social&label=Star)
