@@ -13,6 +13,10 @@
 	 *Yang Liu, Changzhen Qiu, Zhiyong Zhang* · ([SOTA-3DHPE-HMR](https://github.com/liuyangme/SOTA-3DHPE-HMR) - liuyangme) ![Star](https://img.shields.io/github/stars/liuyangme/SOTA-3DHPE-HMR.svg?style=social&label=Star)
 
 ## Generation
+- **Animatable and Relightable Gaussians for High-fidelity Human Avatar
+  Modeling**, `arXiv, 2311.16096`, [arxiv](http://arxiv.org/abs/2311.16096v4), [pdf](http://arxiv.org/pdf/2311.16096v4.pdf), cication: [**-1**](None)
+
+	 *Zhe Li, Yipengjing Sun, Zerong Zheng, Lizhen Wang, Shengping Zhang, Yebin Liu* · ([animatable-gaussians.github](https://animatable-gaussians.github.io/)) · ([AnimatableGaussians](https://github.com/lizhe00/AnimatableGaussians) - lizhe00) ![Star](https://img.shields.io/github/stars/lizhe00/AnimatableGaussians.svg?style=social&label=Star)
 - **MOSS: Motion-based 3D Clothed Human Synthesis from Monocular Video**, `arXiv, 2405.12806`, [arxiv](http://arxiv.org/abs/2405.12806v1), [pdf](http://arxiv.org/pdf/2405.12806v1.pdf), cication: [**-1**](None)
 
 	 *Hongsheng Wang, Xiang Cai, Xi Sun, Jinhong Yue, Shengyu Zhang, Feng Lin, Fei Wu* · ([wanghongsheng01.github](https://wanghongsheng01.github.io/MOSS/)) · ([MOSS](https://github.com/3DHumanRehab/MOSS) - 3DHumanRehab) ![Star](https://img.shields.io/github/stars/3DHumanRehab/MOSS.svg?style=social&label=Star)

@@ -11,6 +11,9 @@
 ---
 
 ## Generating
+- **GGHead: Fast and Generalizable 3D Gaussian Heads**, `arXiv, 2406.09377`, [arxiv](http://arxiv.org/abs/2406.09377v1), [pdf](http://arxiv.org/pdf/2406.09377v1.pdf), cication: [**-1**](None)
+
+	 *Tobias Kirschstein, Simon Giebenhain, Jiapeng Tang, Markos Georgopoulos, Matthias Nießner* · ([tobias-kirschstein.github](https://tobias-kirschstein.github.io/gghead/))
 - **Topo4D: Topology-Preserving Gaussian Splatting for High-Fidelity 4D Head
   Capture**, `arXiv, 2406.00440`, [arxiv](http://arxiv.org/abs/2406.00440v1), [pdf](http://arxiv.org/pdf/2406.00440v1.pdf), cication: [**-1**](None)
 
@@ -266,6 +269,10 @@
 - [**Instruct-Video2Avatar**](https://github.com/lsx0101/Instruct-Video2Avatar) - lsx0101 ![Star](https://img.shields.io/github/stars/lsx0101/Instruct-Video2Avatar.svg?style=social&label=Star)
 
 ## Animation
+- **FaceTalk: Audio-Driven Motion Diffusion for Neural Parametric Head
+  Models**, `arXiv, 2312.08459`, [arxiv](http://arxiv.org/abs/2312.08459v2), [pdf](http://arxiv.org/pdf/2312.08459v2.pdf), cication: [**-1**](None)
+
+	 *Shivangi Aneja, Justus Thies, Angela Dai, Matthias Nießner* · ([shivangi-aneja.github](https://shivangi-aneja.github.io/projects/facetalk/)) · ([youtu](https://youtu.be/7Jf0kawrA3Q))
 - **DiffSpeaker: Speech-Driven 3D Facial Animation with Diffusion
   Transformer**, `arXiv, 2402.05712`, [arxiv](http://arxiv.org/abs/2402.05712v1), [pdf](http://arxiv.org/pdf/2402.05712v1.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=1678158788324612142&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 

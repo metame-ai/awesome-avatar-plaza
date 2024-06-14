@@ -6,6 +6,14 @@
 	- [Tools](#tools)
 
 ## Papers
+- **Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image
+  Animation**, `arXiv, 2406.08801`, [arxiv](http://arxiv.org/abs/2406.08801v1), [pdf](http://arxiv.org/pdf/2406.08801v1.pdf), cication: [**-1**](None)
+
+	 *Mingwang Xu, Hui Li, Qingkun Su, Hanlin Shang, Liwei Zhang, Ce Liu, Jingdong Wang, Luc Van Gool, Yao Yao, Siyu Zhu* · ([hallo](https://github.com/fudan-generative-vision/hallo) - fudan-generative-vision) ![Star](https://img.shields.io/github/stars/fudan-generative-vision/hallo.svg?style=social&label=Star) · ([fudan-generative-vision.github](https://fudan-generative-vision.github.io/hallo/#/))
+- **Make Your Actor Talk: Generalizable and High-Fidelity Lip Sync with
+  Motion and Appearance Disentanglement**, `arXiv, 2406.08096`, [arxiv](http://arxiv.org/abs/2406.08096v1), [pdf](http://arxiv.org/pdf/2406.08096v1.pdf), cication: [**-1**](None)
+
+	 *Runyi Yu, Tianyu He, Ailing Zeng, Yuchi Wang, Junliang Guo, Xu Tan, Chang Liu, Jie Chen, Jiang Bian* · ([ingrid789.github](https://ingrid789.github.io/MyTalk/))
 - **V-Express: Conditional Dropout for Progressive Training of Portrait
   Video Generation**, `arXiv, 2406.02511`, [arxiv](http://arxiv.org/abs/2406.02511v1), [pdf](http://arxiv.org/pdf/2406.02511v1.pdf), cication: [**-1**](None)
 
