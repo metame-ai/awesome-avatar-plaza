@@ -434,4 +434,5 @@
 
 
 ## Talks
+- [3D Humans Workshop @ CVPR 2024](https://sites.google.com/view/3d-humans-cvpr2024)
 - [3D Human Foundation Agents ](https://acorn.stanford.edu/SCIEN/video/2024_MichaelBlack.mp4)
