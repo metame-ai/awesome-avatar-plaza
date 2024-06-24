@@ -384,6 +384,10 @@
 	 *Yukun Huang, Jianan Wang, Ailing Zeng, He Cao, Xianbiao Qi, Yukai Shi, Zheng-Jun Zha, Lei Zhang*
 
 ## Body Reconstruction
+- **HumanSplat: Generalizable Single-Image Human Gaussian Splatting with
+  Structure Priors**, `arXiv, 2406.12459`, [arxiv](http://arxiv.org/abs/2406.12459v1), [pdf](http://arxiv.org/pdf/2406.12459v1.pdf), cication: [**-1**](None)
+
+	 *Panwang Pan, Zhuo Su, Chenguo Lin, Zhen Fan, Yongjie Zhang, Zeming Li, Tingting Shen, Yadong Mu, Yebin Liu* · ([humansplat.github](https://humansplat.github.io/))
 - **Human4DiT: Free-view Human Video Generation with 4D Diffusion
   Transformer**, `arXiv, 2405.17405`, [arxiv](http://arxiv.org/abs/2405.17405v1), [pdf](http://arxiv.org/pdf/2405.17405v1.pdf), cication: [**-1**](None)
 
