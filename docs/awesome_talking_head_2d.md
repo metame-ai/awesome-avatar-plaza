@@ -6,6 +6,10 @@
 	- [Tools](#tools)
 
 ## Papers
+- **AniFaceDiff: High-Fidelity Face Reenactment via Facial Parametric
+  Conditioned Diffusion Models**, `arXiv, 2406.13272`, [arxiv](http://arxiv.org/abs/2406.13272v1), [pdf](http://arxiv.org/pdf/2406.13272v1.pdf), cication: [**-1**](None)
+
+	 *Ken Chen, Sachith Seneviratne, Wei Wang, Dongting Hu, Sanjay Saha, Md. Tarek Hasan, Sanka Rasnayaka, Tamasha Malepathirana, Mingming Gong, Saman Halgamuge*
 - **Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image
   Animation**, `arXiv, 2406.08801`, [arxiv](http://arxiv.org/abs/2406.08801v1), [pdf](http://arxiv.org/pdf/2406.08801v1.pdf), cication: [**-1**](None)
 

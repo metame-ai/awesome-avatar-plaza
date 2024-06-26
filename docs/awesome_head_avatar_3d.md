@@ -11,6 +11,9 @@
 ---
 
 ## Generating
+- [Portrait3D: 3D Head Generation from Single In-the-wild Portrait Image](https://jinkun-hao.github.io/Portrait3D/)
+
+	 · ([jinkun-hao.github](https://jinkun-hao.github.io/Portrait3D/))
 - **GGHead: Fast and Generalizable 3D Gaussian Heads**, `arXiv, 2406.09377`, [arxiv](http://arxiv.org/abs/2406.09377v1), [pdf](http://arxiv.org/pdf/2406.09377v1.pdf), cication: [**-1**](None)
 
 	 *Tobias Kirschstein, Simon Giebenhain, Jiapeng Tang, Markos Georgopoulos, Matthias Nießner* · ([tobias-kirschstein.github](https://tobias-kirschstein.github.io/gghead/))
@@ -269,6 +272,10 @@
 - [**Instruct-Video2Avatar**](https://github.com/lsx0101/Instruct-Video2Avatar) - lsx0101 ![Star](https://img.shields.io/github/stars/lsx0101/Instruct-Video2Avatar.svg?style=social&label=Star)
 
 ## Animation
+- **MultiTalk: Enhancing 3D Talking Head Generation Across Languages with
+  Multilingual Video Dataset**, `arXiv, 2406.14272`, [arxiv](http://arxiv.org/abs/2406.14272v1), [pdf](http://arxiv.org/pdf/2406.14272v1.pdf), cication: [**-1**](None)
+
+	 *Kim Sung-Bin, Lee Chae-Yeon, Gihun Son, Oh Hyun-Bin, Janghoon Ju, Suekyeong Nam, Tae-Hyun Oh* · ([multi-talk.github](https://multi-talk.github.io/)) · ([MultiTalk](https://github.com/postech-ami/MultiTalk) - postech-ami) ![Star](https://img.shields.io/github/stars/postech-ami/MultiTalk.svg?style=social&label=Star)
 - **FaceTalk: Audio-Driven Motion Diffusion for Neural Parametric Head
   Models**, `arXiv, 2312.08459`, [arxiv](http://arxiv.org/abs/2312.08459v2), [pdf](http://arxiv.org/pdf/2312.08459v2.pdf), cication: [**-1**](None)
 
