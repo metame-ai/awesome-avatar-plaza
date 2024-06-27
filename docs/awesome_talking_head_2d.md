@@ -6,6 +6,10 @@
 	- [Tools](#tools)
 
 ## Papers
+- **RealTalk: Real-time and Realistic Audio-driven Face Generation with 3D
+  Facial Prior-guided Identity Alignment Network**, `arXiv, 2406.18284`, [arxiv](http://arxiv.org/abs/2406.18284v1), [pdf](http://arxiv.org/pdf/2406.18284v1.pdf), cication: [**-1**](None)
+
+	 *Xiaozhong Ji, Chuming Lin, Zhonggan Ding, Ying Tai, Jian Yang, Junwei Zhu, Xiaobin Hu, Jiangning Zhang, Donghao Luo, Chengjie Wang*
 - **AniFaceDiff: High-Fidelity Face Reenactment via Facial Parametric
   Conditioned Diffusion Models**, `arXiv, 2406.13272`, [arxiv](http://arxiv.org/abs/2406.13272v1), [pdf](http://arxiv.org/pdf/2406.13272v1.pdf), cication: [**-1**](None)
 
