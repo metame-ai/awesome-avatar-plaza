@@ -11,6 +11,9 @@
 ---
 
 ## Generating
+- **FAGhead: Fully Animate Gaussian Head from Monocular Videos**, `arXiv, 2406.19070`, [arxiv](http://arxiv.org/abs/2406.19070v1), [pdf](http://arxiv.org/pdf/2406.19070v1.pdf), cication: [**-1**](None)
+
+	 *Yixin Xuan, Xinyang Li, Gongxin Yao, Shiwei Zhou, Donghui Sun, Xiaoxin Chen, Yu Pan*
 - [Portrait3D: 3D Head Generation from Single In-the-wild Portrait Image](https://jinkun-hao.github.io/Portrait3D/)
 
 	 · ([jinkun-hao.github](https://jinkun-hao.github.io/Portrait3D/))
