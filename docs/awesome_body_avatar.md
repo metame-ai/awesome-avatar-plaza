@@ -13,6 +13,7 @@
 	 *Yang Liu, Changzhen Qiu, Zhiyong Zhang* · ([SOTA-3DHPE-HMR](https://github.com/liuyangme/SOTA-3DHPE-HMR) - liuyangme) ![Star](https://img.shields.io/github/stars/liuyangme/SOTA-3DHPE-HMR.svg?style=social&label=Star)
 
 ## Generation
+- [Expressive Gaussian Human Avatars from Monocular RGB Video](https://evahuman.github.io/)
 - **Animatable and Relightable Gaussians for High-fidelity Human Avatar
   Modeling**, `arXiv, 2311.16096`, [arxiv](http://arxiv.org/abs/2311.16096v4), [pdf](http://arxiv.org/pdf/2311.16096v4.pdf), cication: [**-1**](None)
 
@@ -221,6 +222,9 @@
 	 *Yangyi Huang, Hongwei Yi, Weiyang Liu, Haofan Wang, Boxi Wu, Wenxiao Wang, Binbin Lin, Debing Zhang, Deng Cai*
 
 ## Animation
+- [[2407.02272] Aligning Human Motion Generation with Human Perceptions](https://arxiv.org/abs/2407.02272)
+
+	 · ([motioncritic.github](https://motioncritic.github.io/)) · ([MotionCritic](https://github.com/ou524u/MotionCritic) - ou524u) ![Star](https://img.shields.io/github/stars/ou524u/MotionCritic.svg?style=social&label=Star)
 - **MoLA: Motion Generation and Editing with Latent Diffusion Enhanced by
   Adversarial Training**, `arXiv, 2406.01867`, [arxiv](http://arxiv.org/abs/2406.01867v1), [pdf](http://arxiv.org/pdf/2406.01867v1.pdf), cication: [**-1**](None)
 

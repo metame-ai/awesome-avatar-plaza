@@ -6,6 +6,9 @@
 	- [Tools](#tools)
 
 ## Papers
+- [2407.03168](https://arxiv.org/pdf/2407.03168)
+
+	 · ([liveportrait.github](https://liveportrait.github.io/)) · ([LivePortrait](https://github.com/KwaiVGI/LivePortrait?tab=readme-ov-file) - KwaiVGI) ![Star](https://img.shields.io/github/stars/KwaiVGI/LivePortrait.svg?style=social&label=Star)
 - **RealTalk: Real-time and Realistic Audio-driven Face Generation with 3D
   Facial Prior-guided Identity Alignment Network**, `arXiv, 2406.18284`, [arxiv](http://arxiv.org/abs/2406.18284v1), [pdf](http://arxiv.org/pdf/2406.18284v1.pdf), cication: [**-1**](None)
 
