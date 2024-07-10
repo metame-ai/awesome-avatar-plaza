@@ -222,7 +222,9 @@
 	 *Yangyi Huang, Hongwei Yi, Weiyang Liu, Haofan Wang, Boxi Wu, Wenxiao Wang, Binbin Lin, Debing Zhang, Deng Cai*
 
 ## Animation
-- [[2407.02272] Aligning Human Motion Generation with Human Perceptions](https://arxiv.org/abs/2407.02272)
+- **Aligning Human Motion Generation with Human Perceptions**, `arXiv, 2407.02272`, [arxiv](http://arxiv.org/abs/2407.02272v1), [pdf](http://arxiv.org/pdf/2407.02272v1.pdf), cication: [**-1**](None)
+
+	 *Haoru Wang, Wentao Zhu, Luyi Miao, Yishu Xu, Feng Gao, Qi Tian, Yizhou Wang*
 
 	 · ([motioncritic.github](https://motioncritic.github.io/)) · ([MotionCritic](https://github.com/ou524u/MotionCritic) - ou524u) ![Star](https://img.shields.io/github/stars/ou524u/MotionCritic.svg?style=social&label=Star)
 - **MoLA: Motion Generation and Editing with Latent Diffusion Enhanced by

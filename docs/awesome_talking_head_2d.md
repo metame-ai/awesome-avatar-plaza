@@ -6,7 +6,10 @@
 	- [Tools](#tools)
 
 ## Papers
-- [2407.03168](https://arxiv.org/pdf/2407.03168)
+- **LivePortrait: Efficient Portrait Animation with Stitching and
+  Retargeting Control**, `arXiv, 2407.03168`, [arxiv](http://arxiv.org/abs/2407.03168v1), [pdf](http://arxiv.org/pdf/2407.03168v1.pdf), cication: [**-1**](None)
+
+	 *Jianzhu Guo, Dingyun Zhang, Xiaoqiang Liu, Zhizhou Zhong, Yuan Zhang, Pengfei Wan, Di Zhang*
 
 	 · ([liveportrait.github](https://liveportrait.github.io/)) · ([LivePortrait](https://github.com/KwaiVGI/LivePortrait?tab=readme-ov-file) - KwaiVGI) ![Star](https://img.shields.io/github/stars/KwaiVGI/LivePortrait.svg?style=social&label=Star)
 - **RealTalk: Real-time and Realistic Audio-driven Face Generation with 3D
