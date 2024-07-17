@@ -6,6 +6,13 @@
 	- [Tools](#tools)
 
 ## Papers
+- **One-Shot Pose-Driving Face Animation Platform**, `arXiv, 2407.08949`, [arxiv](http://arxiv.org/abs/2407.08949v1), [pdf](http://arxiv.org/pdf/2407.08949v1.pdf), cication: [**-1**](None)
+
+	 *He Feng, Donglin Di, Yongjia Ma, Wei Chen, Tonghua Su*
+- **EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable
+  Landmark Conditions**, `arXiv, 2407.08136`, [arxiv](http://arxiv.org/abs/2407.08136v2), [pdf](http://arxiv.org/pdf/2407.08136v2.pdf), cication: [**-1**](None)
+
+	 *Zhiyuan Chen, Jiajiong Cao, Zhiquan Chen, Yuming Li, Chenguang Ma* · ([EchoMimic](https://github.com/BadToBest/EchoMimic?tab=readme-ov-file) - BadToBest) ![Star](https://img.shields.io/github/stars/BadToBest/EchoMimic.svg?style=social&label=Star) · ([badtobest.github](https://badtobest.github.io/echomimic.html))
 - **LivePortrait: Efficient Portrait Animation with Stitching and
   Retargeting Control**, `arXiv, 2407.03168`, [arxiv](http://arxiv.org/abs/2407.03168v1), [pdf](http://arxiv.org/pdf/2407.03168v1.pdf), cication: [**-1**](None)
 

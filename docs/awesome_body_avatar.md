@@ -13,6 +13,16 @@
 	 *Yang Liu, Changzhen Qiu, Zhiyong Zhang* · ([SOTA-3DHPE-HMR](https://github.com/liuyangme/SOTA-3DHPE-HMR) - liuyangme) ![Star](https://img.shields.io/github/stars/liuyangme/SOTA-3DHPE-HMR.svg?style=social&label=Star)
 
 ## Generation
+- **Interactive Rendering of Relightable and Animatable Gaussian Avatars**, `arXiv, 2407.10707`, [arxiv](http://arxiv.org/abs/2407.10707v1), [pdf](http://arxiv.org/pdf/2407.10707v1.pdf), cication: [**-1**](None)
+
+	 *Youyi Zhan, Tianjia Shao, He Wang, Yin Yang, Kun Zhou*
+- **PICA: Physics-Integrated Clothed Avatar**, `arXiv, 2407.05324`, [arxiv](http://arxiv.org/abs/2407.05324v1), [pdf](http://arxiv.org/pdf/2407.05324v1.pdf), cication: [**-1**](None)
+
+	 *Bo Peng, Yunfan Tao, Haoyu Zhan, Yudong Guo, Juyong Zhang*
+- **MeshAvatar: Learning High-quality Triangular Human Avatars from
+  Multi-view Videos**, `arXiv, 2407.08414`, [arxiv](http://arxiv.org/abs/2407.08414v1), [pdf](http://arxiv.org/pdf/2407.08414v1.pdf), cication: [**-1**](None)
+
+	 *Yushuo Chen, Zerong Zheng, Zhe Li, Chao Xu, Yebin Liu* · ([meshavatar](https://github.com/shad0wta9/meshavatar) - shad0wta9) ![Star](https://img.shields.io/github/stars/shad0wta9/meshavatar.svg?style=social&label=Star)
 - [Expressive Gaussian Human Avatars from Monocular RGB Video](https://evahuman.github.io/)
 - **Animatable and Relightable Gaussians for High-fidelity Human Avatar
   Modeling**, `arXiv, 2311.16096`, [arxiv](http://arxiv.org/abs/2311.16096v4), [pdf](http://arxiv.org/pdf/2311.16096v4.pdf), cication: [**-1**](None)
@@ -222,6 +232,15 @@
 	 *Yangyi Huang, Hongwei Yi, Weiyang Liu, Haofan Wang, Boxi Wu, Wenxiao Wang, Binbin Lin, Debing Zhang, Deng Cai*
 
 ## Animation
+- **CrowdMoGen: Zero-Shot Text-Driven Collective Motion Generation**, `arXiv, 2407.06188`, [arxiv](http://arxiv.org/abs/2407.06188v1), [pdf](http://arxiv.org/pdf/2407.06188v1.pdf), cication: [**-1**](None)
+
+	 *Xinying Guo, Mingyuan Zhang, Haozhe Xie, Chenyang Gu, Ziwei Liu* · ([gxyes.github](https://gxyes.github.io/projects/CrowdMoGen.html))
+- [Local Action-Guided Motion Diffusion Model for Text-to-Motion Generation](https://jpthu17.github.io/GuidedMotion-project/)
+
+	 · ([jpthu17.github](https://jpthu17.github.io/GuidedMotion-project/)) · ([jpthu17.github](https://jpthu17.github.io/GuidedMotion-project/))
+- **Infinite Motion: Extended Motion Generation via Long Text Instructions**, `arXiv, 2407.08443`, [arxiv](http://arxiv.org/abs/2407.08443v2), [pdf](http://arxiv.org/pdf/2407.08443v2.pdf), cication: [**-1**](None)
+
+	 *Mengtian Li, Chengshuo Zhai, Shengxiang Yao, Zhifeng Xie, Keyu Chen, Yu-Gang Jiang* · ([Infinite-Motion](https://github.com/shuochengzhai/Infinite-Motion) - shuochengzhai) ![Star](https://img.shields.io/github/stars/shuochengzhai/Infinite-Motion.svg?style=social&label=Star) · ([shuochengzhai.github](https://shuochengzhai.github.io/Infinite-motion.github.io/))
 - **Aligning Human Motion Generation with Human Perceptions**, `arXiv, 2407.02272`, [arxiv](http://arxiv.org/abs/2407.02272v1), [pdf](http://arxiv.org/pdf/2407.02272v1.pdf), cication: [**-1**](None)
 
 	 *Haoru Wang, Wentao Zhu, Luyi Miao, Yishu Xu, Feng Gao, Qi Tian, Yizhou Wang*
