@@ -65,7 +65,6 @@
   Customization in Latent Space**, `arXiv, 2405.05636`, [arxiv](http://arxiv.org/abs/2405.05636v1), [pdf](http://arxiv.org/pdf/2405.05636v1.pdf), cication: [**-1**](None)
 
 	 *Zeren Zhang, Haibo Qin, Jiayu Huang, Yixin Li, Hui Lin, Yitao Duan, Jinwen Ma* · ([swaptalk](https://swaptalk.cc/))
-	- 
 - **Embedded Representation Learning Network for Animating Styled Video
   Portrait**, `arXiv, 2404.19038`, [arxiv](http://arxiv.org/abs/2404.19038v1), [pdf](http://arxiv.org/pdf/2404.19038v1.pdf), cication: [**-1**](None)
 
