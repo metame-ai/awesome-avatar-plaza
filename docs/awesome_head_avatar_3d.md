@@ -11,6 +11,9 @@
 ---
 
 ## Generating
+- **RodinHD: High-Fidelity 3D Avatar Generation with Diffusion Models**, `arXiv, 2407.06938`, [arxiv](http://arxiv.org/abs/2407.06938v2), [pdf](http://arxiv.org/pdf/2407.06938v2.pdf), cication: [**-1**](None)
+
+	 *Bowen Zhang, Yiji Cheng, Chunyu Wang, Ting Zhang, Jiaolong Yang, Yansong Tang, Feng Zhao, Dong Chen, Baining Guo* · ([rodinhd.github](https://rodinhd.github.io/))
 - **FAGhead: Fully Animate Gaussian Head from Monocular Videos**, `arXiv, 2406.19070`, [arxiv](http://arxiv.org/abs/2406.19070v1), [pdf](http://arxiv.org/pdf/2406.19070v1.pdf), cication: [**-1**](None)
 
 	 *Yixin Xuan, Xinyang Li, Gongxin Yao, Shiwei Zhou, Donghui Sun, Xiaoxin Chen, Yu Pan*

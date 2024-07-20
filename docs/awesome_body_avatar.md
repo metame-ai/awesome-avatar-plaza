@@ -232,6 +232,9 @@
 	 *Yangyi Huang, Hongwei Yi, Weiyang Liu, Haofan Wang, Boxi Wu, Wenxiao Wang, Binbin Lin, Debing Zhang, Deng Cai*
 
 ## Animation
+- [**AI4Animation**](https://github.com/sebastianstarke/AI4Animation) - sebastianstarke ![Star](https://img.shields.io/github/stars/sebastianstarke/AI4Animation.svg?style=social&label=Star)
+
+	 *Bringing Characters to Life with Computer Brains in Unity*
 - **CrowdMoGen: Zero-Shot Text-Driven Collective Motion Generation**, `arXiv, 2407.06188`, [arxiv](http://arxiv.org/abs/2407.06188v1), [pdf](http://arxiv.org/pdf/2407.06188v1.pdf), cication: [**-1**](None)
 
 	 *Xinying Guo, Mingyuan Zhang, Haozhe Xie, Chenyang Gu, Ziwei Liu* · ([gxyes.github](https://gxyes.github.io/projects/CrowdMoGen.html))
