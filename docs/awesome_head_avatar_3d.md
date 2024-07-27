@@ -11,6 +11,9 @@
 ---
 
 ## Generating
+- **3D Gaussian Parametric Head Model**, `arXiv, 2407.15070`, [arxiv](http://arxiv.org/abs/2407.15070v1), [pdf](http://arxiv.org/pdf/2407.15070v1.pdf), cication: [**-1**](None)
+
+	 *Yuelang Xu, Lizhen Wang, Zerong Zheng, Zhaoqi Su, Yebin Liu* · ([yuelangx.github](https://yuelangx.github.io/gphm/))
 - **RodinHD: High-Fidelity 3D Avatar Generation with Diffusion Models**, `arXiv, 2407.06938`, [arxiv](http://arxiv.org/abs/2407.06938v2), [pdf](http://arxiv.org/pdf/2407.06938v2.pdf), cication: [**-1**](None)
 
 	 *Bowen Zhang, Yiji Cheng, Chunyu Wang, Ting Zhang, Jiaolong Yang, Yansong Tang, Feng Zhao, Dong Chen, Baining Guo* · ([rodinhd.github](https://rodinhd.github.io/))
@@ -278,6 +281,7 @@
 - [**Instruct-Video2Avatar**](https://github.com/lsx0101/Instruct-Video2Avatar) - lsx0101 ![Star](https://img.shields.io/github/stars/lsx0101/Instruct-Video2Avatar.svg?style=social&label=Star)
 
 ## Animation
+- [**EmoFace**](https://github.com/SJTU-Lucy/EmoFace) - SJTU-Lucy ![Star](https://img.shields.io/github/stars/SJTU-Lucy/EmoFace.svg?style=social&label=Star)
 - **MultiTalk: Enhancing 3D Talking Head Generation Across Languages with
   Multilingual Video Dataset**, `arXiv, 2406.14272`, [arxiv](http://arxiv.org/abs/2406.14272v1), [pdf](http://arxiv.org/pdf/2406.14272v1.pdf), cication: [**-1**](None)
 
