@@ -420,6 +420,9 @@
 	 *Liying Lu, Tianke Zhang, Yunfei Liu, Xuangeng Chu, Yu Li*
 
 ## Datasets
+- **VGGHeads: A Large-Scale Synthetic Dataset for 3D Human Heads**, `arXiv, 2407.18245`, [arxiv](http://arxiv.org/abs/2407.18245v1), [pdf](http://arxiv.org/pdf/2407.18245v1.pdf), cication: [**-1**](None)
+
+	 *Orest Kupyn, Eugene Khvedchenia, Christian Rupprecht*
 - **MMFace4D: A Large-Scale Multi-Modal 4D Face Dataset for Audio-Driven 3D
   Face Animation**, `arXiv, 2303.09797`, [arxiv](http://arxiv.org/abs/2303.09797v2), [pdf](http://arxiv.org/pdf/2303.09797v2.pdf), cication: [**-1**](None)
 
