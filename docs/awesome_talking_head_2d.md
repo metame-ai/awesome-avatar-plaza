@@ -318,6 +318,9 @@
 - [UniFLG: Unified Facial Landmark Generator from Text or Speech](https://rinnakk.github.io/research/publications/UniFLG/)
 
 ## Tools
+- [**metahuman-stream**](https://github.com/lipku/metahuman-stream?tab=readme-ov-file) - lipku ![Star](https://img.shields.io/github/stars/lipku/metahuman-stream.svg?style=social&label=Star)
+
+	 *Real time interactive streaming digital human*
 - [**pyvideotrans**](https://github.com/jianchang512/pyvideotrans) - jianchang512 ![Star](https://img.shields.io/github/stars/jianchang512/pyvideotrans.svg?style=social&label=Star)
 
 	 *Translate the video from one language to another and add dubbing. 将视频从一种语言翻译为另一种语言，并添加配音*
