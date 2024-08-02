@@ -418,6 +418,9 @@
 - **Audio-Driven 3D Facial Animation from In-the-Wild Videos**, `arXiv, 2306.11541`, [arxiv](http://arxiv.org/abs/2306.11541v1), [pdf](http://arxiv.org/pdf/2306.11541v1.pdf), cication: [**-1**](None)
 
 	 *Liying Lu, Tianke Zhang, Yunfei Liu, Xuangeng Chu, Yu Li*
+- **EmoTalk: Speech-Driven Emotional Disentanglement for 3D Face Animation**, `ICCV, 2023`, [arxiv](http://arxiv.org/abs/2303.11089v2), [pdf](http://arxiv.org/pdf/2303.11089v2.pdf), cication: [**52**](https://scholar.google.com/scholar?cites=2674036418232514619&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Ziqiao Peng, Haoyu Wu, Zhenbo Song, Hao Xu, Xiangyu Zhu, Jun He, Hongyan Liu, Zhaoxin Fan* · ([EmoTalk_release](https://github.com/psyai-net/EmoTalk_release) - psyai-net) ![Star](https://img.shields.io/github/stars/psyai-net/EmoTalk_release.svg?style=social&label=Star)
 
 ## Datasets
 - **VGGHeads: A Large-Scale Synthetic Dataset for 3D Human Heads**, `arXiv, 2407.18245`, [arxiv](http://arxiv.org/abs/2407.18245v1), [pdf](http://arxiv.org/pdf/2407.18245v1.pdf), cication: [**-1**](None)
