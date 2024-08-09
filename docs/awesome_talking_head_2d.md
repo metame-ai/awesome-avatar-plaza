@@ -326,6 +326,7 @@
 	 *Translate the video from one language to another and add dubbing. 将视频从一种语言翻译为另一种语言，并添加配音*
 
 ## Products
+- [AI Twin, only on Captions](https://x.com/getcaptionsapp/status/1818317828292014519)
 - [Stream](https://apparate.ai/stream.html)
 - [AI video shorts for social media in <2 minutes](https://www.argil.ai/)
 - [heygen](https://twitter.com/HeyGen_Official/status/1773119891068883240)
