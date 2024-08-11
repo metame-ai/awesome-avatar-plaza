@@ -11,6 +11,17 @@
 ---
 
 ## Generating
+- **Gaussian Eigen Models for Human Heads**, `arXiv, 2407.04545`, [arxiv](http://arxiv.org/abs/2407.04545v1), [pdf](http://arxiv.org/pdf/2407.04545v1.pdf), cication: [**-1**](None)
+
+	 *Wojciech Zielonka, Timo Bolkart, Thabo Beeler, Justus Thies* · ([zielon.github](https://zielon.github.io/gem/))
+- **EmoTalk3D: High-Fidelity Free-View Synthesis of Emotional 3D Talking
+  Head**, `arXiv, 2408.00297`, [arxiv](http://arxiv.org/abs/2408.00297v1), [pdf](http://arxiv.org/pdf/2408.00297v1.pdf), cication: [**-1**](None)
+
+	 *Qianyun He, Xinya Ji, Yicheng Gong, Yuanxun Lu, Zhengyu Diao, Linjia Huang, Yao Yao, Siyu Zhu, Zhan Ma, Songcen Xu* · ([nju-3dv.github](https://nju-3dv.github.io/projects/EmoTalk3D))
+- **Bridging the Gap: Studio-like Avatar Creation from a Monocular Phone
+  Capture**, `arXiv, 2407.19593`, [arxiv](http://arxiv.org/abs/2407.19593v2), [pdf](http://arxiv.org/pdf/2407.19593v2.pdf), cication: [**-1**](None)
+
+	 *ShahRukh Athar, Shunsuke Saito, Zhengyu Yang, Stanislav Pidhorsky, Chen Cao* · ([shahrukhathar.github](https://shahrukhathar.github.io/2024/07/22/Bridging.html))
 - **3D Gaussian Parametric Head Model**, `arXiv, 2407.15070`, [arxiv](http://arxiv.org/abs/2407.15070v1), [pdf](http://arxiv.org/pdf/2407.15070v1.pdf), cication: [**-1**](None)
 
 	 *Yuelang Xu, Lizhen Wang, Zerong Zheng, Zhaoqi Su, Yebin Liu* · ([yuelangx.github](https://yuelangx.github.io/gphm/))
@@ -281,6 +292,18 @@
 - [**Instruct-Video2Avatar**](https://github.com/lsx0101/Instruct-Video2Avatar) - lsx0101 ![Star](https://img.shields.io/github/stars/lsx0101/Instruct-Video2Avatar.svg?style=social&label=Star)
 
 ## Animation
+- **GLDiTalker: Speech-Driven 3D Facial Animation with Graph Latent
+  Diffusion Transformer**, `arXiv, 2408.01826`, [arxiv](http://arxiv.org/abs/2408.01826v1), [pdf](http://arxiv.org/pdf/2408.01826v1.pdf), cication: [**-1**](None)
+
+	 *Yihong Lin, Lingyu Xiong, Xiandong Li, Wenxiong Kang, Xianjia Wu, Liang Peng, Songju Lei, Huang Xu, Zhaoxin Fan*
+- **JambaTalk: Speech-Driven 3D Talking Head Generation Based on Hybrid
+  Transformer-Mamba Model**, `arXiv, 2408.01627`, [arxiv](http://arxiv.org/abs/2408.01627v1), [pdf](http://arxiv.org/pdf/2408.01627v1.pdf), cication: [**-1**](None)
+
+	 *Farzaneh Jafari, Stefano Berretti, Anup Basu*
+- **UniTalker: Scaling up Audio-Driven 3D Facial Animation through A Unified
+  Model**, `arXiv, 2408.00762`, [arxiv](http://arxiv.org/abs/2408.00762v1), [pdf](http://arxiv.org/pdf/2408.00762v1.pdf), cication: [**-1**](None)
+
+	 *Xiangyu Fan, Jiaqi Li, Zhiqian Lin, Weiye Xiao, Lei Yang* · ([UniTalker](https://github.com/X-niper/UniTalker) - X-niper) ![Star](https://img.shields.io/github/stars/X-niper/UniTalker.svg?style=social&label=Star) · ([x-niper.github](https://x-niper.github.io/projects/UniTalker/))
 - [**EmoFace**](https://github.com/SJTU-Lucy/EmoFace) - SJTU-Lucy ![Star](https://img.shields.io/github/stars/SJTU-Lucy/EmoFace.svg?style=social&label=Star)
 - **MultiTalk: Enhancing 3D Talking Head Generation Across Languages with
   Multilingual Video Dataset**, `arXiv, 2406.14272`, [arxiv](http://arxiv.org/abs/2406.14272v1), [pdf](http://arxiv.org/pdf/2406.14272v1.pdf), cication: [**-1**](None)

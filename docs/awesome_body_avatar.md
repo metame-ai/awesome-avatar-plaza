@@ -13,6 +13,9 @@
 	 *Yang Liu, Changzhen Qiu, Zhiyong Zhang* · ([SOTA-3DHPE-HMR](https://github.com/liuyangme/SOTA-3DHPE-HMR) - liuyangme) ![Star](https://img.shields.io/github/stars/liuyangme/SOTA-3DHPE-HMR.svg?style=social&label=Star)
 
 ## Generation
+- **Expressive Whole-Body 3D Gaussian Avatar**, `arXiv, 2407.21686`, [arxiv](http://arxiv.org/abs/2407.21686v1), [pdf](http://arxiv.org/pdf/2407.21686v1.pdf), cication: [**-1**](None)
+
+	 *Gyeongsik Moon, Takaaki Shiratori, Shunsuke Saito* · ([mks0601.github](https://mks0601.github.io/ExAvatar/))
 - **Interactive Rendering of Relightable and Animatable Gaussian Avatars**, `arXiv, 2407.10707`, [arxiv](http://arxiv.org/abs/2407.10707v1), [pdf](http://arxiv.org/pdf/2407.10707v1.pdf), cication: [**-1**](None)
 
 	 *Youyi Zhan, Tianjia Shao, He Wang, Yin Yang, Kun Zhou*

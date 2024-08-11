@@ -6,6 +6,10 @@
 	- [Tools](#tools)
 
 ## Papers
+- **ReSyncer: Rewiring Style-based Generator for Unified Audio-Visually
+  Synced Facial Performer**, `arXiv, 2408.03284`, [arxiv](http://arxiv.org/abs/2408.03284v1), [pdf](http://arxiv.org/pdf/2408.03284v1.pdf), cication: [**-1**](None)
+
+	 *Jiazhi Guan, Zhiliang Xu, Hang Zhou, Kaisiyuan Wang, Shengyi He, Zhanwang Zhang, Borong Liang, Haocheng Feng, Errui Ding, Jingtuo Liu* · ([guanjz20.github](https://guanjz20.github.io/projects/ReSyncer/))
 - **One-Shot Pose-Driving Face Animation Platform**, `arXiv, 2407.08949`, [arxiv](http://arxiv.org/abs/2407.08949v1), [pdf](http://arxiv.org/pdf/2407.08949v1.pdf), cication: [**-1**](None)
 
 	 *He Feng, Donglin Di, Yongjia Ma, Wei Chen, Tonghua Su*
