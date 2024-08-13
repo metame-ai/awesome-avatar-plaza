@@ -292,6 +292,10 @@
 - [**Instruct-Video2Avatar**](https://github.com/lsx0101/Instruct-Video2Avatar) - lsx0101 ![Star](https://img.shields.io/github/stars/lsx0101/Instruct-Video2Avatar.svg?style=social&label=Star)
 
 ## Animation
+- **DEEPTalk: Dynamic Emotion Embedding for Probabilistic Speech-Driven 3D
+  Face Animation**, `arXiv, 2408.06010`, [arxiv](http://arxiv.org/abs/2408.06010v1), [pdf](http://arxiv.org/pdf/2408.06010v1.pdf), cication: [**-1**](None)
+
+	 *Jisoo Kim, Jungbin Cho, Joonho Park, Soonmin Hwang, Da Eun Kim, Geon Kim, Youngjae Yu*
 - **GLDiTalker: Speech-Driven 3D Facial Animation with Graph Latent
   Diffusion Transformer**, `arXiv, 2408.01826`, [arxiv](http://arxiv.org/abs/2408.01826v1), [pdf](http://arxiv.org/pdf/2408.01826v1.pdf), cication: [**-1**](None)
 

@@ -6,6 +6,13 @@
 	- [Tools](#tools)
 
 ## Papers
+- **High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based
+  Diffusion Model**, `arXiv, 2408.05416`, [arxiv](http://arxiv.org/abs/2408.05416v1), [pdf](http://arxiv.org/pdf/2408.05416v1.pdf), cication: [**-1**](None)
+
+	 *Weizhi Zhong, Junfan Lin, Peixin Chen, Liang Lin, Guanbin Li*
+- **Style-Preserving Lip Sync via Audio-Aware Style Reference**, `arXiv, 2408.05412`, [arxiv](http://arxiv.org/abs/2408.05412v1), [pdf](http://arxiv.org/pdf/2408.05412v1.pdf), cication: [**-1**](None)
+
+	 *Weizhi Zhong, Jichang Li, Yinqi Cai, Liang Lin, Guanbin Li*
 - **ReSyncer: Rewiring Style-based Generator for Unified Audio-Visually
   Synced Facial Performer**, `arXiv, 2408.03284`, [arxiv](http://arxiv.org/abs/2408.03284v1), [pdf](http://arxiv.org/pdf/2408.03284v1.pdf), cication: [**-1**](None)
 
