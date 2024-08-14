@@ -11,6 +11,9 @@
 ---
 
 ## Generating
+- **HeadGAP: Few-shot 3D Head Avatar via Generalizable Gaussian Priors**, `arXiv, 2408.06019`, [arxiv](http://arxiv.org/abs/2408.06019v1), [pdf](http://arxiv.org/pdf/2408.06019v1.pdf), cication: [**-1**](None)
+
+	 *Xiaozheng Zheng, Chao Wen, Zhaohu Li, Weiyi Zhang, Zhuo Su, Xu Chang, Yang Zhao, Zheng Lv, Xiaoyuan Zhang, Yongjie Zhang* · ([headgap.github](https://headgap.github.io/))
 - **Gaussian Eigen Models for Human Heads**, `arXiv, 2407.04545`, [arxiv](http://arxiv.org/abs/2407.04545v1), [pdf](http://arxiv.org/pdf/2407.04545v1.pdf), cication: [**-1**](None)
 
 	 *Wojciech Zielonka, Timo Bolkart, Thabo Beeler, Justus Thies* · ([zielon.github](https://zielon.github.io/gem/))
