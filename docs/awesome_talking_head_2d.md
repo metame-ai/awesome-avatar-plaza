@@ -6,6 +6,14 @@
 	- [Tools](#tools)
 
 ## Papers
+- **FD2Talk: Towards Generalized Talking Head Generation with Facial
+  Decoupled Diffusion Model**, `arXiv, 2408.09384`, [arxiv](http://arxiv.org/abs/2408.09384v1), [pdf](http://arxiv.org/pdf/2408.09384v1.pdf), cication: [**-1**](None)
+
+	 *Ziyu Yao, Xuxin Cheng, Zhiqi Huang*
+- **S^3D-NeRF: Single-Shot Speech-Driven Neural Radiance Field for High
+  Fidelity Talking Head Synthesis**, `arXiv, 2408.09347`, [arxiv](http://arxiv.org/abs/2408.09347v1), [pdf](http://arxiv.org/pdf/2408.09347v1.pdf), cication: [**-1**](None)
+
+	 *Dongze Li, Kang Zhao, Wei Wang, Yifeng Ma, Bo Peng, Yingya Zhang, Jing Dong*
 - **High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based
   Diffusion Model**, `arXiv, 2408.05416`, [arxiv](http://arxiv.org/abs/2408.05416v1), [pdf](http://arxiv.org/pdf/2408.05416v1.pdf), cication: [**-1**](None)
 
@@ -337,6 +345,9 @@
 	 *Translate the video from one language to another and add dubbing. 将视频从一种语言翻译为另一种语言，并添加配音*
 
 ## Products
+- [Conversational Replicas by Tavus](https://www.producthunt.com/posts/conversational-replicas-by-tavus)
+
+	 · ([youtube](https://www.youtube.com/watch?v=7ORfzqDEfgw)) · ([qbitai](https://www.qbitai.com/2024/08/179418.html))
 - [AI Twin, only on Captions](https://x.com/getcaptionsapp/status/1818317828292014519)
 - [Stream](https://apparate.ai/stream.html)
 - [AI video shorts for social media in <2 minutes](https://www.argil.ai/)

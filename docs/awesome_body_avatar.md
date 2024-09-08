@@ -13,6 +13,9 @@
 	 *Yang Liu, Changzhen Qiu, Zhiyong Zhang* · ([SOTA-3DHPE-HMR](https://github.com/liuyangme/SOTA-3DHPE-HMR) - liuyangme) ![Star](https://img.shields.io/github/stars/liuyangme/SOTA-3DHPE-HMR.svg?style=social&label=Star)
 
 ## Generation
+- **DEGAS: Detailed Expressions on Full-Body Gaussian Avatars**, `arXiv, 2408.10588`, [arxiv](http://arxiv.org/abs/2408.10588v1), [pdf](http://arxiv.org/pdf/2408.10588v1.pdf), cication: [**-1**](None)
+
+	 *Zhijing Shao, Duotun Wang, Qing-Yao Tian, Yao-Dong Yang, Hengyu Meng, Zeyu Cai, Bo Dong, Yu Zhang, Kang Zhang, Zeyu Wang*
 - **Expressive Whole-Body 3D Gaussian Avatar**, `arXiv, 2407.21686`, [arxiv](http://arxiv.org/abs/2407.21686v1), [pdf](http://arxiv.org/pdf/2407.21686v1.pdf), cication: [**-1**](None)
 
 	 *Gyeongsik Moon, Takaaki Shiratori, Shunsuke Saito* · ([mks0601.github](https://mks0601.github.io/ExAvatar/))
@@ -235,6 +238,12 @@
 	 *Yangyi Huang, Hongwei Yi, Weiyang Liu, Haofan Wang, Boxi Wu, Wenxiao Wang, Binbin Lin, Debing Zhang, Deng Cai*
 
 ## Animation
+- **T3M: Text Guided 3D Human Motion Synthesis from Speech**, `findings of the association for computational linguistics: naacl 2024, 2024`, [arxiv](http://arxiv.org/abs/2408.12885v1), [pdf](http://arxiv.org/pdf/2408.12885v1.pdf), cication: [**-1**](None)
+
+	 *Wenshuo Peng, Kaipeng Zhang, Sai Qian Zhang* · ([T3M](https://github.com/Gloria2tt/T3M) - Gloria2tt) ![Star](https://img.shields.io/github/stars/Gloria2tt/T3M.svg?style=social&label=Star)
+- [Combo Demo - YouTube](https://www.youtube.com/watch?v=i39semywOqw) 
+
+	 · ([xc-csc101.github](https://xc-csc101.github.io/combo/))
 - [**AI4Animation**](https://github.com/sebastianstarke/AI4Animation) - sebastianstarke ![Star](https://img.shields.io/github/stars/sebastianstarke/AI4Animation.svg?style=social&label=Star)
 
 	 *Bringing Characters to Life with Computer Brains in Unity*
@@ -436,6 +445,9 @@
 	 · ([scorehmr](https://github.com/statho/scorehmr) - statho) ![Star](https://img.shields.io/github/stars/statho/scorehmr.svg?style=social&label=Star)
 
 ## Misc
+- **Sapiens: Foundation for Human Vision Models**, `arXiv, 2408.12569`, [arxiv](http://arxiv.org/abs/2408.12569v3), [pdf](http://arxiv.org/pdf/2408.12569v3.pdf), cication: [**-1**](None)
+
+	 *Rawal Khirodkar, Timur Bagautdinov, Julieta Martinez, Su Zhaoen, Austin James, Peter Selednik, Stuart Anderson, Shunsuke Saito* · ([about.meta](https://about.meta.com/realitylabs/codecavatars/sapiens))
 - **InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction**, `arXiv, 2403.19652`, [arxiv](http://arxiv.org/abs/2403.19652v1), [pdf](http://arxiv.org/pdf/2403.19652v1.pdf), cication: [**-1**](None)
 
 	 *Sirui Xu, Ziyin Wang, Yu-Xiong Wang, Liang-Yan Gui*

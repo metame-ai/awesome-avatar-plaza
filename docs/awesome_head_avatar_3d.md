@@ -11,6 +11,9 @@
 ---
 
 ## Generating
+- [**Barbie**](https://github.com/2017211801/Barbie) - 2017211801 ![Star](https://img.shields.io/github/stars/2017211801/Barbie.svg?style=social&label=Star)
+
+	 · ([Barbie](https://github.com/2017211801/Barbie) - 2017211801) ![Star](https://img.shields.io/github/stars/2017211801/Barbie.svg?style=social&label=Star)
 - **HeadGAP: Few-shot 3D Head Avatar via Generalizable Gaussian Priors**, `arXiv, 2408.06019`, [arxiv](http://arxiv.org/abs/2408.06019v1), [pdf](http://arxiv.org/pdf/2408.06019v1.pdf), cication: [**-1**](None)
 
 	 *Xiaozheng Zheng, Chao Wen, Zhaohu Li, Weiyi Zhang, Zhuo Su, Xu Chang, Yang Zhao, Zheng Lv, Xiaoyuan Zhang, Yongjie Zhang* · ([headgap.github](https://headgap.github.io/))
@@ -295,6 +298,10 @@
 - [**Instruct-Video2Avatar**](https://github.com/lsx0101/Instruct-Video2Avatar) - lsx0101 ![Star](https://img.shields.io/github/stars/lsx0101/Instruct-Video2Avatar.svg?style=social&label=Star)
 
 ## Animation
+- **EmoFace: Emotion-Content Disentangled Speech-Driven 3D Talking Face with
+  Mesh Attention**, `arXiv, 2408.11518`, [arxiv](http://arxiv.org/abs/2408.11518v1), [pdf](http://arxiv.org/pdf/2408.11518v1.pdf), cication: [**-1**](None)
+
+	 *Yihong Lin, Liang Peng, Jianqiao Hu, Xiandong Li, Wenxiong Kang, Songju Lei, Xianjia Wu, Huang Xu*
 - **DEEPTalk: Dynamic Emotion Embedding for Probabilistic Speech-Driven 3D
   Face Animation**, `arXiv, 2408.06010`, [arxiv](http://arxiv.org/abs/2408.06010v1), [pdf](http://arxiv.org/pdf/2408.06010v1.pdf), cication: [**-1**](None)
 
