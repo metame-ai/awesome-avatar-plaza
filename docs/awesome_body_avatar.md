@@ -13,6 +13,9 @@
 	 *Yang Liu, Changzhen Qiu, Zhiyong Zhang* · ([SOTA-3DHPE-HMR](https://github.com/liuyangme/SOTA-3DHPE-HMR) - liuyangme) ![Star](https://img.shields.io/github/stars/liuyangme/SOTA-3DHPE-HMR.svg?style=social&label=Star)
 
 ## Generation
+- **PuzzleAvatar: Assembling 3D Avatars from Personal Albums**, `arXiv, 2405.14869`, [arxiv](http://arxiv.org/abs/2405.14869v1), [pdf](http://arxiv.org/pdf/2405.14869v1.pdf), cication: [**-1**](None)
+
+	 *Yuliang Xiu, Yufei Ye, Zhen Liu, Dimitrios Tzionas, Michael J. Black* · ([PuzzleAvatar](https://github.com/YuliangXiu/PuzzleAvatar?tab=readme-ov-file) - YuliangXiu) ![Star](https://img.shields.io/github/stars/YuliangXiu/PuzzleAvatar.svg?style=social&label=Star)
 - **DEGAS: Detailed Expressions on Full-Body Gaussian Avatars**, `arXiv, 2408.10588`, [arxiv](http://arxiv.org/abs/2408.10588v1), [pdf](http://arxiv.org/pdf/2408.10588v1.pdf), cication: [**-1**](None)
 
 	 *Zhijing Shao, Duotun Wang, Qing-Yao Tian, Yao-Dong Yang, Hengyu Meng, Zeyu Cai, Bo Dong, Yu Zhang, Kang Zhang, Zeyu Wang*

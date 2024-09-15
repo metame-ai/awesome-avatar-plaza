@@ -6,6 +6,10 @@
 	- [Tools](#tools)
 
 ## Papers
+- **Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion
+  Dependency**, `arXiv, 2409.02634`, [arxiv](http://arxiv.org/abs/2409.02634v2), [pdf](http://arxiv.org/pdf/2409.02634v2.pdf), cication: [**-1**](None)
+
+	 *Jianwen Jiang, Chao Liang, Jiaqi Yang, Gaojie Lin, Tianyun Zhong, Yanbo Zheng* · ([loopyavatar.github](https://loopyavatar.github.io/))
 - **FD2Talk: Towards Generalized Talking Head Generation with Facial
   Decoupled Diffusion Model**, `arXiv, 2408.09384`, [arxiv](http://arxiv.org/abs/2408.09384v1), [pdf](http://arxiv.org/pdf/2408.09384v1.pdf), cication: [**-1**](None)
 
