@@ -6,6 +6,25 @@
 	- [Tools](#tools)
 
 ## Papers
+- **EMOdiffhead: Continuously Emotional Control in Talking Head Generation
+  via Diffusion**, `arXiv, 2409.07255`, [arxiv](http://arxiv.org/abs/2409.07255v1), [pdf](http://arxiv.org/pdf/2409.07255v1.pdf), cication: [**-1**](None)
+
+	 *Jian Zhang, Weijian Mai, Zhijun Zhang*
+- **DiffTED: One-shot Audio-driven TED Talk Video Generation with
+  Diffusion-based Co-speech Gestures**, `CVPR, 2024`, [arxiv](http://arxiv.org/abs/2409.07649v1), [pdf](http://arxiv.org/pdf/2409.07649v1.pdf), cication: [**3**](https://scholar.google.com/scholar?cites=3535984716695992362&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Steven Hogue, Chenxu Zhang, Hamza Daruger, Yapeng Tian, Xiaohu Guo*
+- **SVP: Style-Enhanced Vivid Portrait Talking Head Diffusion Model**, `arXiv, 2409.03270`, [arxiv](http://arxiv.org/abs/2409.03270v1), [pdf](http://arxiv.org/pdf/2409.03270v1.pdf), cication: [**-1**](None)
+
+	 *Weipeng Tan, Chuming Lin, Chengming Xu, Xiaozhong Ji, Junwei Zhu, Chengjie Wang, Yanwei Fu*
+- **PoseTalk: Text-and-Audio-based Pose Control and Motion Refinement for
+  One-Shot Talking Head Generation**, `arXiv, 2409.02657`, [arxiv](http://arxiv.org/abs/2409.02657v1), [pdf](http://arxiv.org/pdf/2409.02657v1.pdf), cication: [**-1**](None)
+
+	 *Jun Ling, Yiwen Wang, Han Xue, Rong Xie, Li Song* · ([junleen.github](https://junleen.github.io/projects/posetalk/))
+- **CyberHost: Taming Audio-driven Avatar Diffusion Model with Region
+  Codebook Attention**, `arXiv, 2409.01876`, [arxiv](http://arxiv.org/abs/2409.01876v2), [pdf](http://arxiv.org/pdf/2409.01876v2.pdf), cication: [**-1**](None)
+
+	 *Gaojie Lin, Jianwen Jiang, Chao Liang, Tianyun Zhong, Jiaqi Yang, Yanbo Zheng* · ([cyberhost.github](https://cyberhost.github.io/))
 - **Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion
   Dependency**, `arXiv, 2409.02634`, [arxiv](http://arxiv.org/abs/2409.02634v2), [pdf](http://arxiv.org/pdf/2409.02634v2.pdf), cication: [**-1**](None)
 

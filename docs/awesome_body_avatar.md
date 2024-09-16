@@ -13,6 +13,21 @@
 	 *Yang Liu, Changzhen Qiu, Zhiyong Zhang* · ([SOTA-3DHPE-HMR](https://github.com/liuyangme/SOTA-3DHPE-HMR) - liuyangme) ![Star](https://img.shields.io/github/stars/liuyangme/SOTA-3DHPE-HMR.svg?style=social&label=Star)
 
 ## Generation
+- **Human-VDM: Learning Single-Image 3D Human Gaussian Splatting from Video
+  Diffusion Models**, `arXiv, 2409.02851`, [arxiv](http://arxiv.org/abs/2409.02851v1), [pdf](http://arxiv.org/pdf/2409.02851v1.pdf), cication: [**-1**](None)
+
+	 *Zhibin Liu, Haoye Dong, Aviral Chharia, Hefeng Wu* · ([human-vdm.github](https://human-vdm.github.io/Human-VDM/))
+- **DreamHOI: Subject-Driven Generation of 3D Human-Object Interactions with
+  Diffusion Priors**, `arXiv, 2409.08278`, [arxiv](http://arxiv.org/abs/2409.08278v1), [pdf](http://arxiv.org/pdf/2409.08278v1.pdf), cication: [**-1**](None)
+
+	 *Thomas Hanwen Zhu, Ruining Li, Tomas Jakab* · ([dreamhoi.github](https://dreamhoi.github.io/))
+- **GST: Precise 3D Human Body from a Single Image with Gaussian Splatting
+  Transformers**, `arXiv, 2409.04196`, [arxiv](http://arxiv.org/abs/2409.04196v1), [pdf](http://arxiv.org/pdf/2409.04196v1.pdf), cication: [**-1**](None)
+
+	 *Lorenza Prospero, Abdullah Hamdi, Joao F. Henriques, Christian Rupprecht* · ([abdullahamdi](https://abdullahamdi.com/gst/))
+- **TEDRA: Text-based Editing of Dynamic and Photoreal Actors**, `arXiv, 2408.15995`, [arxiv](http://arxiv.org/abs/2408.15995v1), [pdf](http://arxiv.org/pdf/2408.15995v1.pdf), cication: [**-1**](None)
+
+	 *Basavaraj Sunagad, Heming Zhu, Mohit Mendiratta, Adam Kortylewski, Christian Theobalt, Marc Habermann* · ([vcai.mpi-inf.mpg](https://vcai.mpi-inf.mpg.de/projects/Tedra/))
 - **PuzzleAvatar: Assembling 3D Avatars from Personal Albums**, `arXiv, 2405.14869`, [arxiv](http://arxiv.org/abs/2405.14869v1), [pdf](http://arxiv.org/pdf/2405.14869v1.pdf), cication: [**-1**](None)
 
 	 *Yuliang Xiu, Yufei Ye, Zhen Liu, Dimitrios Tzionas, Michael J. Black* · ([PuzzleAvatar](https://github.com/YuliangXiu/PuzzleAvatar?tab=readme-ov-file) - YuliangXiu) ![Star](https://img.shields.io/github/stars/YuliangXiu/PuzzleAvatar.svg?style=social&label=Star)
@@ -241,6 +256,9 @@
 	 *Yangyi Huang, Hongwei Yi, Weiyang Liu, Haofan Wang, Boxi Wu, Wenxiao Wang, Binbin Lin, Debing Zhang, Deng Cai*
 
 ## Animation
+- **AMG: Avatar Motion Guided Video Generation**, `arXiv, 2409.01502`, [arxiv](http://arxiv.org/abs/2409.01502v1), [pdf](http://arxiv.org/pdf/2409.01502v1.pdf), cication: [**-1**](None)
+
+	 *Zhangsihao Yang, Mengyi Shan, Mohammad Farazi, Wenhui Zhu, Yanxi Chen, Xuanzhao Dong, Yalin Wang* · ([amg](https://github.com/zshyang/amg) - zshyang) ![Star](https://img.shields.io/github/stars/zshyang/amg.svg?style=social&label=Star)
 - **T3M: Text Guided 3D Human Motion Synthesis from Speech**, `findings of the association for computational linguistics: naacl 2024, 2024`, [arxiv](http://arxiv.org/abs/2408.12885v1), [pdf](http://arxiv.org/pdf/2408.12885v1.pdf), cication: [**-1**](None)
 
 	 *Wenshuo Peng, Kaipeng Zhang, Sai Qian Zhang* · ([T3M](https://github.com/Gloria2tt/T3M) - Gloria2tt) ![Star](https://img.shields.io/github/stars/Gloria2tt/T3M.svg?style=social&label=Star)

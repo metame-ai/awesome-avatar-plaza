@@ -11,6 +11,10 @@
 ---
 
 ## Generating
+- **GenCA: A Text-conditioned Generative Model for Realistic and Drivable
+  Codec Avatars**, `arXiv, 2408.13674`, [arxiv](http://arxiv.org/abs/2408.13674v1), [pdf](http://arxiv.org/pdf/2408.13674v1.pdf), cication: [**-1**](None)
+
+	 *Keqiang Sun, Amin Jourabloo, Riddhish Bhalodia, Moustafa Meshry, Yu Rong, Zhengyu Yang, Thu Nguyen-Phuoc, Christian Haene, Jiu Xu, Sam Johnson*
 - [**Barbie**](https://github.com/2017211801/Barbie) - 2017211801 ![Star](https://img.shields.io/github/stars/2017211801/Barbie.svg?style=social&label=Star)
 
 	 · ([Barbie](https://github.com/2017211801/Barbie) - 2017211801) ![Star](https://img.shields.io/github/stars/2017211801/Barbie.svg?style=social&label=Star)
@@ -278,6 +282,10 @@
 	 *Xuan Gao, Chenglai Zhong, Jun Xiang, Yang Hong, Yudong Guo, Juyong Zhang* · ([ustc3dv.github](https://ustc3dv.github.io/NeRFBlendShape/)) · ([NeRFBlendShape-code](https://github.com/USTC3DV/NeRFBlendShape-code) - USTC3DV) ![Star](https://img.shields.io/github/stars/USTC3DV/NeRFBlendShape-code.svg?style=social&label=Star)
 
 ## Editing
+- **Instant Facial Gaussians Translator for Relightable and Interactable
+  Facial Rendering**, `arXiv, 2409.07441`, [arxiv](http://arxiv.org/abs/2409.07441v1), [pdf](http://arxiv.org/pdf/2409.07441v1.pdf), cication: [**-1**](None)
+
+	 *Dafei Qin, Hongyang Lin, Qixuan Zhang, Kaichun Qiao, Longwen Zhang, Zijun Zhao, Jun Saito, Jingyi Yu, Lan Xu, Taku Komura* · ([dafei-qin.github](https://dafei-qin.github.io/TransGS.github.io/))
 - **Text-Guided Generation and Editing of Compositional 3D Avatars**, `arXiv, 2309.07125`, [arxiv](http://arxiv.org/abs/2309.07125v1), [pdf](http://arxiv.org/pdf/2309.07125v1.pdf), cication: [**-1**](None)
 
 	 *Hao Zhang, Yao Feng, Peter Kulits, Yandong Wen, Justus Thies, Michael J. Black*
