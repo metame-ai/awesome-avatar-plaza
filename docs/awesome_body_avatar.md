@@ -256,6 +256,9 @@
 	 *Yangyi Huang, Hongwei Yi, Weiyang Liu, Haofan Wang, Boxi Wu, Wenxiao Wang, Binbin Lin, Debing Zhang, Deng Cai*
 
 ## Animation
+- [[2409.12140] MoRAG -- Multi-Fusion Retrieval Augmented Generation for Human Motion](http://arxiv.org/abs/2409.12140)
+
+	 · ([motion-rag.github](https://motion-rag.github.io/)) · ([MoRAG](https://github.com/Motion-RAG/MoRAG) - Motion-RAG) ![Star](https://img.shields.io/github/stars/Motion-RAG/MoRAG.svg?style=social&label=Star)
 - **AMG: Avatar Motion Guided Video Generation**, `arXiv, 2409.01502`, [arxiv](http://arxiv.org/abs/2409.01502v1), [pdf](http://arxiv.org/pdf/2409.01502v1.pdf), cication: [**-1**](None)
 
 	 *Zhangsihao Yang, Mengyi Shan, Mohammad Farazi, Wenhui Zhu, Yanxi Chen, Xuanzhao Dong, Yalin Wang* · ([amg](https://github.com/zshyang/amg) - zshyang) ![Star](https://img.shields.io/github/stars/zshyang/amg.svg?style=social&label=Star)
@@ -445,6 +448,10 @@
 	 *Yukun Huang, Jianan Wang, Ailing Zeng, He Cao, Xianbiao Qi, Yukai Shi, Zheng-Jun Zha, Lei Zhang*
 
 ## Body Reconstruction
+- [GTA-Human II](https://caizhongang.com/projects/GTA-Human/gta-human_v2.html)
+- [2409.08353](https://arxiv.org/pdf/2409.08353)
+
+	 · ([nowheretrix.github](https://nowheretrix.github.io/DualGS/))
 - **HumanSplat: Generalizable Single-Image Human Gaussian Splatting with
   Structure Priors**, `arXiv, 2406.12459`, [arxiv](http://arxiv.org/abs/2406.12459v1), [pdf](http://arxiv.org/pdf/2406.12459v1.pdf), cication: [**-1**](None)
 

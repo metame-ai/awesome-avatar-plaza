@@ -11,6 +11,9 @@
 ---
 
 ## Generating
+- [[2409.11951] GaussianHeads: End-to-End Learning of Drivable Gaussian Head Avatars from Coarse-to-fine Representations](https://arxiv.org/abs/2409.11951)
+
+	 · ([vcai.mpi-inf.mpg](https://vcai.mpi-inf.mpg.de/projects/GaussianHeads/)) · ([GaussianHeads](https://github.com/Kartik-Teotia/GaussianHeads) - Kartik-Teotia) ![Star](https://img.shields.io/github/stars/Kartik-Teotia/GaussianHeads.svg?style=social&label=Star)
 - **GenCA: A Text-conditioned Generative Model for Realistic and Drivable
   Codec Avatars**, `arXiv, 2408.13674`, [arxiv](http://arxiv.org/abs/2408.13674v1), [pdf](http://arxiv.org/pdf/2408.13674v1.pdf), cication: [**-1**](None)
 
@@ -306,6 +309,7 @@
 - [**Instruct-Video2Avatar**](https://github.com/lsx0101/Instruct-Video2Avatar) - lsx0101 ![Star](https://img.shields.io/github/stars/lsx0101/Instruct-Video2Avatar.svg?style=social&label=Star)
 
 ## Animation
+- [[2409.10848] 3DFacePolicy: Speech-Driven 3D Facial Animation with Diffusion Policy](https://arxiv.org/abs/2409.10848)
 - **EmoFace: Emotion-Content Disentangled Speech-Driven 3D Talking Face with
   Mesh Attention**, `arXiv, 2408.11518`, [arxiv](http://arxiv.org/abs/2408.11518v1), [pdf](http://arxiv.org/pdf/2408.11518v1.pdf), cication: [**-1**](None)
 

@@ -6,6 +6,9 @@
 	- [Tools](#tools)
 
 ## Papers
+- [[2409.12156] JEAN: Joint Expression and Audio-guided NeRF-based Talking Face Generation](https://arxiv.org/abs/2409.12156)
+- [[2409.10281] DreamHead: Learning Spatial-Temporal Correspondence via Hierarchical Diffusion for Audio-driven Talking Head Synthesis](https://arxiv.org/abs/2409.10281)
+- [[2409.09292] StyleTalk++: A Unified Framework for Controlling the Speaking Styles of Talking Heads](https://arxiv.org/abs/2409.09292)
 - **EMOdiffhead: Continuously Emotional Control in Talking Head Generation
   via Diffusion**, `arXiv, 2409.07255`, [arxiv](http://arxiv.org/abs/2409.07255v1), [pdf](http://arxiv.org/pdf/2409.07255v1.pdf), cication: [**-1**](None)
 
