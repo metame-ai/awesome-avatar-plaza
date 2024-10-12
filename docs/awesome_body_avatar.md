@@ -13,6 +13,20 @@
 	 *Yang Liu, Changzhen Qiu, Zhiyong Zhang* · ([SOTA-3DHPE-HMR](https://github.com/liuyangme/SOTA-3DHPE-HMR) - liuyangme) ![Star](https://img.shields.io/github/stars/liuyangme/SOTA-3DHPE-HMR.svg?style=social&label=Star)
 
 ## Generation
+- **AvatarGO: Zero-shot 4D Human-Object Interaction Generation and Animation**, `arXiv, 2410.07164`, [arxiv](http://arxiv.org/abs/2410.07164v1), [pdf](http://arxiv.org/pdf/2410.07164v1.pdf), cication: [**-1**](None)
+
+	 *Yukang Cao, Liang Pan, Kai Han, Kwan-Yee K. Wong, Ziwei Liu* · ([yukangcao.github](https://yukangcao.github.io/AvatarGO/)) · ([AvatarGO](https://github.com/yukangcao/AvatarGO) - yukangcao) ![Star](https://img.shields.io/github/stars/yukangcao/AvatarGO.svg?style=social&label=Star)
+- **TANGO: Co-Speech Gesture Video Reenactment with Hierarchical Audio
+  Motion Embedding and Diffusion Interpolation**, `arXiv, 2410.04221`, [arxiv](http://arxiv.org/abs/2410.04221v1), [pdf](http://arxiv.org/pdf/2410.04221v1.pdf), cication: [**-1**](None)
+
+	 *Haiyang Liu, Xingchao Yang, Tomoya Akiyama, Yuantian Huang, Qiaoge Li, Shigeru Kuriyama, Takafumi Taketomi* · ([pantomatrix.github](https://pantomatrix.github.io/TANGO/))
+- **V^3: Viewing Volumetric Videos on Mobiles via Streamable 2D Dynamic
+  Gaussians**, `arXiv, 2409.13648`, [arxiv](http://arxiv.org/abs/2409.13648v2), [pdf](http://arxiv.org/pdf/2409.13648v2.pdf), cication: [**-1**](None)
+
+	 *Penghao Wang, Zhirui Zhang, Liao Wang, Kaixin Yao, Siyuan Xie, Jingyi Yu, Minye Wu, Lan Xu* · ([authoritywang.github](https://authoritywang.github.io/v3/))
+- **TalkinNeRF: Animatable Neural Fields for Full-Body Talking Humans**, `arXiv, 2409.16666`, [arxiv](http://arxiv.org/abs/2409.16666v1), [pdf](http://arxiv.org/pdf/2409.16666v1.pdf), cication: [**-1**](None)
+
+	 *Aggelina Chatziagapi, Bindita Chaudhuri, Amit Kumar, Rakesh Ranjan, Dimitris Samaras, Nikolaos Sarafianos* · ([aggelinacha.github](https://aggelinacha.github.io/TalkinNeRF/))
 - **Human-VDM: Learning Single-Image 3D Human Gaussian Splatting from Video
   Diffusion Models**, `arXiv, 2409.02851`, [arxiv](http://arxiv.org/abs/2409.02851v1), [pdf](http://arxiv.org/pdf/2409.02851v1.pdf), cication: [**-1**](None)
 
@@ -256,7 +270,17 @@
 	 *Yangyi Huang, Hongwei Yi, Weiyang Liu, Haofan Wang, Boxi Wu, Wenxiao Wang, Binbin Lin, Debing Zhang, Deng Cai*
 
 ## Animation
-- [[2409.12140] MoRAG -- Multi-Fusion Retrieval Augmented Generation for Human Motion](http://arxiv.org/abs/2409.12140)
+- **Disco4D: Disentangled 4D Human Generation and Animation from a Single
+  Image**, `arXiv, 2409.17280`, [arxiv](http://arxiv.org/abs/2409.17280v1), [pdf](http://arxiv.org/pdf/2409.17280v1.pdf), cication: [**-1**](None)
+
+	 *Hui En Pang, Shuai Liu, Zhongang Cai, Lei Yang, Tianwei Zhang, Ziwei Liu* · ([disco-4d.github](https://disco-4d.github.io/))
+- **DreamWaltz-G: Expressive 3D Gaussian Avatars from Skeleton-Guided 2D
+  Diffusion**, `arXiv, 2409.17145`, [arxiv](http://arxiv.org/abs/2409.17145v1), [pdf](http://arxiv.org/pdf/2409.17145v1.pdf), cication: [**-1**](None)
+
+	 *Yukun Huang, Jianan Wang, Ailing Zeng, Zheng-Jun Zha, Lei Zhang, Xihui Liu* · ([yukun-huang.github](https://yukun-huang.github.io/DreamWaltz-G/))
+- **MoRAG -- Multi-Fusion Retrieval Augmented Generation for Human Motion**, `arXiv, 2409.12140`, [arxiv](http://arxiv.org/abs/2409.12140v1), [pdf](http://arxiv.org/pdf/2409.12140v1.pdf), cication: [**-1**](None)
+
+	 *Kalakonda Sai Shashank, Shubh Maheshwari, Ravi Kiran Sarvadevabhatla*
 
 	 · ([motion-rag.github](https://motion-rag.github.io/)) · ([MoRAG](https://github.com/Motion-RAG/MoRAG) - Motion-RAG) ![Star](https://img.shields.io/github/stars/Motion-RAG/MoRAG.svg?style=social&label=Star)
 - **AMG: Avatar Motion Guided Video Generation**, `arXiv, 2409.01502`, [arxiv](http://arxiv.org/abs/2409.01502v1), [pdf](http://arxiv.org/pdf/2409.01502v1.pdf), cication: [**-1**](None)
@@ -449,7 +473,10 @@
 
 ## Body Reconstruction
 - [GTA-Human II](https://caizhongang.com/projects/GTA-Human/gta-human_v2.html)
-- [2409.08353](https://arxiv.org/pdf/2409.08353)
+- **Robust Dual Gaussian Splatting for Immersive Human-centric Volumetric
+  Videos**, `arXiv, 2409.08353`, [arxiv](http://arxiv.org/abs/2409.08353v1), [pdf](http://arxiv.org/pdf/2409.08353v1.pdf), cication: [**-1**](None)
+
+	 *Yuheng Jiang, Zhehao Shen, Yu Hong, Chengcheng Guo, Yize Wu, Yingliang Zhang, Jingyi Yu, Lan Xu*
 
 	 · ([nowheretrix.github](https://nowheretrix.github.io/DualGS/))
 - **HumanSplat: Generalizable Single-Image Human Gaussian Splatting with

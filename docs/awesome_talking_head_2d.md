@@ -6,9 +6,26 @@
 	- [Tools](#tools)
 
 ## Papers
-- [[2409.12156] JEAN: Joint Expression and Audio-guided NeRF-based Talking Face Generation](https://arxiv.org/abs/2409.12156)
-- [[2409.10281] DreamHead: Learning Spatial-Temporal Correspondence via Hierarchical Diffusion for Audio-driven Talking Head Synthesis](https://arxiv.org/abs/2409.10281)
-- [[2409.09292] StyleTalk++: A Unified Framework for Controlling the Speaking Styles of Talking Heads](https://arxiv.org/abs/2409.09292)
+- **MimicTalk: Mimicking a personalized and expressive 3D talking face in
+  minutes**, `arXiv, 2410.06734`, [arxiv](http://arxiv.org/abs/2410.06734v1), [pdf](http://arxiv.org/pdf/2410.06734v1.pdf), cication: [**-1**](None)
+
+	 *Zhenhui Ye, Tianyun Zhong, Yi Ren, Ziyue Jiang, Jiawei Huang, Rongjie Huang, Jinglin Liu, Jinzheng He, Chen Zhang, Zehan Wang* · ([mimictalk.github](https://mimictalk.github.io/))
+- **JoyHallo: Digital human model for Mandarin**, `arXiv, 2409.13268`, [arxiv](http://arxiv.org/abs/2409.13268v1), [pdf](http://arxiv.org/pdf/2409.13268v1.pdf), cication: [**-1**](None)
+
+	 *Sheng Shi, Xuyang Cao, Jun Zhao, Guoxin Wang* · ([jdh-algo.github](https://jdh-algo.github.io/JoyHallo/)) · ([JoyHallo](https://github.com/jdh-algo/JoyHallo) - jdh-algo) ![Star](https://img.shields.io/github/stars/jdh-algo/JoyHallo.svg?style=social&label=Star)
+- [Co-speech Gesture Video Generation with 3D Human Meshes](https://cospeech-gesture-3d.github.io/website/)
+- **JEAN: Joint Expression and Audio-guided NeRF-based Talking Face
+  Generation**, `arXiv, 2409.12156`, [arxiv](http://arxiv.org/abs/2409.12156v1), [pdf](http://arxiv.org/pdf/2409.12156v1.pdf), cication: [**-1**](None)
+
+	 *Sai Tanmay Reddy Chakkera, Aggelina Chatziagapi, Dimitris Samaras*
+- **DreamHead: Learning Spatial-Temporal Correspondence via Hierarchical
+  Diffusion for Audio-driven Talking Head Synthesis**, `arXiv, 2409.10281`, [arxiv](http://arxiv.org/abs/2409.10281v1), [pdf](http://arxiv.org/pdf/2409.10281v1.pdf), cication: [**-1**](None)
+
+	 *Fa-Ting Hong, Yunfei Liu, Yu Li, Changyin Zhou, Fei Yu, Dan Xu*
+- **StyleTalk++: A Unified Framework for Controlling the Speaking Styles of
+  Talking Heads**, `ieee transactions on pattern analysis and machine intelligence, 2024`, [arxiv](http://arxiv.org/abs/2409.09292v1), [pdf](http://arxiv.org/pdf/2409.09292v1.pdf), cication: [**4**](https://scholar.google.com/scholar?cites=14518882069265639757&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Suzhen Wang, Yifeng Ma, Yu Ding, Zhipeng Hu, Changjie Fan, Tangjie Lv, Zhidong Deng, Xin Yu*
 - **EMOdiffhead: Continuously Emotional Control in Talking Head Generation
   via Diffusion**, `arXiv, 2409.07255`, [arxiv](http://arxiv.org/abs/2409.07255v1), [pdf](http://arxiv.org/pdf/2409.07255v1.pdf), cication: [**-1**](None)
 
@@ -371,6 +388,8 @@
 	 *Translate the video from one language to another and add dubbing. 将视频从一种语言翻译为另一种语言，并添加配音*
 
 ## Products
+- [Character-2 is here!](https://x.com/hedra_labs/status/1841875930299425131)
+- [lowest latency video agent](https://x.com/VagnesLars/status/1840754841569648954)
 - [Conversational Replicas by Tavus](https://www.producthunt.com/posts/conversational-replicas-by-tavus)
 
 	 · ([youtube](https://www.youtube.com/watch?v=7ORfzqDEfgw)) · ([qbitai](https://www.qbitai.com/2024/08/179418.html))

@@ -11,7 +11,19 @@
 ---
 
 ## Generating
-- [[2409.11951] GaussianHeads: End-to-End Learning of Drivable Gaussian Head Avatars from Coarse-to-fine Representations](https://arxiv.org/abs/2409.11951)
+- **TextToon: Real-Time Text Toonify Head Avatar from Single Video**, `arXiv, 2410.07160`, [arxiv](http://arxiv.org/abs/2410.07160v1), [pdf](http://arxiv.org/pdf/2410.07160v1.pdf), cication: [**-1**](None)
+
+	 *Luchuan Song, Lele Chen, Celong Liu, Pinxin Liu, Chenliang Xu* · ([songluchuan.github](https://songluchuan.github.io/TextToon/)) · ([songluchuan.github](https://songluchuan.github.io/TextToon/))
+- **Portrait Video Editing Empowered by Multimodal Generative Priors**, `arXiv, 2409.13591`, [arxiv](http://arxiv.org/abs/2409.13591v1), [pdf](http://arxiv.org/pdf/2409.13591v1.pdf), cication: [**-1**](None)
+
+	 *Xuan Gao, Haiyao Xiao, Chenglai Zhong, Shimin Hu, Yudong Guo, Juyong Zhang* · ([ustc3dv.github](https://ustc3dv.github.io/PortraitGen/))
+- **SPARK: Self-supervised Personalized Real-time Monocular Face Capture**, `arXiv, 2409.07984`, [arxiv](http://arxiv.org/abs/2409.07984v1), [pdf](http://arxiv.org/pdf/2409.07984v1.pdf), cication: [**-1**](None)
+
+	 *Kelian Baert, Shrisha Bharadwaj, Fabien Castan, Benoit Maujean, Marc Christie, Victoria Abrevaya, Adnane Boukhayma* · ([kelianb.github](https://kelianb.github.io/SPARK/))
+- **GaussianHeads: End-to-End Learning of Drivable Gaussian Head Avatars
+  from Coarse-to-fine Representations**, `arXiv, 2409.11951`, [arxiv](http://arxiv.org/abs/2409.11951v1), [pdf](http://arxiv.org/pdf/2409.11951v1.pdf), cication: [**-1**](None)
+
+	 *Kartik Teotia, Hyeongwoo Kim, Pablo Garrido, Marc Habermann, Mohamed Elgharib, Christian Theobalt*
 
 	 · ([vcai.mpi-inf.mpg](https://vcai.mpi-inf.mpg.de/projects/GaussianHeads/)) · ([GaussianHeads](https://github.com/Kartik-Teotia/GaussianHeads) - Kartik-Teotia) ![Star](https://img.shields.io/github/stars/Kartik-Teotia/GaussianHeads.svg?style=social&label=Star)
 - **GenCA: A Text-conditioned Generative Model for Realistic and Drivable
@@ -309,7 +321,9 @@
 - [**Instruct-Video2Avatar**](https://github.com/lsx0101/Instruct-Video2Avatar) - lsx0101 ![Star](https://img.shields.io/github/stars/lsx0101/Instruct-Video2Avatar.svg?style=social&label=Star)
 
 ## Animation
-- [[2409.10848] 3DFacePolicy: Speech-Driven 3D Facial Animation with Diffusion Policy](https://arxiv.org/abs/2409.10848)
+- **3DFacePolicy: Speech-Driven 3D Facial Animation with Diffusion Policy**, `arXiv, 2409.10848`, [arxiv](http://arxiv.org/abs/2409.10848v1), [pdf](http://arxiv.org/pdf/2409.10848v1.pdf), cication: [**-1**](None)
+
+	 *Xuanmeng Sha, Liyun Zhang, Tomohiro Mashita, Yuki Uranishi*
 - **EmoFace: Emotion-Content Disentangled Speech-Driven 3D Talking Face with
   Mesh Attention**, `arXiv, 2408.11518`, [arxiv](http://arxiv.org/abs/2408.11518v1), [pdf](http://arxiv.org/pdf/2408.11518v1.pdf), cication: [**-1**](None)
 
