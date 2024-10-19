@@ -13,6 +13,9 @@
 	 *Yang Liu, Changzhen Qiu, Zhiyong Zhang* · ([SOTA-3DHPE-HMR](https://github.com/liuyangme/SOTA-3DHPE-HMR) - liuyangme) ![Star](https://img.shields.io/github/stars/liuyangme/SOTA-3DHPE-HMR.svg?style=social&label=Star)
 
 ## Generation
+- **DressRecon: Freeform 4D Human Reconstruction from Monocular Video**, `arXiv, 2409.20563`, [arxiv](http://arxiv.org/abs/2409.20563v2), [pdf](http://arxiv.org/pdf/2409.20563v2.pdf), cication: [**-1**](None)
+
+	 *Jeff Tan, Donglai Xiang, Shubham Tulsiani, Deva Ramanan, Gengshan Yang* · ([jefftan969.github](https://jefftan969.github.io/dressrecon/)) · ([dressrecon](https://github.com/jefftan969/dressrecon) - jefftan969) ![Star](https://img.shields.io/github/stars/jefftan969/dressrecon.svg?style=social&label=Star)
 - **AvatarGO: Zero-shot 4D Human-Object Interaction Generation and Animation**, `arXiv, 2410.07164`, [arxiv](http://arxiv.org/abs/2410.07164v1), [pdf](http://arxiv.org/pdf/2410.07164v1.pdf), cication: [**-1**](None)
 
 	 *Yukang Cao, Liang Pan, Kai Han, Kwan-Yee K. Wong, Ziwei Liu* · ([yukangcao.github](https://yukangcao.github.io/AvatarGO/)) · ([AvatarGO](https://github.com/yukangcao/AvatarGO) - yukangcao) ![Star](https://img.shields.io/github/stars/yukangcao/AvatarGO.svg?style=social&label=Star)

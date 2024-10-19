@@ -6,6 +6,10 @@
 	- [Tools](#tools)
 
 ## Papers
+- **Hallo2: Long-Duration and High-Resolution Audio-Driven Portrait Image
+  Animation**, `arXiv, 2410.07718`, [arxiv](http://arxiv.org/abs/2410.07718v2), [pdf](http://arxiv.org/pdf/2410.07718v2.pdf), cication: [**-1**](None)
+
+	 *Jiahao Cui, Hui Li, Yao Yao, Hao Zhu, Hanlin Shang, Kaihui Cheng, Hang Zhou, Siyu Zhu, Jingdong Wang* · ([fudan-generative-vision.github](https://fudan-generative-vision.github.io/hallo2/#/)) · ([hallo2](https://github.com/fudan-generative-vision/hallo2) - fudan-generative-vision) ![Star](https://img.shields.io/github/stars/fudan-generative-vision/hallo2.svg?style=social&label=Star)
 - **MimicTalk: Mimicking a personalized and expressive 3D talking face in
   minutes**, `arXiv, 2410.06734`, [arxiv](http://arxiv.org/abs/2410.06734v1), [pdf](http://arxiv.org/pdf/2410.06734v1.pdf), cication: [**-1**](None)
 
