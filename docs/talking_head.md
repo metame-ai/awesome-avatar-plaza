@@ -15,9 +15,10 @@
 
 ## Talking Head
 
-- [Paper page - DAWN: Dynamic Frame Avatar with Non-autoregressive Diffusion Framework  for Talking Head Video Generation](https://huggingface.co/papers/2410.13726)
-   - [hanbo-cheng.github.io](https://hanbo-cheng.github.io/DAWN/)
-   - [github.com](https://github.com/Hanbo-Cheng/DAWN-pytorch)
+- **DAWN: Dynamic Frame Avatar with Non-autoregressive Diffusion Framework
+  for Talking Head Video Generation**, `arXiv, 2410.13726`, [arxiv](http://arxiv.org/abs/2410.13726v2), [pdf](http://arxiv.org/pdf/2410.13726v2.pdf), cication: [**-1**](None)
+
+	 *Hanbo Cheng, Limin Lin, Chenyu Liu, ..., Jun Du, Jia Pan* · ([hanbo-cheng.github](https://hanbo-cheng.github.io/DAWN/)) · ([DAWN-pytorch](https://github.com/Hanbo-Cheng/DAWN-pytorch) - Hanbo-Cheng) ![Star](https://img.shields.io/github/stars/Hanbo-Cheng/DAWN-pytorch.svg?style=social&label=Star)
 
 ## Projects
 
@@ -32,5 +33,4 @@
 
 
 ## Misc
-
 
