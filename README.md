@@ -3,37 +3,56 @@
 Daily tracking of awesome avatar papers, projects, and resources. 
 Source: arxiv, [huggingface daily papers](https://huggingface.co/papers), [twitter(X)](https://twitter.com/_akhaliq?lang=en), [github trending](https://github.com/trending), [paper with code](https://github.com/ml-feeds/pwc-feeds), weixin, etc.
 
+## [History Docs: Part 1](./index_part1.md)
+
 ## Contents
 
 - [Awesome Avatar Plaza ](#awesome-avatar-plaza-)
-	- [Contents](#contents)
-		- [Awesome Talking Head 2D](#awesome-talking-head-2d)
-		- [Awesome 3D Head Avatar](#awesome-3d-head-avatar)
-		- [Awesome Body Avatar](#awesome-body-avatar)
+  - [History Docs: Part 1](#history-docs-part-1)
+  - [Contents](#contents)
+    - [3D Avatar](#3d-avatar)
+    - [Avatar](#avatar)
+    - [Body Avatar](#body-avatar)
+    - [Talking Head](#talking-head)
 
----
+### [3D Avatar](./docs/3d_avatar.md)
+- [3D Avatar](./docs/3d_avatar.md#3d-avatar)
+  - [Survey](./docs/3d_avatar.md#survey)
+  - [3D Avatar](./docs/3d_avatar.md#3d-avatar)
+  - [Animation](./docs/3d_avatar.md#animation)
+  - [Projects](./docs/3d_avatar.md#projects)
+  - [Datasets](./docs/3d_avatar.md#datasets)
+  - [Toolkits](./docs/3d_avatar.md#toolkits)
+  - [Products](./docs/3d_avatar.md#products)
+  - [Misc](./docs/3d_avatar.md#misc)
 
+### [Avatar](./docs/avatar.md)
+- [Avatar](./docs/avatar.md#avatar)
+  - [Survey](./docs/avatar.md#survey)
+  - [Avatar](./docs/avatar.md#avatar)
+  - [Misc](./docs/avatar.md#misc)
 
-### [Awesome Talking Head 2D](./docs/awesome_talking_head_2d.md)
-- [2D Talking Head](./docs/awesome_talking_head_2d.md#2d-talking-head)
-	- [Papers](./docs/awesome_talking_head_2d.md#papers)
-	- [Extra](./docs/awesome_talking_head_2d.md#extra)
-	- [Tools](./docs/awesome_talking_head_2d.md#tools)
+### [Body Avatar](./docs/body_avatar.md)
+- [Body Avatar](./docs/body_avatar.md#body-avatar)
+  - [Survey](./docs/body_avatar.md#survey)
+  - [Body Avatar](./docs/body_avatar.md#body-avatar)
+  - [Animation](./docs/body_avatar.md#animation)
+  - [Hand Modeling](./docs/body_avatar.md#hand-modeling)
+  - [Reconstruction](./docs/body_avatar.md#reconstruction)
+  - [Projects](./docs/body_avatar.md#projects)
+  - [Datasets](./docs/body_avatar.md#datasets)
+  - [Toolkits](./docs/body_avatar.md#toolkits)
+  - [Products](./docs/body_avatar.md#products)
+  - [Tutorials](./docs/body_avatar.md#tutorials)
+  - [Misc](./docs/body_avatar.md#misc)
 
-
-### [Awesome 3D Head Avatar](./docs/awesome_head_avatar_3d.md)
-- [3D Head Avatar](./docs/awesome_head_avatar_3d.md#3d-head-avatar)
-	- [Generating](./docs/awesome_head_avatar_3d.md#generating)
-	- [Editing](./docs/awesome_head_avatar_3d.md#editing)
-	- [Animation](./docs/awesome_head_avatar_3d.md#animation)
-	- [Datasets](./docs/awesome_head_avatar_3d.md#datasets)
-	- [Extra](./docs/awesome_head_avatar_3d.md#extra)
-
-
-### [Awesome Body Avatar](./docs/awesome_body_avatar.md)
-- [Awesome Body Avatar](./docs/awesome_body_avatar.md#awesome-body-avatar)
-	- [Generation](./docs/awesome_body_avatar.md#generation)
-	- [Animation](./docs/awesome_body_avatar.md#animation)
-	- [Misc](./docs/awesome_body_avatar.md#misc)
-
+### [Talking Head](./docs/talking_head.md)
+- [Talking Head](./docs/talking_head.md#talking-head)
+  - [Survey](./docs/talking_head.md#survey)
+  - [Talking Head](./docs/talking_head.md#talking-head)
+  - [Projects](./docs/talking_head.md#projects)
+  - [Datasets](./docs/talking_head.md#datasets)
+  - [Toolkits](./docs/talking_head.md#toolkits)
+  - [Products](./docs/talking_head.md#products)
+  - [Misc](./docs/talking_head.md#misc)
 
