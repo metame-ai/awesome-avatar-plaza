@@ -14,26 +14,26 @@ Source: arxiv, [huggingface daily papers](https://huggingface.co/papers), [twitt
 ---
 
 
-### [Awesome Talking Head 2D](./docs/awesome_talking_head_2d.md)
-- [2D Talking Head](./docs/awesome_talking_head_2d.md#2d-talking-head)
-	- [Papers](./docs/awesome_talking_head_2d.md#papers)
-	- [Extra](./docs/awesome_talking_head_2d.md#extra)
-	- [Tools](./docs/awesome_talking_head_2d.md#tools)
+### [Awesome Talking Head 2D](./docs/part1/awesome_talking_head_2d.md)
+- [2D Talking Head](./docs/part1/awesome_talking_head_2d.md#2d-talking-head)
+	- [Papers](./docs/part1/awesome_talking_head_2d.md#papers)
+	- [Extra](./docs/part1/awesome_talking_head_2d.md#extra)
+	- [Tools](./docs/part1/awesome_talking_head_2d.md#tools)
 
 
-### [Awesome 3D Head Avatar](./docs/awesome_head_avatar_3d.md)
-- [3D Head Avatar](./docs/awesome_head_avatar_3d.md#3d-head-avatar)
-	- [Generating](./docs/awesome_head_avatar_3d.md#generating)
-	- [Editing](./docs/awesome_head_avatar_3d.md#editing)
-	- [Animation](./docs/awesome_head_avatar_3d.md#animation)
-	- [Datasets](./docs/awesome_head_avatar_3d.md#datasets)
-	- [Extra](./docs/awesome_head_avatar_3d.md#extra)
+### [Awesome 3D Head Avatar](./docs/part1/awesome_head_avatar_3d.md)
+- [3D Head Avatar](./docs/part1/awesome_head_avatar_3d.md#3d-head-avatar)
+	- [Generating](./docs/part1/awesome_head_avatar_3d.md#generating)
+	- [Editing](./docs/part1/awesome_head_avatar_3d.md#editing)
+	- [Animation](./docs/part1/awesome_head_avatar_3d.md#animation)
+	- [Datasets](./docs/part1/awesome_head_avatar_3d.md#datasets)
+	- [Extra](./docs/part1/awesome_head_avatar_3d.md#extra)
 
 
-### [Awesome Body Avatar](./docs/awesome_body_avatar.md)
-- [Awesome Body Avatar](./docs/awesome_body_avatar.md#awesome-body-avatar)
-	- [Generation](./docs/awesome_body_avatar.md#generation)
-	- [Animation](./docs/awesome_body_avatar.md#animation)
-	- [Misc](./docs/awesome_body_avatar.md#misc)
+### [Awesome Body Avatar](./docs/part1/awesome_body_avatar.md)
+- [Awesome Body Avatar](./docs/part1/awesome_body_avatar.md#awesome-body-avatar)
+	- [Generation](./docs/part1/awesome_body_avatar.md#generation)
+	- [Animation](./docs/part1/awesome_body_avatar.md#animation)
+	- [Misc](./docs/part1/awesome_body_avatar.md#misc)
 
 
