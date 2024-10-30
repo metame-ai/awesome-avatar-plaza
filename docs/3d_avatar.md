@@ -19,6 +19,9 @@
 
 ## Animation
 
+- [MMHead: Towards Fine-grained Multi-modal 3D Facial Animation](https://wsj-sjtu.github.io/MMHead/)
+
+	 · ([MMHead](https://github.com/wsj-sjtu/MMHead) - wsj-sjtu) ![Star](https://img.shields.io/github/stars/wsj-sjtu/MMHead.svg?style=social&label=Star)
 
 ## Projects
 
@@ -33,4 +36,3 @@
 
 
 ## Misc
-

@@ -22,6 +22,9 @@
 
 ## Animation
 
+- [Paper page - MotionCLR: Motion Generation and Training-free Editing via Understanding  Attention Mechanisms](https://huggingface.co/papers/2410.18977)
+- [ControlMM: Controllable Masked Motion Generation](https://exitudio.github.io/ControlMM-page/)
+- [Large Body Language Models](https://arxiv.org/abs/2410.16533)
 
 ## Hand Modeling
 
@@ -46,4 +49,3 @@
 
 
 ## Misc
-

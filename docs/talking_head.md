@@ -15,6 +15,7 @@
 
 ## Talking Head
 
+- [MuseTalk: Real-Time High Quality Lip Synchronization with Latent Space Inpainting](https://arxiv.org/abs/2410.10122)
 - **DAWN: Dynamic Frame Avatar with Non-autoregressive Diffusion Framework
   for Talking Head Video Generation**, `arXiv, 2410.13726`, [arxiv](http://arxiv.org/abs/2410.13726v2), [pdf](http://arxiv.org/pdf/2410.13726v2.pdf), cication: [**-1**](None)
 
@@ -33,4 +34,3 @@
 
 
 ## Misc
-
