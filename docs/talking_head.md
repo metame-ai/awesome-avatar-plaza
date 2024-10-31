@@ -15,7 +15,10 @@
 
 ## Talking Head
 
-- [MuseTalk: Real-Time High Quality Lip Synchronization with Latent Space Inpainting](https://arxiv.org/abs/2410.10122)
+- **MuseTalk: Real-Time High Quality Lip Synchronization with Latent Space
+  Inpainting**, `arXiv, 2410.10122`, [arxiv](http://arxiv.org/abs/2410.10122v2), [pdf](http://arxiv.org/pdf/2410.10122v2.pdf), cication: [**-1**](None)
+
+	 *Yue Zhang, Minhao Liu, Zhaokang Chen, ..., Junxin Huang, Wenjiang Zhou*
 - **DAWN: Dynamic Frame Avatar with Non-autoregressive Diffusion Framework
   for Talking Head Video Generation**, `arXiv, 2410.13726`, [arxiv](http://arxiv.org/abs/2410.13726v2), [pdf](http://arxiv.org/pdf/2410.13726v2.pdf), cication: [**-1**](None)
 
@@ -32,5 +35,8 @@
 
 ## Products
 
+- [Build immersive AI-generated video experiences in your application](https://www.tavus.io/)
 
 ## Misc
+
+- [LipSync and Face Operations](https://huggingface.co/collections/fffiloni/lipsync-and-face-operations-67212eb1cd00a7de089a5344)

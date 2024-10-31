@@ -22,9 +22,14 @@
 
 ## Animation
 
-- [Paper page - MotionCLR: Motion Generation and Training-free Editing via Understanding  Attention Mechanisms](https://huggingface.co/papers/2410.18977)
+- **MotionCLR: Motion Generation and Training-free Editing via Understanding
+  Attention Mechanisms**, `arXiv, 2410.18977`, [arxiv](http://arxiv.org/abs/2410.18977v1), [pdf](http://arxiv.org/pdf/2410.18977v1.pdf), cication: [**-1**](None)
+
+	 *Ling-Hao Chen, Wenxun Dai, Xuan Ju, ..., Shunlin Lu, Lei Zhang*
 - [ControlMM: Controllable Masked Motion Generation](https://exitudio.github.io/ControlMM-page/)
-- [Large Body Language Models](https://arxiv.org/abs/2410.16533)
+- **Large Body Language Models**, `arXiv, 2410.16533`, [arxiv](http://arxiv.org/abs/2410.16533v1), [pdf](http://arxiv.org/pdf/2410.16533v1.pdf), cication: [**-1**](None)
+
+	 *Saif Punjwani, Larry Heck*
 
 ## Hand Modeling
 
