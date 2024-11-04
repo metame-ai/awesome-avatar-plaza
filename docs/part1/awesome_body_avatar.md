@@ -1,9 +1,14 @@
 # Awesome Body Avatar
 
 - [Awesome Body Avatar](#awesome-body-avatar)
+	- [Survey](#survey)
 	- [Generation](#generation)
 	- [Animation](#animation)
+	- [Body Reconstruction](#body-reconstruction)
 	- [Misc](#misc)
+	- [Hand Modeling](#hand-modeling)
+	- [Products](#products)
+	- [Talks](#talks)
 
 
 ## Survey

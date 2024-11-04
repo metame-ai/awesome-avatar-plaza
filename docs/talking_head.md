@@ -39,4 +39,7 @@
 
 ## Misc
 
-- [LipSync and Face Operations](https://huggingface.co/collections/fffiloni/lipsync-and-face-operations-67212eb1cd00a7de089a5344)
+- [a realistic facial animation system for Meta Quest using Stable Diffusion](https://buttondown.com/ainews/archive/ainews-github-copilot-strikes-back-3402/)
+
+	 · ([v.redd](https://v.redd.it/ut9246li3mxd1))
+- 🤗 [LipSync and Face Operations](https://huggingface.co/collections/fffiloni/lipsync-and-face-operations-67212eb1cd00a7de089a5344)
