@@ -19,12 +19,17 @@
 
 ## Body Avatar
 
-- [Stereo-Talker: Audio-driven 3D Human Synthesis with Prior-Guided Mixture-of-Experts](https://arxiv.org/abs/2410.23836)
+- **Stereo-Talker: Audio-driven 3D Human Synthesis with Prior-Guided
+  Mixture-of-Experts**, `arXiv, 2410.23836`, [arxiv](http://arxiv.org/abs/2410.23836v1), [pdf](http://arxiv.org/pdf/2410.23836v1.pdf), cication: [**-1**](None)
+
+	 *Xiang Deng, Youxin Pang, Xiaochen Zhao, ..., Hongwen Zhang, Yebin Liu*
 
 ## Animation
 
-- [MotionGPT-2: A General-Purpose Motion-Language Model for Motion Generation and Understanding](https://arxiv.org/abs/2410.21747)
-   - [humans.despite](http://humans.despite/)
+- **MotionGPT-2: A General-Purpose Motion-Language Model for Motion
+  Generation and Understanding**, `arXiv, 2410.21747`, [arxiv](http://arxiv.org/abs/2410.21747v1), [pdf](http://arxiv.org/pdf/2410.21747v1.pdf), cication: [**-1**](None)
+
+	 *Yuan Wang, Di Huang, Yaqi Zhang, ..., Shixiang Tang, Dan Xu* · ([humans](http://humans.despite/))
 - **MotionCLR: Motion Generation and Training-free Editing via Understanding
   Attention Mechanisms**, `arXiv, 2410.18977`, [arxiv](http://arxiv.org/abs/2410.18977v1), [pdf](http://arxiv.org/pdf/2410.18977v1.pdf), cication: [**-1**](None)
 
