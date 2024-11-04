@@ -1,6 +1,6 @@
 # Avatar
 
-- [Avatar](#avatar)
+- [Avatar](#avatar) 
   - [Survey](#survey)
   - [Avatar](#avatar)
   - [Misc](#misc)
