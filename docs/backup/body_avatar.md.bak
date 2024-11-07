@@ -56,7 +56,7 @@
 
 ## Products
 
-- [Viggle AI Introduces Voice Recording and Lip Sync Feature](https://x.com/DigestDiff93383/status/1848277161192386571) 
+- [Viggle AI Introduces Voice Recording and Lip Sync Feature](https://x.com/DigestDiff93383/status/1848277161192386571)  𝕏
 
 ## Tutorials
 
