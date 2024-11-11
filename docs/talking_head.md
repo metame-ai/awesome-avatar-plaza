@@ -15,7 +15,8 @@
 
 ## Talking Head
 
-- **HelloMeme: Integrating Spatial Knitting Attentions to Embed High-Level
+- [X-Portrait 2: Highly Expressive Portrait Animation](https://byteaigc.github.io/X-Portrait2/) 
+- **HelloMeme: Integrating Spatial Knitting Attentions to Embed High-Level 
   and Fidelity-Rich Conditions in Diffusion Models**, `arXiv, 2410.22901`, [arxiv](http://arxiv.org/abs/2410.22901v1), [pdf](http://arxiv.org/pdf/2410.22901v1.pdf), cication: [**-1**](None) 
 
 	 *Shengkai Zhang, Nianhong Jiao, Tian Li, ..., Boya Niu, Jun Gao* · ([HelloMeme](https://github.com/HelloVision/HelloMeme) - HelloVision) ![Star](https://img.shields.io/github/stars/HelloVision/HelloMeme.svg?style=social&label=Star) · ([songkey.github](https://songkey.github.io/hellomeme/))

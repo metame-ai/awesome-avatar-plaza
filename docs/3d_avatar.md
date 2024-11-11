@@ -36,3 +36,7 @@
 
 
 ## Misc
+## 3d Avatar
+- 🌟 **URAvatar: Universal Relightable Gaussian Codec Avatars**, `arXiv, 2410.24223`, [arxiv](http://arxiv.org/abs/2410.24223v1), [pdf](http://arxiv.org/pdf/2410.24223v1.pdf), cication: [**-1**](None) 
+
+	 *Junxuan Li, Chen Cao, Gabriel Schwartz, ..., Yaser Sheikh, Shunsuke Saito* · ([junxuan-li.github](https://junxuan-li.github.io/urgca-website/))
