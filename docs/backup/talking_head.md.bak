@@ -15,6 +15,14 @@
 
 ## Talking Head
 
+- [EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation](https://arxiv.org/abs/2411.10061)
+   - [antgroup.github.io](https://antgroup.github.io/ai/echomimic_v2/)
+- [Paper page - X-Portrait: Expressive Portrait Animation with Hierarchical Motion  Attention](https://huggingface.co/papers/2403.15931)
+   - [github.com](https://github.com/bytedance/X-Portrait?tab=readme-ov-file)
+- [JoyVASA: Portrait and Animal Image Animation with Diffusion-Based Audio-Driven Facial Dynamics and Head Motion Generation](https://arxiv.org/abs/2411.09209)
+   - [github.com](https://github.com/jdh-algo/JoyVASA)
+   - [jdh-algo.github.io](https://jdh-algo.github.io/JoyVASA/)
+- [Comparative Analysis of Audio Feature Extraction for Real-Time Talking Portrait Synthesis](https://arxiv.org/abs/2411.13209)
 - [X-Portrait 2: Highly Expressive Portrait Animation](https://byteaigc.github.io/X-Portrait2/) 
 - **HelloMeme: Integrating Spatial Knitting Attentions to Embed High-Level 
   and Fidelity-Rich Conditions in Diffusion Models**, `arXiv, 2410.22901`, [arxiv](http://arxiv.org/abs/2410.22901v1), [pdf](http://arxiv.org/pdf/2410.22901v1.pdf), cication: [**-1**](None) 
@@ -31,6 +39,7 @@
 
 ## Projects
 
+- [Digital Human Intelligent Dialogue System - Linly-Talker — 'Interactive Dialogue with Your Virtual Self'](https://github.com/Kedreamix/Linly-Talker)
 
 ## Datasets
 
@@ -40,6 +49,7 @@
 
 ## Products
 
+- [Meetings are a problem of the past](https://x.com/getpickleai/status/1859284410136465671)
 - [Build immersive AI-generated video experiences in your application](https://www.tavus.io/) 
 
 ## Misc
