@@ -26,7 +26,7 @@
 
 ## Animation
 
-- **DanceFusion: A Spatio-Temporal Skeleton Diffusion Transformer for
+- **DanceFusion: A Spatio-Temporal Skeleton Diffusion Transformer for 
   Audio-Driven Dance Motion Reconstruction**, `arXiv, 2411.04646`, [arxiv](http://arxiv.org/abs/2411.04646v1), [pdf](http://arxiv.org/pdf/2411.04646v1.pdf), cication: [**-1**](None) 
 
 	 *Li Zhao, Zhengmin Lu* · ([th-mlab.github](https://th-mlab.github.io/DanceFusion/))
