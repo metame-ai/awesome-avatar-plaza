@@ -19,8 +19,10 @@
 
 ## Body Avatar
 
-- [Paper page - Make-It-Animatable: An Efficient Framework for Authoring Animation-Ready  3D Characters](https://huggingface.co/papers/2411.18197)
-   - [jasongzy.github.io](https://jasongzy.github.io/Make-It-Animatable/)
+- **Make-It-Animatable: An Efficient Framework for Authoring Animation-Ready
+  3D Characters**, `arXiv, 2411.18197`, [arxiv](http://arxiv.org/abs/2411.18197v1), [pdf](http://arxiv.org/pdf/2411.18197v1.pdf), cication: [**-1**](None) 
+
+	 *Zhiyang Guo, Jinxu Xiang, Kai Ma, ..., Houqiang Li, Ran Zhang* · ([jasongzy.github](https://jasongzy.github.io/Make-It-Animatable/))
 - **Stereo-Talker: Audio-driven 3D Human Synthesis with Prior-Guided 
   Mixture-of-Experts**, `arXiv, 2410.23836`, [arxiv](http://arxiv.org/abs/2410.23836v1), [pdf](http://arxiv.org/pdf/2410.23836v1.pdf), cication: [**-1**](None)
 

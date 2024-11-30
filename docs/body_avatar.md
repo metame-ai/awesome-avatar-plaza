@@ -19,7 +19,7 @@
 
 ## Body Avatar
 
-- **Make-It-Animatable: An Efficient Framework for Authoring Animation-Ready
+- **Make-It-Animatable: An Efficient Framework for Authoring Animation-Ready 
   3D Characters**, `arXiv, 2411.18197`, [arxiv](http://arxiv.org/abs/2411.18197v1), [pdf](http://arxiv.org/pdf/2411.18197v1.pdf), cication: [**-1**](None) 
 
 	 *Zhiyang Guo, Jinxu Xiang, Kai Ma, ..., Houqiang Li, Ran Zhang* · ([jasongzy.github](https://jasongzy.github.io/Make-It-Animatable/))
