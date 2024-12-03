@@ -30,6 +30,9 @@
 
 ## Animation
 
+- **Fleximo: Towards Flexible Text-to-Human Motion Video Generation**, `arXiv, 2411.19459`, [arxiv](http://arxiv.org/abs/2411.19459v1), [pdf](http://arxiv.org/pdf/2411.19459v1.pdf), cication: [**-1**](None) 
+
+	 *Yuhang Zhang, Yuan Zhou, Zeyu Liu, ..., Aidong Men, Huan Yang*
 - **DanceFusion: A Spatio-Temporal Skeleton Diffusion Transformer for 
   Audio-Driven Dance Motion Reconstruction**, `arXiv, 2411.04646`, [arxiv](http://arxiv.org/abs/2411.04646v1), [pdf](http://arxiv.org/pdf/2411.04646v1.pdf), cication: [**-1**](None) 
 

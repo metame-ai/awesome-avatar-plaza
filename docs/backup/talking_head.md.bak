@@ -15,6 +15,9 @@
 
 ## Talking Head
 
+- [Paper page - Ditto: Motion-Space Diffusion for Controllable Realtime Talking Head  Synthesis](https://huggingface.co/papers/2411.19509)
+- [Paper page - FLOAT: Generative Motion Latent Flow Matching for Audio-driven Talking  Portrait](https://huggingface.co/papers/2412.01064)
+   - [deepbrainai-research.github.io](https://deepbrainai-research.github.io/float/)
 - **EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation**, `arXiv, 2411.10061`, [arxiv](http://arxiv.org/abs/2411.10061v1), [pdf](http://arxiv.org/pdf/2411.10061v1.pdf), cication: [**-1**](None) 
 
 	 *Rang Meng, Xingyu Zhang, Yuming Li, ..., Chenguang Ma* · ([antgroup.github](https://antgroup.github.io/ai/echomimic_v2/))

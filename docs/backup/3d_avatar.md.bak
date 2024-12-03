@@ -37,6 +37,9 @@
 
 ## Misc
 ## 3d Avatar
-- 🌟 **URAvatar: Universal Relightable Gaussian Codec Avatars**, `arXiv, 2410.24223`, [arxiv](http://arxiv.org/abs/2410.24223v1), [pdf](http://arxiv.org/pdf/2410.24223v1.pdf), cication: [**-1**](None) 
+
+- [GaussianSpeech: Audio-Driven Gaussian Avatars](https://arxiv.org/abs/2411.18675)
+   - [shivangi-aneja.github.io](https://shivangi-aneja.github.io/projects/gaussianspeech)
+   - [youtu.be](https://youtu.be/2VqYoFlYcwQ)- 🌟 **URAvatar: Universal Relightable Gaussian Codec Avatars**, `arXiv, 2410.24223`, [arxiv](http://arxiv.org/abs/2410.24223v1), [pdf](http://arxiv.org/pdf/2410.24223v1.pdf), cication: [**-1**](None) 
 
 	 *Junxuan Li, Chen Cao, Gabriel Schwartz, ..., Yaser Sheikh, Shunsuke Saito* · ([junxuan-li.github](https://junxuan-li.github.io/urgca-website/))
