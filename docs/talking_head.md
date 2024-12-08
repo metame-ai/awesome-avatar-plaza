@@ -15,11 +15,19 @@
 
 ## Talking Head
 
-- **Ditto: Motion-Space Diffusion for Controllable Realtime Talking Head
+- **Hallo3: Highly Dynamic and Realistic Portrait Image Animation with
+  Diffusion Transformer Networks**, `arXiv, 2412.00733`, [arxiv](http://arxiv.org/abs/2412.00733v2), [pdf](http://arxiv.org/pdf/2412.00733v2.pdf), cication: [**-1**](None) 
+
+	 *Jiahao Cui, Hui Li, Yun Zhan, ..., Jingdong Wang, Siyu Zhu* · ([hallo3](https://github.com/fudan-generative-vision/hallo3) - fudan-generative-vision) ![Star](https://img.shields.io/github/stars/fudan-generative-vision/hallo3.svg?style=social&label=Star)
+- [ShowMaker: Creating High-Fidelity 2D Human Video via Fine-Grained Diffusion Modeling](https://openreview.net/forum?id=lpxdG0hk4H) 
+- **Ditto: Motion-Space Diffusion for Controllable Realtime Talking Head 
   Synthesis**, `arXiv, 2411.19509`, [arxiv](http://arxiv.org/abs/2411.19509v1), [pdf](http://arxiv.org/pdf/2411.19509v1.pdf), cication: [**-1**](None) 
 
 	 *Tianqi Li, Ruobing Zheng, Minghui Yang, ..., Jingdong Chen, Ming Yang*
-- [Paper page - FLOAT: Generative Motion Latent Flow Matching for Audio-driven Talking  Portrait](https://huggingface.co/papers/2412.01064)
+- **FLOAT: Generative Motion Latent Flow Matching for Audio-driven Talking
+  Portrait**, `arXiv, 2412.01064`, [arxiv](http://arxiv.org/abs/2412.01064v2), [pdf](http://arxiv.org/pdf/2412.01064v2.pdf), cication: [**-1**](None) 
+
+	 *Taekyung Ki, Dongchan Min, Gyeongsu Chae*
 
 	 · ([deepbrainai-research.github](https://deepbrainai-research.github.io/float/))
 - **EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation**, `arXiv, 2411.10061`, [arxiv](http://arxiv.org/abs/2411.10061v1), [pdf](http://arxiv.org/pdf/2411.10061v1.pdf), cication: [**-1**](None) 

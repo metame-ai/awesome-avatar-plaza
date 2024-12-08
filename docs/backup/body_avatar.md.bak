@@ -19,6 +19,11 @@
 
 ## Body Avatar
 
+- [Paper page - SOLAMI: Social Vision-Language-Action Modeling for Immersive Interaction  with 3D Autonomous Characters](https://huggingface.co/papers/2412.00174)
+   - [solami-ai.github.io](https://solami-ai.github.io/)
+   - [www.youtube.com](https://www.youtube.com/watch?v=P0juJl2Y4So)
+- [Paper page - One Shot, One Talk: Whole-body Talking Avatar from a Single Image](https://huggingface.co/papers/2412.01106)
+   - [ustc3dv.github.io](https://ustc3dv.github.io/OneShotOneTalk/)
 - **Make-It-Animatable: An Efficient Framework for Authoring Animation-Ready 
   3D Characters**, `arXiv, 2411.18197`, [arxiv](http://arxiv.org/abs/2411.18197v1), [pdf](http://arxiv.org/pdf/2411.18197v1.pdf), cication: [**-1**](None) 
 
@@ -30,7 +35,9 @@
 
 ## Animation
 
-- [Fleximo: Towards Flexible Text-to-Human Motion Video Generation](https://arxiv.org/abs/2411.19459)
+- **Fleximo: Towards Flexible Text-to-Human Motion Video Generation**, `arXiv, 2411.19459`, [arxiv](http://arxiv.org/abs/2411.19459v1), [pdf](http://arxiv.org/pdf/2411.19459v1.pdf), cication: [**-1**](None) 
+
+	 *Yuhang Zhang, Yuan Zhou, Zeyu Liu, ..., Aidong Men, Huan Yang*
 - **DanceFusion: A Spatio-Temporal Skeleton Diffusion Transformer for 
   Audio-Driven Dance Motion Reconstruction**, `arXiv, 2411.04646`, [arxiv](http://arxiv.org/abs/2411.04646v1), [pdf](http://arxiv.org/pdf/2411.04646v1.pdf), cication: [**-1**](None) 
 

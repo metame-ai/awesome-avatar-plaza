@@ -19,6 +19,13 @@
 
 ## Body Avatar
 
+- **SOLAMI: Social Vision-Language-Action Modeling for Immersive Interaction
+  with 3D Autonomous Characters**, `arXiv, 2412.00174`, [arxiv](http://arxiv.org/abs/2412.00174v1), [pdf](http://arxiv.org/pdf/2412.00174v1.pdf), cication: [**-1**](None) 
+
+	 *Jianping Jiang, Weiye Xiao, Zhengyu Lin, ..., Lei Yang, Ziwei Liu* · ([solami-ai.github](https://solami-ai.github.io/)) · ([youtube](https://www.youtube.com/watch?v=P0juJl2Y4So))
+- **One Shot, One Talk: Whole-body Talking Avatar from a Single Image**, `arXiv, 2412.01106`, [arxiv](http://arxiv.org/abs/2412.01106v1), [pdf](http://arxiv.org/pdf/2412.01106v1.pdf), cication: [**-1**](None) 
+
+	 *Jun Xiang, Yudong Guo, Leipeng Hu, ..., Yancheng Yuan, Juyong Zhang* · ([ustc3dv.github](https://ustc3dv.github.io/OneShotOneTalk/))
 - **Make-It-Animatable: An Efficient Framework for Authoring Animation-Ready 
   3D Characters**, `arXiv, 2411.18197`, [arxiv](http://arxiv.org/abs/2411.18197v1), [pdf](http://arxiv.org/pdf/2411.18197v1.pdf), cication: [**-1**](None) 
 
