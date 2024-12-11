@@ -19,7 +19,7 @@
 
 ## Body Avatar
 
-- **SOLAMI: Social Vision-Language-Action Modeling for Immersive Interaction
+- **SOLAMI: Social Vision-Language-Action Modeling for Immersive Interaction 
   with 3D Autonomous Characters**, `arXiv, 2412.00174`, [arxiv](http://arxiv.org/abs/2412.00174v1), [pdf](http://arxiv.org/pdf/2412.00174v1.pdf), cication: [**-1**](None) 
 
 	 *Jianping Jiang, Weiye Xiao, Zhengyu Lin, ..., Lei Yang, Ziwei Liu* · ([solami-ai.github](https://solami-ai.github.io/)) · ([youtube](https://www.youtube.com/watch?v=P0juJl2Y4So))
@@ -59,6 +59,7 @@
 
 ## Hand Modeling
 
+- [**emg2pose**](https://github.com/facebookresearch/emg2pose) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/emg2pose.svg?style=social&label=Star)
 
 ## Reconstruction
 
