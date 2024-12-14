@@ -15,11 +15,13 @@
 
 ## Talking Head
 
-- [Paper page - MEMO: Memory-Guided Diffusion for Expressive Talking Video Generation](https://huggingface.co/papers/2412.04448)
-   - [memoavatar.github.io](https://memoavatar.github.io)
-- [INFP: Audio-Driven Interactive Head Generation in Dyadic Conversations](https://arxiv.org/abs/2412.04037)
-   - [grisoon.github.io](https://grisoon.github.io/INFP/)
-- **Hallo3: Highly Dynamic and Realistic Portrait Image Animation with
+- **MEMO: Memory-Guided Diffusion for Expressive Talking Video Generation**, `arXiv, 2412.04448`, [arxiv](http://arxiv.org/abs/2412.04448v1), [pdf](http://arxiv.org/pdf/2412.04448v1.pdf), cication: [**-1**](None) 
+
+	 *Longtao Zheng, Yifan Zhang, Hanzhong Guo, ..., Bo An, Shuicheng Yan* · ([memoavatar.github](https://memoavatar.github.io))
+- **INFP: Audio-Driven Interactive Head Generation in Dyadic Conversations**, `arXiv, 2412.04037`, [arxiv](http://arxiv.org/abs/2412.04037v1), [pdf](http://arxiv.org/pdf/2412.04037v1.pdf), cication: [**-1**](None) 
+
+	 *Yongming Zhu, Longhao Zhang, Zhengkun Rong, ..., Shuang Liang, Zhipeng Ge* · ([grisoon.github](https://grisoon.github.io/INFP/))
+- **Hallo3: Highly Dynamic and Realistic Portrait Image Animation with 
   Diffusion Transformer Networks**, `arXiv, 2412.00733`, [arxiv](http://arxiv.org/abs/2412.00733v2), [pdf](http://arxiv.org/pdf/2412.00733v2.pdf), cication: [**-1**](None) 
 
 	 *Jiahao Cui, Hui Li, Yun Zhan, ..., Jingdong Wang, Siyu Zhu* · ([hallo3](https://github.com/fudan-generative-vision/hallo3) - fudan-generative-vision) ![Star](https://img.shields.io/github/stars/fudan-generative-vision/hallo3.svg?style=social&label=Star)
@@ -28,7 +30,7 @@
   Synthesis**, `arXiv, 2411.19509`, [arxiv](http://arxiv.org/abs/2411.19509v1), [pdf](http://arxiv.org/pdf/2411.19509v1.pdf), cication: [**-1**](None) 
 
 	 *Tianqi Li, Ruobing Zheng, Minghui Yang, ..., Jingdong Chen, Ming Yang*
-- **FLOAT: Generative Motion Latent Flow Matching for Audio-driven Talking
+- **FLOAT: Generative Motion Latent Flow Matching for Audio-driven Talking 
   Portrait**, `arXiv, 2412.01064`, [arxiv](http://arxiv.org/abs/2412.01064v2), [pdf](http://arxiv.org/pdf/2412.01064v2.pdf), cication: [**-1**](None) 
 
 	 *Taekyung Ki, Dongchan Min, Gyeongsu Chae*
