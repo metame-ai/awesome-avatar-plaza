@@ -59,7 +59,7 @@
 
 ## Hand Modeling
 
-- [**emg2pose**](https://github.com/facebookresearch/emg2pose) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/emg2pose.svg?style=social&label=Star)
+- [**emg2pose**](https://github.com/facebookresearch/emg2pose) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/emg2pose.svg?style=social&label=Star) 
 
 ## Reconstruction
 

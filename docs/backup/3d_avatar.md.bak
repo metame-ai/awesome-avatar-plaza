@@ -25,7 +25,7 @@
 
 ## Projects
 
-- [**MGA**](https://github.com/ChenVoid/MGA) - ChenVoid ![Star](https://img.shields.io/github/stars/ChenVoid/MGA.svg?style=social&label=Star)
+- [**MGA**](https://github.com/ChenVoid/MGA) - ChenVoid ![Star](https://img.shields.io/github/stars/ChenVoid/MGA.svg?style=social&label=Star) 
 
 	 *Realistically and Geometrically Accurate Head Avatar via Mixed 2D-3D Gaussians*
 
