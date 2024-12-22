@@ -15,6 +15,14 @@
 
 ## Talking Head
 
+- **VividFace: A Diffusion-Based Hybrid Framework for High-Fidelity Video
+  Face Swapping**, `arXiv, 2412.11279`, [arxiv](http://arxiv.org/abs/2412.11279v1), [pdf](http://arxiv.org/pdf/2412.11279v1.pdf), cication: [**-1**](None) 
+
+	 *Hao Shao, Shulun Wang, Yang Zhou, ..., Yu Liu, Hongsheng Li*
+- **VQTalker: Towards Multilingual Talking Avatars through Facial Motion
+  Tokenization**, `arXiv, 2412.09892`, [arxiv](http://arxiv.org/abs/2412.09892v2), [pdf](http://arxiv.org/pdf/2412.09892v2.pdf), cication: [**-1**](None) 
+
+	 *Tao Liu, Ziyang Ma, Qi Chen, ..., Xie Chen, Kai Yu* · ([x-lance.github](https://x-lance.github.io/VQTalker))
 - **MEMO: Memory-Guided Diffusion for Expressive Talking Video Generation**, `arXiv, 2412.04448`, [arxiv](http://arxiv.org/abs/2412.04448v1), [pdf](http://arxiv.org/pdf/2412.04448v1.pdf), cication: [**-1**](None) 
 
 	 *Longtao Zheng, Yifan Zhang, Hanzhong Guo, ..., Bo An, Shuicheng Yan* · ([memoavatar.github](https://memoavatar.github.io))

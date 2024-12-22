@@ -66,6 +66,9 @@
 
 ## Projects
 
+- [**EasyVolcap**](https://github.com/zju3dv/EasyVolcap) - zju3dv ![Star](https://img.shields.io/github/stars/zju3dv/EasyVolcap.svg?style=social&label=Star)
+
+	 *Accelerating Neural Volumetric Video Research*
 
 ## Datasets
 
