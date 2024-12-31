@@ -41,8 +41,9 @@
 ## Misc
 ## 3d Avatar
 
-- [FaceLift: Single Image to 3D Head with View Generation and GS-LRM](https://arxiv.org/abs/2412.17812)
-   - [weijielyu.github.io](https://weijielyu.github.io/FaceLift)
+- **FaceLift: Single Image to 3D Head with View Generation and GS-LRM**, `arXiv, 2412.17812`, [arxiv](http://arxiv.org/abs/2412.17812v1), [pdf](http://arxiv.org/pdf/2412.17812v1.pdf), cication: [**-1**](None) 
+
+	 *Weijie Lyu, Yi Zhou, Ming-Hsuan Yang, ..., Zhixin Shu* · ([weijielyu.github](https://weijielyu.github.io/FaceLift))
 - **GaussianSpeech: Audio-Driven Gaussian Avatars**, `arXiv, 2411.18675`, [arxiv](http://arxiv.org/abs/2411.18675v1), [pdf](http://arxiv.org/pdf/2411.18675v1.pdf), cication: [**-1**](None) 
 
 	 *Shivangi Aneja, Artem Sevastopolsky, Tobias Kirschstein, ..., Angela Dai, Matthias Nießner* · ([shivangi-aneja.github](https://shivangi-aneja.github.io/projects/gaussianspeech)) · ([youtu](https://youtu.be/2VqYoFlYcwQ)- 🌟 **URAvatar: Universal Relightable Gaussian Codec Avatars**, `arXiv, 2410.24223`, [arxiv](http://arxiv.org/abs/2410.24223v1), [pdf](http://arxiv.org/pdf/2410.24223v1.pdf), cication: [**-1**](None))

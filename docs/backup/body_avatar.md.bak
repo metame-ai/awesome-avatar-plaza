@@ -19,7 +19,9 @@
 
 ## Body Avatar
 
-- [SqueezeMe: Efficient Gaussian Avatars for VR](https://arxiv.org/abs/2412.15171)
+- **SqueezeMe: Efficient Gaussian Avatars for VR**, `arXiv, 2412.15171`, [arxiv](http://arxiv.org/abs/2412.15171v2), [pdf](http://arxiv.org/pdf/2412.15171v2.pdf), cication: [**-1**](None) 
+
+	 *Shunsuke Saito, Stanislav Pidhorskyi, Igor Santesteban, ..., Emanuel Garbin, Tomas Simon*
 - **SOLAMI: Social Vision-Language-Action Modeling for Immersive Interaction 
   with 3D Autonomous Characters**, `arXiv, 2412.00174`, [arxiv](http://arxiv.org/abs/2412.00174v1), [pdf](http://arxiv.org/pdf/2412.00174v1.pdf), cication: [**-1**](None) 
 
@@ -67,7 +69,7 @@
 
 ## Projects
 
-- [**EasyVolcap**](https://github.com/zju3dv/EasyVolcap) - zju3dv ![Star](https://img.shields.io/github/stars/zju3dv/EasyVolcap.svg?style=social&label=Star)
+- [**EasyVolcap**](https://github.com/zju3dv/EasyVolcap) - zju3dv ![Star](https://img.shields.io/github/stars/zju3dv/EasyVolcap.svg?style=social&label=Star) 
 
 	 *Accelerating Neural Volumetric Video Research*
 

@@ -15,12 +15,14 @@
 
 ## Talking Head
 
-- [Real-time One-Step Diffusion-based Expressive Portrait Videos Generation](https://arxiv.org/abs/2412.13479)
-- **VividFace: A Diffusion-Based Hybrid Framework for High-Fidelity Video
+- **Real-time One-Step Diffusion-based Expressive Portrait Videos Generation**, `arXiv, 2412.13479`, [arxiv](http://arxiv.org/abs/2412.13479v1), [pdf](http://arxiv.org/pdf/2412.13479v1.pdf), cication: [**-1**](None) 
+
+	 *Hanzhong Guo, Hongwei Yi, Daquan Zhou, ..., Michael Lingelbach, Yizhou Yu*
+- **VividFace: A Diffusion-Based Hybrid Framework for High-Fidelity Video 
   Face Swapping**, `arXiv, 2412.11279`, [arxiv](http://arxiv.org/abs/2412.11279v1), [pdf](http://arxiv.org/pdf/2412.11279v1.pdf), cication: [**-1**](None) 
 
 	 *Hao Shao, Shulun Wang, Yang Zhou, ..., Yu Liu, Hongsheng Li*
-- **VQTalker: Towards Multilingual Talking Avatars through Facial Motion
+- **VQTalker: Towards Multilingual Talking Avatars through Facial Motion 
   Tokenization**, `arXiv, 2412.09892`, [arxiv](http://arxiv.org/abs/2412.09892v2), [pdf](http://arxiv.org/pdf/2412.09892v2.pdf), cication: [**-1**](None) 
 
 	 *Tao Liu, Ziyang Ma, Qi Chen, ..., Xie Chen, Kai Yu* · ([x-lance.github](https://x-lance.github.io/VQTalker))
