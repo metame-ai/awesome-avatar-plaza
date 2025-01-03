@@ -41,6 +41,8 @@
 ## Misc
 ## 3d Avatar
 
+- [Paper page - PERSE: Personalized 3D Generative Avatars from A Single Portrait](https://huggingface.co/papers/2412.21206)
+   - [hyunsoocha.github.io](https://hyunsoocha.github.io/perse/)
 - **FaceLift: Single Image to 3D Head with View Generation and GS-LRM**, `arXiv, 2412.17812`, [arxiv](http://arxiv.org/abs/2412.17812v1), [pdf](http://arxiv.org/pdf/2412.17812v1.pdf), cication: [**-1**](None) 
 
 	 *Weijie Lyu, Yi Zhou, Ming-Hsuan Yang, ..., Zhixin Shu* · ([weijielyu.github](https://weijielyu.github.io/FaceLift))
