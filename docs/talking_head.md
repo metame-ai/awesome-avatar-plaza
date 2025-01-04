@@ -78,7 +78,7 @@
 
 ## Projects
 
-- [**DEGSTalk**](https://github.com/CVI-SZU/DEGSTalk) - CVI-SZU ![Star](https://img.shields.io/github/stars/CVI-SZU/DEGSTalk.svg?style=social&label=Star)
+- [**DEGSTalk**](https://github.com/CVI-SZU/DEGSTalk) - CVI-SZU ![Star](https://img.shields.io/github/stars/CVI-SZU/DEGSTalk.svg?style=social&label=Star) 
 
 	 *Decomposed Per-Embedding Gaussian Fields for Hair-Preserving Talking Face Synthesis*
 - [**Linly-Talker**](https://github.com/Kedreamix/Linly-Talker) - Kedreamix ![Star](https://img.shields.io/github/stars/Kedreamix/Linly-Talker.svg?style=social&label=Star) 
