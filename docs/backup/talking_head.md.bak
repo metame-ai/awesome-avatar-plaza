@@ -15,6 +15,8 @@
 
 ## Talking Head
 
+- [Paper page - LatentSync: Audio Conditioned Latent Diffusion Models for Lip Sync](https://huggingface.co/papers/2412.09262)
+   - [github.com](https://github.com/bytedance/LatentSync?tab=readme-ov-file)
 - **Real-time One-Step Diffusion-based Expressive Portrait Videos Generation**, `arXiv, 2412.13479`, [arxiv](http://arxiv.org/abs/2412.13479v1), [pdf](http://arxiv.org/pdf/2412.13479v1.pdf), cication: [**-1**](None) 
 
 	 *Hanzhong Guo, Hongwei Yi, Daquan Zhou, ..., Michael Lingelbach, Yizhou Yu*
