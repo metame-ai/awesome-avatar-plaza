@@ -15,6 +15,9 @@
 
 ## Talking Head
 
+- **JoyGen: Audio-Driven 3D Depth-Aware Talking-Face Video Editing**, `arXiv, 2501.01798`, [arxiv](http://arxiv.org/abs/2501.01798v1), [pdf](http://arxiv.org/pdf/2501.01798v1.pdf), cication: [**-1**](None) 
+
+	 *Qili Wang, Dajiang Wu, Zihang Xu, ..., Junshi Huang, Jun Lv*
 - **LatentSync: Audio Conditioned Latent Diffusion Models for Lip Sync**, `arXiv, 2412.09262`, [arxiv](http://arxiv.org/abs/2412.09262v1), [pdf](http://arxiv.org/pdf/2412.09262v1.pdf), cication: [**-1**](None) 
 
 	 *Chunyu Li, Chao Zhang, Weikai Xu, ..., Bingyue Peng, Weiwei Xing* · ([LatentSync](https://github.com/bytedance/LatentSync?tab=readme-ov-file) - bytedance) ![Star](https://img.shields.io/github/stars/bytedance/LatentSync.svg?style=social&label=Star)
