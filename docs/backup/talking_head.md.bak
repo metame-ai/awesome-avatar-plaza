@@ -15,7 +15,7 @@
 
 ## Talking Head
 
-- **Hallo3: Highly Dynamic and Realistic Portrait Image Animation with
+- **Hallo3: Highly Dynamic and Realistic Portrait Image Animation with 
   Diffusion Transformer Networks**, `arXiv, 2412.00733`, [arxiv](http://arxiv.org/abs/2412.00733v3), [pdf](http://arxiv.org/pdf/2412.00733v3.pdf), cication: [**-1**](None) 
 
 	 *Jiahao Cui, Hui Li, Yun Zhan, ..., Jingdong Wang, Siyu Zhu* · ([fudan-generative-vision.github](https://fudan-generative-vision.github.io/hallo3/)) · ([𝕏](https://x.com/JoeSiyuZhu/status/1877336151431983435))
