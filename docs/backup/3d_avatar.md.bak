@@ -41,8 +41,10 @@
 ## Misc
 ## 3d Avatar
 
-- [Paper page - GaussianAvatar-Editor: Photorealistic Animatable Gaussian Head Avatar  Editor](https://huggingface.co/papers/2501.09978)
-   - [xiangyueliu.github.io](https://xiangyueliu.github.io/GaussianAvatar-Editor/)
+- **GaussianAvatar-Editor: Photorealistic Animatable Gaussian Head Avatar
+  Editor**, `arXiv, 2501.09978`, [arxiv](http://arxiv.org/abs/2501.09978v1), [pdf](http://arxiv.org/pdf/2501.09978v1.pdf), cication: [**-1**](None) 
+
+	 *Xiangyue Liu, Kunming Luo, Heng Li, ..., Li Yi, Ping Tan* · ([xiangyueliu.github](https://xiangyueliu.github.io/GaussianAvatar-Editor/))
 - **PERSE: Personalized 3D Generative Avatars from A Single Portrait**, `arXiv, 2412.21206`, [arxiv](http://arxiv.org/abs/2412.21206v1), [pdf](http://arxiv.org/pdf/2412.21206v1.pdf), cication: [**-1**](None) 
 
 	 *Hyunsoo Cha, Inhee Lee, Hanbyul Joo* · ([hyunsoocha.github](https://hyunsoocha.github.io/perse/))
