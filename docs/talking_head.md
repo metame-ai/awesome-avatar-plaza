@@ -15,6 +15,9 @@
 
 ## Talking Head
 
+- **EMO2: End-Effector Guided Audio-Driven Avatar Video Generation**, `arXiv, 2501.10687`, [arxiv](http://arxiv.org/abs/2501.10687v1), [pdf](http://arxiv.org/pdf/2501.10687v1.pdf), cication: [**-1**](None) 
+
+	 *Linrui Tian, Siqi Hu, Qi Wang, ..., Bang Zhang, Liefeng Bo* · ([humanaigc.github](https://humanaigc.github.io/emote-portrait-alive-2/)) · ([arxiv](https://arxiv.org/abs/2501.10687))
 - **Hallo3: Highly Dynamic and Realistic Portrait Image Animation with 
   Diffusion Transformer Networks**, `arXiv, 2412.00733`, [arxiv](http://arxiv.org/abs/2412.00733v3), [pdf](http://arxiv.org/pdf/2412.00733v3.pdf), cication: [**-1**](None) 
 

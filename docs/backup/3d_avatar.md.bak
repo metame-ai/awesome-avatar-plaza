@@ -41,7 +41,7 @@
 ## Misc
 ## 3d Avatar
 
-- **GaussianAvatar-Editor: Photorealistic Animatable Gaussian Head Avatar
+- **GaussianAvatar-Editor: Photorealistic Animatable Gaussian Head Avatar 
   Editor**, `arXiv, 2501.09978`, [arxiv](http://arxiv.org/abs/2501.09978v1), [pdf](http://arxiv.org/pdf/2501.09978v1.pdf), cication: [**-1**](None) 
 
 	 *Xiangyue Liu, Kunming Luo, Heng Li, ..., Li Yi, Ping Tan* · ([xiangyueliu.github](https://xiangyueliu.github.io/GaussianAvatar-Editor/))

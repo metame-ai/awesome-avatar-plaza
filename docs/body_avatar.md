@@ -19,6 +19,9 @@
 
 ## Body Avatar
 
+- **Relightable Full-Body Gaussian Codec Avatars**, `arXiv, 2501.14726`, [arxiv](http://arxiv.org/abs/2501.14726v1), [pdf](http://arxiv.org/pdf/2501.14726v1.pdf), cication: [**-1**](None) 
+
+	 *Shaofei Wang, Tomas Simon, Igor Santesteban, ..., Siyu Tang, Shunsuke Saito* · ([neuralbodies.github](https://neuralbodies.github.io/RFGCA/))
 - **SqueezeMe: Efficient Gaussian Avatars for VR**, `arXiv, 2412.15171`, [arxiv](http://arxiv.org/abs/2412.15171v2), [pdf](http://arxiv.org/pdf/2412.15171v2.pdf), cication: [**-1**](None) 
 
 	 *Shunsuke Saito, Stanislav Pidhorskyi, Igor Santesteban, ..., Emanuel Garbin, Tomas Simon*
