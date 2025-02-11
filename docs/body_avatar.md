@@ -19,6 +19,7 @@
 
 ## Body Avatar
 
+- [generate incredibly realistic human videos from just a single image and a motion signal—like audio or video.](https://omnihuman-1.com/) 
 - **Relightable Full-Body Gaussian Codec Avatars**, `arXiv, 2501.14726`, [arxiv](http://arxiv.org/abs/2501.14726v1), [pdf](http://arxiv.org/pdf/2501.14726v1.pdf), cication: [**-1**](None) 
 
 	 *Shaofei Wang, Tomas Simon, Igor Santesteban, ..., Siyu Tang, Shunsuke Saito* · ([neuralbodies.github](https://neuralbodies.github.io/RFGCA/))
