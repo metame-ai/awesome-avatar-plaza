@@ -19,6 +19,9 @@
 
 ## Body Avatar
 
+- **Auditing Prompt Caching in Language Model APIs**, `arXiv, 2502.07776`, [arxiv](http://arxiv.org/abs/2502.07776v1), [pdf](http://arxiv.org/pdf/2502.07776v1.pdf), cication: [**-1**](None) 
+
+	 *Chenchen Gu, Xiang Lisa Li, Rohith Kuditipudi, ..., Percy Liang, Tatsunori Hashimoto* · ([pippo](https://github.com/facebookresearch/pippo) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/pippo.svg?style=social&label=Star)
 - [generate incredibly realistic human videos from just a single image and a motion signal—like audio or video.](https://omnihuman-1.com/) 
 - **Relightable Full-Body Gaussian Codec Avatars**, `arXiv, 2501.14726`, [arxiv](http://arxiv.org/abs/2501.14726v1), [pdf](http://arxiv.org/pdf/2501.14726v1.pdf), cication: [**-1**](None) 
 
