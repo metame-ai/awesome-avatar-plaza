@@ -15,8 +15,9 @@
 
 ## Talking Head
 
-- [Paper page - GHOST 2.0: generative high-fidelity one shot transfer of heads](https://huggingface.co/papers/2502.18417)|star|
-   - [github.com](https://github.com/ai-forever/ghost-2.0)
+- 🌟 **GHOST 2.0: generative high-fidelity one shot transfer of heads**, `arXiv, 2502.18417`, [arxiv](http://arxiv.org/abs/2502.18417v3), [pdf](http://arxiv.org/pdf/2502.18417v3.pdf), cication: [**-1**](None) 
+
+	 *Alexander Groshev, Anastasiia Iashchenko, Pavel Paramonov, ..., Denis Dimitrov, Andrey Kuznetsov* · ([ghost-2.0](https://github.com/ai-forever/ghost-2.0) - ai-forever) ![Star](https://img.shields.io/github/stars/ai-forever/ghost-2.0.svg?style=social&label=Star)
 - [generate incredibly realistic human videos from just a single image and a motion signal—like audio or video.](https://omnihuman-1.com/) 
 - **EMO2: End-Effector Guided Audio-Driven Avatar Video Generation**, `arXiv, 2501.10687`, [arxiv](http://arxiv.org/abs/2501.10687v1), [pdf](http://arxiv.org/pdf/2501.10687v1.pdf), cication: [**-1**](None) 
 
