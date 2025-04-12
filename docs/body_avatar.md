@@ -19,6 +19,7 @@
 
 ## Body Avatar
 
+- [DreamActor-M1: Holistic, Expressive and Robust Human Image Animation with Hybrid Guidance](https://grisoon.github.io/DreamActor-M1/) 
 - **Auditing Prompt Caching in Language Model APIs**, `arXiv, 2502.07776`, [arxiv](http://arxiv.org/abs/2502.07776v1), [pdf](http://arxiv.org/pdf/2502.07776v1.pdf), cication: [**-1**](None) 
 
 	 *Chenchen Gu, Xiang Lisa Li, Rohith Kuditipudi, ..., Percy Liang, Tatsunori Hashimoto* · ([pippo](https://github.com/facebookresearch/pippo) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/pippo.svg?style=social&label=Star)
