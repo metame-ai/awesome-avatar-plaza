@@ -41,6 +41,10 @@
 ## Misc
 ## 3d Avatar
 
+- **Perceptually Accurate 3D Talking Head Generation: New Definitions,
+  Speech-Mesh Representation, and Evaluation Metrics**, `arXiv, 2503.20308`, [arxiv](http://arxiv.org/abs/2503.20308v3), [pdf](http://arxiv.org/pdf/2503.20308v3.pdf), cication: [**-1**](None) 
+
+	 *Lee Chae-Yeon, Oh Hyun-Bin, Han EunGi, ..., Suekyeong Nam, Tae-Hyun Oh* · ([perceptual-3d-talking-head.github](https://perceptual-3d-talking-head.github.io/))
 - **GaussianAvatar-Editor: Photorealistic Animatable Gaussian Head Avatar 
   Editor**, `arXiv, 2501.09978`, [arxiv](http://arxiv.org/abs/2501.09978v1), [pdf](http://arxiv.org/pdf/2501.09978v1.pdf), cication: [**-1**](None) 
 

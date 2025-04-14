@@ -41,6 +41,8 @@
 ## Misc
 ## 3d Avatar
 
+- [Paper page - Perceptually Accurate 3D Talking Head Generation: New Definitions,  Speech-Mesh Representation, and Evaluation Metrics](https://huggingface.co/papers/2503.20308)
+   - [perceptual-3d-talking-head.github.io](https://perceptual-3d-talking-head.github.io/)
 - **GaussianAvatar-Editor: Photorealistic Animatable Gaussian Head Avatar 
   Editor**, `arXiv, 2501.09978`, [arxiv](http://arxiv.org/abs/2501.09978v1), [pdf](http://arxiv.org/pdf/2501.09978v1.pdf), cication: [**-1**](None) 
 
