@@ -15,18 +15,18 @@
 
 ## Talking Head
 
-- **ChatAnyone: Stylized Real-time Portrait Video Generation with
+- **ChatAnyone: Stylized Real-time Portrait Video Generation with 
   Hierarchical Motion Diffusion Model**, `arXiv, 2503.21144`, [arxiv](http://arxiv.org/abs/2503.21144v1), [pdf](http://arxiv.org/pdf/2503.21144v1.pdf), cication: [**-1**](None) 
 
 	 *Jinwei Qi, Chaonan Ji, Sheng Xu, ..., Bang Zhang, Liefeng Bo*
 - **MoCha: Towards Movie-Grade Talking Character Synthesis**, `arXiv, 2503.23307`, [arxiv](http://arxiv.org/abs/2503.23307v1), [pdf](http://arxiv.org/pdf/2503.23307v1.pdf), cication: [**-1**](None) 
 
 	 *Cong Wei, Bo Sun, Haoyu Ma, ..., Peter Vajda, Wenhu Chen* · ([𝕏](https://x.com/CongWei1230/status/1906877381899415945)) · ([congwei1230.github](https://congwei1230.github.io/MoCha/))
-- **Audio-visual Controlled Video Diffusion with Masked Selective State
+- **Audio-visual Controlled Video Diffusion with Masked Selective State 
   Spaces Modeling for Natural Talking Head Generation**, `arXiv, 2504.02542`, [arxiv](http://arxiv.org/abs/2504.02542v3), [pdf](http://arxiv.org/pdf/2504.02542v3.pdf), cication: [**-1**](None) 
 
 	 *Fa-Ting Hong, Zunnan Xu, Zixiang Zhou, ..., Qinglin Lu, Dan Xu*
-- **FantasyTalking: Realistic Talking Portrait Generation via Coherent
+- **FantasyTalking: Realistic Talking Portrait Generation via Coherent 
   Motion Synthesis**, `arXiv, 2504.04842`, [arxiv](http://arxiv.org/abs/2504.04842v1), [pdf](http://arxiv.org/pdf/2504.04842v1.pdf), cication: [**-1**](None) 
 
 	 *Mengchao Wang, Qiang Wang, Fan Jiang, ..., Kun Zhao, Mu Xu*

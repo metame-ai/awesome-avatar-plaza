@@ -19,7 +19,7 @@
 
 ## Body Avatar
 
-- **DreamActor-M1: Holistic, Expressive and Robust Human Image Animation
+- **DreamActor-M1: Holistic, Expressive and Robust Human Image Animation 
   with Hybrid Guidance**, `arXiv, 2504.01724`, [arxiv](http://arxiv.org/abs/2504.01724v2), [pdf](http://arxiv.org/pdf/2504.01724v2.pdf), cication: [**-1**](None) 
 
 	 *Yuxuan Luo, Zhengkun Rong, Lizhen Wang, ..., Tianshu Hu, Yongming Zhu* · ([grisoon.github](https://grisoon.github.io/DreamActor-M1/.))
