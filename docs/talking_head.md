@@ -110,7 +110,7 @@
 
 ## Projects
 
-- [**HeyGem.ai**](https://github.com/GuijiAI/HeyGem.ai) - GuijiAI ![Star](https://img.shields.io/github/stars/GuijiAI/HeyGem.ai.svg?style=social&label=Star)
+- [**HeyGem.ai**](https://github.com/GuijiAI/HeyGem.ai) - GuijiAI ![Star](https://img.shields.io/github/stars/GuijiAI/HeyGem.ai.svg?style=social&label=Star) 
 - [**DEGSTalk**](https://github.com/CVI-SZU/DEGSTalk) - CVI-SZU ![Star](https://img.shields.io/github/stars/CVI-SZU/DEGSTalk.svg?style=social&label=Star) 
 
 	 *Decomposed Per-Embedding Gaussian Fields for Hair-Preserving Talking Face Synthesis*
