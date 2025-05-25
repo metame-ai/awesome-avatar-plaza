@@ -15,6 +15,10 @@
 
 ## Talking Head
 
+- **KeySync: A Robust Approach for Leakage-free Lip Synchronization in High
+  Resolution**, `arXiv, 2505.00497`, [arxiv](http://arxiv.org/abs/2505.00497v1), [pdf](http://arxiv.org/pdf/2505.00497v1.pdf), cication: [**-1**](None) 
+
+	 *Antoni Bigata, Rodrigo Mira, Stella Bounareli, ..., Stavros Petridis, Maja Pantic*
 - **ChatAnyone: Stylized Real-time Portrait Video Generation with 
   Hierarchical Motion Diffusion Model**, `arXiv, 2503.21144`, [arxiv](http://arxiv.org/abs/2503.21144v1), [pdf](http://arxiv.org/pdf/2503.21144v1.pdf), cication: [**-1**](None) 
 
