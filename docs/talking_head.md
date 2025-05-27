@@ -15,7 +15,7 @@
 
 ## Talking Head
 
-- **KeySync: A Robust Approach for Leakage-free Lip Synchronization in High
+- **KeySync: A Robust Approach for Leakage-free Lip Synchronization in High 
   Resolution**, `arXiv, 2505.00497`, [arxiv](http://arxiv.org/abs/2505.00497v1), [pdf](http://arxiv.org/pdf/2505.00497v1.pdf), cication: [**-1**](None) 
 
 	 *Antoni Bigata, Rodrigo Mira, Stella Bounareli, ..., Stavros Petridis, Maja Pantic*
