@@ -15,7 +15,7 @@
 
 ## Talking Head
 
-- **HunyuanVideo-Avatar: High-Fidelity Audio-Driven Human Animation for
+- **HunyuanVideo-Avatar: High-Fidelity Audio-Driven Human Animation for 
   Multiple Characters**, `arXiv, 2505.20156`, [arxiv](http://arxiv.org/abs/2505.20156v1), [pdf](http://arxiv.org/pdf/2505.20156v1.pdf), cication: [**-1**](None) 
 
 	 *Yi Chen, Sen Liang, Zixiang Zhou, ..., Yuan Zhou, Qinglin Lu*
@@ -118,7 +118,7 @@
 
 ## Projects
 
-- [**Duix.Heygem**](https://github.com/duixcom/Duix.Heygem) - duixcom ![Star](https://img.shields.io/github/stars/duixcom/Duix.Heygem.svg?style=social&label=Star)
+- [**Duix.Heygem**](https://github.com/duixcom/Duix.Heygem) - duixcom ![Star](https://img.shields.io/github/stars/duixcom/Duix.Heygem.svg?style=social&label=Star) 
 - [**HeyGem.ai**](https://github.com/GuijiAI/HeyGem.ai) - GuijiAI ![Star](https://img.shields.io/github/stars/GuijiAI/HeyGem.ai.svg?style=social&label=Star) 
 - [**DEGSTalk**](https://github.com/CVI-SZU/DEGSTalk) - CVI-SZU ![Star](https://img.shields.io/github/stars/CVI-SZU/DEGSTalk.svg?style=social&label=Star) 
 
