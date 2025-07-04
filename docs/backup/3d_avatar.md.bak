@@ -41,11 +41,9 @@
 ## Misc
 ## 3d Avatar
 
-- [Paper page - LAM: Large Avatar Model for One-shot Animatable Gaussian Head](https://huggingface.co/papers/2502.17796)
-   - [aigc3d.github.io](https://aigc3d.github.io/projects/LAM)
-   - [github.com](https://github.com/aigc3d/LAM)
-   - [huggingface.co](https://huggingface.co/spaces/3DAIGC/LAM)
-   - [www.modelscope.cn](https://www.modelscope.cn/studios/Damo_XR_Lab/LAM_Large_Avatar_Model)
+- **LAM: Large Avatar Model for One-shot Animatable Gaussian Head**, `arXiv, 2502.17796`, [arxiv](http://arxiv.org/abs/2502.17796v2), [pdf](http://arxiv.org/pdf/2502.17796v2.pdf), cication: [**-1**](None) 
+
+	 *Yisheng He, Xiaodong Gu, Xiaodan Ye, ..., Zilong Dong, Liefeng Bo* · ([aigc3d.github](https://aigc3d.github.io/projects/LAM)) · ([LAM](https://github.com/aigc3d/LAM) - aigc3d) ![Star](https://img.shields.io/github/stars/aigc3d/LAM.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/spaces/3DAIGC/LAM)) · ([modelscope](https://www.modelscope.cn/studios/Damo_XR_Lab/LAM_Large_Avatar_Model))
 - **Perceptually Accurate 3D Talking Head Generation: New Definitions, 
   Speech-Mesh Representation, and Evaluation Metrics**, `arXiv, 2503.20308`, [arxiv](http://arxiv.org/abs/2503.20308v3), [pdf](http://arxiv.org/pdf/2503.20308v3.pdf), cication: [**-1**](None) 
 

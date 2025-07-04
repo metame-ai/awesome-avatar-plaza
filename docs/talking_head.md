@@ -15,7 +15,7 @@
 
 ## Talking Head
 
-- **TalkingMachines: Real-Time Audio-Driven FaceTime-Style Video via
+- **TalkingMachines: Real-Time Audio-Driven FaceTime-Style Video via 
   Autoregressive Diffusion Models**, `arXiv, 2506.03099`, [arxiv](http://arxiv.org/abs/2506.03099v1), [pdf](http://arxiv.org/pdf/2506.03099v1.pdf), cication: [**-1**](None) 
 
 	 *Chetwin Low, Weimin Wang* · ([aaxwaz.github](https://aaxwaz.github.io/TalkingMachines/))
