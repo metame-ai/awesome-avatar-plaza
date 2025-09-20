@@ -15,6 +15,8 @@
 
 ## Talking Head
 
+- [Paper page - MIDAS: Multimodal Interactive Digital-human Synthesis via Real-time  Autoregressive Video Generation](https://huggingface.co/papers/2508.19320)
+- [Paper page - TalkVid: A Large-Scale Diversified Dataset for Audio-Driven Talking Head  Synthesis](https://huggingface.co/papers/2508.13618)
 - [SyncTalk++: High-Fidelity and Efficient Synchronized Talking Heads Synthesis Using Gaussian Splatting](https://ziqiaopeng.github.io/synctalk++/) 
 - **TalkingMachines: Real-Time Audio-Driven FaceTime-Style Video via 
   Autoregressive Diffusion Models**, `arXiv, 2506.03099`, [arxiv](http://arxiv.org/abs/2506.03099v1), [pdf](http://arxiv.org/pdf/2506.03099v1.pdf), cication: [**-1**](None) 
