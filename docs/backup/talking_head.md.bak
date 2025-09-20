@@ -15,11 +15,11 @@
 
 ## Talking Head
 
-- **MIDAS: Multimodal Interactive Digital-humAn Synthesis via Real-time
+- **MIDAS: Multimodal Interactive Digital-humAn Synthesis via Real-time 
   Autoregressive Video Generation**, `arXiv, 2508.19320`, [arxiv](http://arxiv.org/abs/2508.19320v2), [pdf](http://arxiv.org/pdf/2508.19320v2.pdf), cication: [**-1**](None) 
 
 	 *Ming Chen, Liyuan Cui, Wenyuan Zhang, ..., Xiaoqiang Liu, Pengfei Wan*
-- **TalkVid: A Large-Scale Diversified Dataset for Audio-Driven Talking Head
+- **TalkVid: A Large-Scale Diversified Dataset for Audio-Driven Talking Head 
   Synthesis**, `arXiv, 2508.13618`, [arxiv](http://arxiv.org/abs/2508.13618v1), [pdf](http://arxiv.org/pdf/2508.13618v1.pdf), cication: [**-1**](None) 
 
 	 *Shunian Chen, Hejin Huang, Yexin Liu, ..., Harry Yang, Benyou Wang*
